@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sherif VPN | IZIN Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        :root { --primary-color: #0d6efd; --bg-color: #f8f9fa; }
+        body { background-color: var(--bg-color); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        .navbar { background: linear-gradient(135deg, #0d6efd 0%, #6610f2 100%); color: white; margin-bottom: 30px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .card { border: none; border-radius: 15px; box-shadow: 0 10px 20px rgba(0,0,0,0.05); transition: transform 0.2s; }
+        .btn-primary { border-radius: 10px; padding: 10px 25px; background: linear-gradient(135deg, #0d6efd 0%, #0b5ed7 100%); border: none; }
+        .table thead { background-color: #f1f3f5; }
+        .status-badge { padding: 5px 12px; border-radius: 20px; font-size: 0.85rem; font-weight: 600; }
+        .status-active { background-color: #d1e7dd; color: #0f5132; }
+        .status-expired { background-color: #f8d7da; color: #842029; }
+        .search-container { position: relative; }
+        .search-container i { position: absolute; left: 15px; top: 12px; color: #6c757d; }
+        .search-container input { padding-left: 45px; border-radius: 10px; }
+    </style>
+</head>
+<body>
+    <nav class="navbar navbar-dark py-3">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="#"><i class="fas fa-shield-halved me-2"></i> SHERIF VPN | IZIN SYSTEM</a>
+            <div class="d-flex align-items-center text-white">
+                <i class="fas fa-user-circle fa-lg me-2"></i>
+                <span class="fw-medium">Admin Dashboard</span>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container mb-5">
+        <div class="row g-4">
+            <!-- Add Form -->
+            <div class="col-lg-4">
+                <div class="card p-4">
+                    <h5 class="fw-bold mb-4 text-primary"><i class="fas fa-plus-circle me-2"></i> Add Authorized IP</h5>
+                    <form action="/api/add" method="POST">
+                        <div class="mb-3">
+                            <label class="form-label small fw-bold">IP ADDRESS</label>
+                            <input type="text" name="ip" class="form-control" placeholder="0.0.0.0" required>
+                        </div>
+                        <div class="mb-3">
+                            <label class="form-label small fw-bold">USERNAME</label>
+                            <input type="text" name="username" class="form-control" placeholder="Customer Name" required>
+                        </div>
+                        <div class="mb-4">
+                            <label class="form-label small fw-bold">EXPIRATION DATE</label>
+                            <input type="date" name="expired" class="form-control" required>
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100 fw-bold">
+                            <i class="fas fa-save me-2"></i> AUTHORIZE IP
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Table List -->
+            <div class="col-lg-8">
+                <div class="card p-4">
+                    <div class="d-flex justify-content-between align-items-center mb-4">
+                        <h5 class="fw-bold m-0 text-primary"><i class="fas fa-list-check me-2"></i> Authorization List</h5>
+                        <div class="search-container">
+                            <i class="fas fa-search"></i>
+                            <input type="text" id="searchInput" class="form-control shadow-sm" placeholder="Search by IP or Username...">
+                        </div>
+                    </div>
+                    
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle">
+                            <thead>
+                                <tr>
+                                    <th class="small fw-bold">IP ADDRESS</th>
+                                    <th class="small fw-bold">USERNAME</th>
+                                    <th class="small fw-bold">EXPIRATION</th>
+                                    <th class="small fw-bold">STATUS</th>
+                                    <th class="small fw-bold text-end">ACTION</th>
+                                </tr>
+                            </thead>
+                            <tbody id="ip-list">
+                                <!-- Data injected here -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+
+                <!-- Download Links -->
+                <div class="card p-4 mt-4">
+                    <h5 class="fw-bold mb-3 text-primary"><i class="fas fa-download me-2"></i> Client Installation Links</h5>
+                    <div class="alert alert-info py-2 small">
+                        Use these commands to install/update on client servers:
+                    </div>
+                    <div class="bg-light p-3 rounded border">
+                        <code class="d-block mb-2"># Main Installation Script (Xray/VPN)</code>
+                        <code class="text-dark small">wget http://68.183.234.77:8888/scripts/install.sh && bash install.sh</code>
+                        <hr>
+                        <code class="d-block mb-2"># Permission Check Only</code>
+                        <code class="text-dark small">wget http://68.183.234.77:8888/scripts/fix-izin.sh && bash fix-izin.sh</code>
+                        <hr>
+                        <code class="d-block mb-2"># Update Script</code>
+                        <code class="text-dark small">wget http://68.183.234.77:8888/scripts/update.sh && bash update.sh</code>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        const tbody = document.getElementById('ip-list');
+        const searchInput = document.getElementById('searchInput');
+        let allData = [];
+
+        function renderData(data) {
+            tbody.innerHTML = '';
+            data.forEach(item => {
+                const isExpired = new Date(item.expired) < new Date();
+                const tr = document.createElement('tr');
+                tr.innerHTML = `
+                    <td class="fw-medium">${item.ip}</td>
+                    <td>${item.username}</td>
+                    <td>${item.expired}</td>
+                    <td>
+                        <span class="status-badge ${isExpired ? 'status-expired' : 'status-active'}">
+                            ${isExpired ? 'Expired' : 'Active'}
+                        </span>
+                    </td>
+                    <td class="text-end">
+                        <form action="/api/delete" method="POST" class="d-inline" onsubmit="return confirm('Remove authorization for ${item.ip}?')">
+                            <input type="hidden" name="ip" value="${item.ip}">
+                            <button type="submit" class="btn btn-sm btn-outline-danger border-0">
+                                <i class="fas fa-trash-can"></i>
+                            </button>
+                        </form>
+                    </td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        fetch('/api/list')
+            .then(res => res.json())
+            .then(data => {
+                allData = data;
+                renderData(data);
+            });
+
+        searchInput.addEventListener('input', (e) => {
+            const term = e.target.value.toLowerCase();
+            const filtered = allData.filter(item => 
+                item.ip.toLowerCase().includes(term) || 
+                item.username.toLowerCase().includes(term)
+            );
+            renderData(filtered);
+        });
+    </script>
+</body>
+</html>
