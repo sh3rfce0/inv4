@@ -19,6 +19,7 @@
         .search-container { position: relative; }
         .search-container i { position: absolute; left: 15px; top: 12px; color: #6c757d; }
         .search-container input { padding-left: 45px; border-radius: 10px; }
+        .log-container { max-height: 300px; overflow-y: auto; background-color: #1e1e1e; color: #00ff00; font-family: 'Courier New', Courier, monospace; padding: 15px; border-radius: 10px; font-size: 0.9rem; }
     </style>
 </head>
 <body>
@@ -41,7 +42,7 @@
                     <form action="/api/add" method="POST">
                         <div class="mb-3">
                             <label class="form-label small fw-bold">IP ADDRESS</label>
-                            <input type="text" name="ip" class="form-control" placeholder="0.0.0.0" required>
+                            <input type="text" id="form-ip" name="ip" class="form-control" placeholder="0.0.0.0" required>
                         </div>
                         <div class="mb-3">
                             <label class="form-label small fw-bold">USERNAME</label>
@@ -55,6 +56,15 @@
                             <i class="fas fa-save me-2"></i> AUTHORIZE IP
                         </button>
                     </form>
+                </div>
+
+                <!-- Live Logs -->
+                <div class="card p-4 mt-4">
+                    <h5 class="fw-bold mb-3 text-primary"><i class="fas fa-history me-2"></i> Live Access Logs</h5>
+                    <div id="logs-list" class="log-container">
+                        Waiting for hits...
+                    </div>
+                    <p class="mt-2 mb-0 x-small text-muted"><i class="fas fa-info-circle me-1"></i> Logs refresh every 5 seconds.</p>
                 </div>
             </div>
 
@@ -91,17 +101,17 @@
                 <div class="card p-4 mt-4">
                     <h5 class="fw-bold mb-3 text-primary"><i class="fas fa-download me-2"></i> Client Installation Links</h5>
                     <div class="alert alert-info py-2 small">
-                        Use these commands to install/update on client servers:
+                        Use ini di client:
                     </div>
                     <div class="bg-light p-3 rounded border">
                         <code class="d-block mb-2"># Main Installation Script (Xray/VPN)</code>
-                        <code class="text-dark small">wget http://64.235.61.22:8080/scripts/install.sh && bash install.sh</code>
+                        <code class="text-dark small">wget http://64.235.61.22/scripts/install.sh && bash install.sh</code>
                         <hr>
                         <code class="d-block mb-2"># Permission Check Only</code>
-                        <code class="text-dark small">wget http://64.235.61.22:8080/scripts/fix-izin.sh && bash fix-izin.sh</code>
+                        <code class="text-dark small">wget http://64.235.61.22/scripts/fix-izin.sh && bash fix-izin.sh</code>
                         <hr>
                         <code class="d-block mb-2"># Update Script</code>
-                        <code class="text-dark small">wget http://64.235.61.22:8080/scripts/update.sh && bash update.sh</code>
+                        <code class="text-dark small">wget http://64.235.61.22/scripts/update.sh && bash update.sh</code>
                     </div>
                 </div>
             </div>
@@ -110,6 +120,7 @@
 
     <script>
         const tbody = document.getElementById('ip-list');
+        const logsDiv = document.getElementById('logs-list');
         const searchInput = document.getElementById('searchInput');
         let allData = [];
 
@@ -140,12 +151,37 @@
             });
         }
 
-        fetch('/api/list')
-            .then(res => res.json())
-            .then(data => {
-                allData = data;
-                renderData(data);
-            });
+        function refreshData() {
+            fetch('/api/list')
+                .then(res => res.json())
+                .then(data => {
+                    allData = data;
+                    renderData(data);
+                });
+            
+            fetch('/api/logs')
+                .then(res => res.json())
+                .then(logs => {
+                    logsDiv.innerHTML = logs.map(log => {
+                        const color = log.includes('DENIED') ? 'text-danger' : 'text-success';
+                        // Extract IP from log like "[timestamp] IP: 1.2.3.4 | Status: ..."
+                        const ipMatch = log.match(/IP: ([\d.]+)/);
+                        const ip = ipMatch ? ipMatch[1] : '';
+                        return `<div class="mb-1">
+                                    <span class="${color}">${log}</span>
+                                    ${log.includes('DENIED') ? `<a href="#" onclick="captureIp('${ip}')" class="ms-2 badge bg-warning text-dark text-decoration-none">Capture</a>` : ''}
+                                </div>`;
+                    }).join('') || 'Waiting for hits...';
+                });
+        }
+
+        function captureIp(ip) {
+            document.getElementById('form-ip').value = ip;
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        refreshData();
+        setInterval(refreshData, 5000);
 
         searchInput.addEventListener('input', (e) => {
             const term = e.target.value.toLowerCase();

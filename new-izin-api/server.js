@@ -6,19 +6,40 @@ const path = require('path');
 const app = express();
 const port = 8080;
 const ipFile = path.join(__dirname, 'ip');
+const logFile = path.join(__dirname, 'access.log');
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static('public'));
 app.use('/scripts', express.static('scripts'));
 
-// Ensure ip file exists
-if (!fs.existsSync(ipFile)) {
-    fs.writeFileSync(ipFile, '');
-}
+// Ensure files exist
+if (!fs.existsSync(ipFile)) fs.writeFileSync(ipFile, '');
+if (!fs.existsSync(logFile)) fs.writeFileSync(logFile, '');
 
-// GET /ip - Serve the raw IP list for scripts
+// GET /ip - Serve the raw IP list for scripts and LOG THE REQUEST
 app.get('/ip', (req, res) => {
+    const clientIp = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
+    const cleanIp = clientIp.replace(/^.*:/, ''); // Get just the IPv4 part
+    const timestamp = new Date().toLocaleString('en-GB', { timeZone: 'Asia/Jakarta' });
+    
+    // Check if IP is in the authorized list
+    const data = fs.readFileSync(ipFile, 'utf8');
+    const isAuthorized = data.includes(cleanIp);
+    const status = isAuthorized ? "ALLOWED" : "DENIED";
+
+    // Log the hit
+    const logEntry = `[${timestamp}] IP: ${cleanIp} | Status: ${status}\n`;
+    fs.appendFileSync(logFile, logEntry);
+
     res.sendFile(ipFile);
+});
+
+// GET /api/logs - Return recent logs
+app.get('/api/logs', (req, res) => {
+    if (!fs.existsSync(logFile)) return res.json([]);
+    const data = fs.readFileSync(logFile, 'utf8');
+    const lines = data.split('\n').filter(line => line.trim() !== '').reverse();
+    res.json(lines.slice(0, 50)); // Return last 50 hits
 });
 
 // GET /api/list - Return IP list as JSON for the UI
@@ -27,7 +48,6 @@ app.get('/api/list', (req, res) => {
     const lines = data.split('\n').filter(line => line.trim() !== '');
     const list = lines.map(line => {
         const parts = line.split(/\s+/);
-        // Format: ### USERNAME EXPIRED IP
         if (parts.length >= 4) {
             return { username: parts[1], expired: parts[2], ip: parts[3] };
         }
