@@ -79,7 +79,7 @@ mkdir -p /usr/bin/
 wget https://raw.githubusercontent.com/sh3rfce0/inv4/main/Cdy/speedtest -O /usr/bin/speedtest
 wget https://raw.githubusercontent.com/sh3rfce0/inv4/main/Cdy/menu.zip -O menu.zip >/dev/null 2>&1
 rm -rf /usr/bin/menu /usr/bin/welcome
-7z x -pHeyHeyMauDecryptYaAwokawokSherifSTORE menu.zip
+unzip -o menu.zip
 chmod +x menu/*
 mv menu/* /usr/bin/
 chmod +x /usr/bin/*
