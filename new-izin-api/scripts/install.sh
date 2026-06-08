@@ -528,7 +528,7 @@ function ins_backup() {
 clear
 print_install "Memasang Backup Server"
 apt install rclone -y
-printf "q\n" | rclone config
+mkdir -p /root/.config/rclone/
 wget -O /root/.config/rclone/rclone.conf "${REPO}Cfg/rclone.conf"
 cd /bin
 git clone https://github.com/magnific0/wondershaper.git
