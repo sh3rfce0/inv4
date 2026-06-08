@@ -1,0 +1,5 @@
+function ins_Fail2ban() {
+clear
+print_install "Menginstall Fail2ban"
+mkdir -p /usr/local/ddos
+clear

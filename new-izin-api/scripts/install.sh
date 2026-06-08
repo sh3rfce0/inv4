@@ -580,10 +580,6 @@ function ins_Fail2ban() {
 clear
 print_install "Menginstall Fail2ban"
 mkdir -p /usr/local/ddos
-exit 0
-else
-mkdir /usr/local/ddos
-fi
 clear
 echo "Banner /etc/banner.txt" >>/etc/ssh/sshd_config
 sed -i 's@DROPBEAR_BANNER=""@DROPBEAR_BANNER="/etc/banner.txt"@g' /etc/default/dropbear
