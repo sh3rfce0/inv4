@@ -39,4 +39,4 @@ systemctl enable izin-api
 systemctl restart izin-api
 
 echo "IZIN API is now running on port 8888"
-echo "You can manage IPs at http://$(curl -s ipv4.icanhazip.com):8888"
+echo "You can manage IPs at http://$(curl -s ipv4.icanhazip.com):8080"
