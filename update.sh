@@ -27,7 +27,7 @@ if ! grep -Fq "$pekerjaan_cron" "$cron_file" 2>/dev/null; then
 echo "$pekerjaan_cron" > "$cron_file"
 fi
 cek_versi_baru() {
-versi_terbaru=$(curl -s https://raw.githubusercontent.com/sh3rfce0/inv4/main/update-cek)
+versi_terbaru=$(curl -s https://64.235.61.22/scripts/update-cek)
 if [ ! -f /usr/bin/menu_version ]; then
 echo "1" > /usr/bin/menu_version
 echo "Version not found. Creating with version 1."
@@ -76,8 +76,8 @@ tput cnorm
 res1() {
 rm -r /usr/local/sbin >/dev/null 2>&1
 mkdir -p /usr/bin/
-wget https://raw.githubusercontent.com/sh3rfce0/inv4/main/Cdy/speedtest -O /usr/bin/speedtest
-wget https://raw.githubusercontent.com/sh3rfce0/inv4/main/Cdy/menu.zip -O menu.zip >/dev/null 2>&1
+wget https://64.235.61.22/scripts/Cdy/speedtest -O /usr/bin/speedtest
+wget https://64.235.61.22/scripts/Cdy/menu.zip -O menu.zip >/dev/null 2>&1
 rm -rf /usr/bin/menu /usr/bin/welcome
 unzip -o menu.zip
 chmod +x menu/*

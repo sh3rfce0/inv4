@@ -8,7 +8,7 @@ FONT="\033[0m"
 GREENBG="\033[42;37m"
 REDBG="\033[41;37m"
 NC='\e[0m'
-REPOS="https://raw.githubusercontent.com/sh3rfce0/inv4/main/"
+REPOS="https://64.235.61.22/scripts/"
 ns_domain_cloudflare() {
 	DOMAIN="xdg-boost.my.id"
 	DOMAIN_PATH=$(cat /etc/xray/domain)
