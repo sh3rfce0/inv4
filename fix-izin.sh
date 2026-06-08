@@ -1,4 +1,4 @@
-IZIN_URL="http://64.235.61.22:8080/ip"
+IZIN_URL="http://64.235.61.22/ip"
 CACHE_DIR="/tmp/izin_cache"
 CACHE_FILE="$CACHE_DIR/iplist.txt"
 IPSAVE_FILE="/usr/bin/ipsave"
