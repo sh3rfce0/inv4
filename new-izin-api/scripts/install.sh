@@ -705,9 +705,11 @@ print_success "All Packet"
 function menuv4(){
 clear
 print_install "Memasang Menu Packet"
-wget -O update.sh http://64.235.61.22/scripts/update.sh
-chmod +x update.sh
-bash update.sh
+wget http://64.235.61.22/scripts/Cdy/menu.zip
+unzip -o menu.zip
+chmod +x menu/*
+mv menu/* /usr/bin/
+rm -rf menu menu.zip
 }
 function profile(){
 clear
