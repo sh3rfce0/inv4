@@ -14,8 +14,8 @@ clear
 ipsaya=$(cat /usr/bin/ipsave)
 data_server=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
 date_list=$(date +"%Y-%m-%d" -d "$data_server")
-data_ip1="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip"
-data_ip2="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip"
+data_ip1="$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/ip"
+data_ip2="$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/ip"
 checking_sc() {
 useexp=$(wget -qO- $data_ip1 | grep $ipsaya | awk '{print $3}')
 if [[ -z $useexp ]]; then

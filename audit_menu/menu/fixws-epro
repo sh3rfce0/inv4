@@ -1,6 +1,6 @@
-wget -O /usr/bin/ws "$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Fls/ws" >/dev/null 2>&1
-wget -O /usr/bin/tun.conf "$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Cfg/tun.conf" >/dev/null 2>&1
-wget -O /etc/systemd/system/ws.service "$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Fls/ws.service" >/dev/null 2>&1
+wget -O /usr/bin/ws "$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/Fls/ws" >/dev/null 2>&1
+wget -O /usr/bin/tun.conf "$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/Cfg/tun.conf" >/dev/null 2>&1
+wget -O /etc/systemd/system/ws.service "$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/Fls/ws.service" >/dev/null 2>&1
 chmod +x /etc/systemd/system/ws.service
 chmod +x /usr/bin/ws
 chmod 644 /usr/bin/tun.conf

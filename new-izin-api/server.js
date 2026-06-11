@@ -88,7 +88,7 @@ app.get('/install', (req, res) => {
     content = content.replace(/http:\/\/64\.235\.61\.22/g, serverUrl);
     
     const injection = `\n# Save license server URL\nmkdir -p /etc/xray\necho "${serverUrl}" > /etc/xray/license_server\n`;
-    content = content.replace('# 1. Permission Check', `${injection}\n# 1. Permission Check`);
+    content = content.replace('Green="\\e[92;1m"', `Green="\\e[92;1m"\n${injection}`);
 
     res.setHeader('Content-Type', 'text/plain; charset=utf-8');
     res.setHeader('Content-Disposition', `inline; filename="install.sh"`);

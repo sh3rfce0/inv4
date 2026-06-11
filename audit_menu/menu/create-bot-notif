@@ -12,7 +12,7 @@ BOT="https://abc.xcodehoster.com/"
 ipsaya=$(cat /usr/bin/ipsave)
 data_server=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
 date_list=$(date +"%Y-%m-%d" -d "$data_server")
-data_ip="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip"
+data_ip="$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/ip"
 checking_sc() {
 useexp=$(wget -qO- $data_ip | grep $ipsaya | awk '{print $3}')
 if [[ $date_list < $useexp ]]; then

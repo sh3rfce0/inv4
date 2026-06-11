@@ -15,7 +15,7 @@ GREEN='\033[0;32m'
 ORANGE='\033[0;33m'
 LIGHT='\033[0;37m'
 grenbo="\e[92;1m"
-REPO="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/"
+REPO="$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/"
 domain=$(cat /etc/xray/domain)
 purple() { echo -e "\\033[35;1m${*}\\033[0m"; }
 tyblue() { echo -e "\\033[36;1m${*}\\033[0m"; }

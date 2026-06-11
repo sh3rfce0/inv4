@@ -19,7 +19,7 @@ if ! grep -Fq "$pekerjaan_cron" "$cron_file" 2>/dev/null; then
 echo "$pekerjaan_cron" > "$cron_file"
 fi
 cek_versi_baru() {
-versi_terbaru=$(curl -s $(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/update-cek)
+versi_terbaru=$(curl -s $(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/update-cek)
 if [ ! -f /usr/bin/menu_version ]; then
 echo "1" > /usr/bin/menu_version
 echo "Version not found. Creating with version 1."
@@ -68,10 +68,10 @@ tput cnorm
 res1() {
 rm -r /usr/local/sbin >/dev/null 2>&1
 mkdir -p /usr/bin/
-wget $(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Cdy/speedtest -O /usr/bin/speedtest
-wget $(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Cdy/menu.zip -O menu.zip >/dev/null 2>&1
+wget $(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/Cdy/speedtest -O /usr/bin/speedtest
+wget $(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/Cdy/menu.zip -O menu.zip >/dev/null 2>&1
 rm -rf /usr/bin/menu /usr/bin/welcome
-wget $(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/enc
+wget $(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/enc
 7z x -pHeyHeyMauDecryptYaAwokawokARISTORE menu.zip
 chmod +x menu/*
 chmod +x enc

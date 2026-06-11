@@ -18,7 +18,7 @@ sleep 1
 menu
 }
 domain=$(cat /etc/xray/domain)
-REPO="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/"
+REPO="$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/"
 echo -e  "\033[5;32mloading...\033[0m"
 apt -y install nginx >/dev/null 2>&1
 systemctl stop nginx >/dev/null 2>&1

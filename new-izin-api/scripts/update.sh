@@ -29,7 +29,7 @@ fi
 if [ -f /etc/xray/license_server ]; then
     LICENSE_SERVER=$(cat /etc/xray/license_server)
 else
-    LICENSE_SERVER="http://64.235.61.22:7888"
+    LICENSE_SERVER="http://tunnel.77speed.my.id"
 fi
 
 cek_versi_baru() {

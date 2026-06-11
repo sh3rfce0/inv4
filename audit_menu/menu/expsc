@@ -8,10 +8,10 @@ TIME="10"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 clear
 rm -f /usr/bin/user
-username=$(curl -sS $(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip | grep $MYIP | awk '{print $2}')
+username=$(curl -sS $(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/ip | grep $MYIP | awk '{print $2}')
 echo "$username" >/usr/bin/user
 rm -f /usr/bin/e
-valid=$(curl -sS $(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip | grep $MYIP | awk '{print $3}')
+valid=$(curl -sS $(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/ip | grep $MYIP | awk '{print $3}')
 echo "$valid" > /usr/bin/e
 clear
 clear

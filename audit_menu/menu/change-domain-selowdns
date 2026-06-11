@@ -1,5 +1,5 @@
 set -euo pipefail
-REPOS="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/"
+REPOS="$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/"
 gen_slowdns_domain() {
 DOMAIN_PATH="$(cat /etc/xray/domain 2>/dev/null || true)"
 if [[ -z "${DOMAIN_PATH}" ]]; then

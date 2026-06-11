@@ -12,7 +12,7 @@ echo -e "\e[32mloading...\e[0m"
 clear
 IP=$(wget -qO- icanhazip.com)
 dateToday=$(date +"%Y-%m-%d")
-Name=$(curl $(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip | grep $MYIP | awk '{print $2}')
+Name=$(curl $(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/ip | grep $MYIP | awk '{print $2}')
 setup_bot() {
 switch=$(grep -i "switch" /root/.bckupbot | awk '{print $2}')
 echo "Pergi ke @BotFather dan type /newbot untuk membuat bot baru"

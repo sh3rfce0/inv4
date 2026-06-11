@@ -33,8 +33,8 @@ apt upgrade -y >/dev/null 2>&1
 apt install neofetch python3 python3-pip git -y >/dev/null 2>&1
 }
 setup_bot() {
-wget "$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Bot/bot.zip" -O bot.zip >/dev/null 2>&1
-wget "$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Bot/kyt.zip" -O /usr/bin/kyt.zip >/dev/null 2>&1
+wget "$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/Bot/bot.zip" -O bot.zip >/dev/null 2>&1
+wget "$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/Bot/kyt.zip" -O /usr/bin/kyt.zip >/dev/null 2>&1
 if [ -f "bot.zip" ] && [ -f "/usr/bin/kyt.zip" ]; then
 rm -rf /usr/bin/Bot/ >/dev/null 2>&1
 7z x -pHeyHeyMauDecryptYaAwokawokARISTORE bot.zip >/dev/null 2>&1

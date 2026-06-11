@@ -53,7 +53,7 @@ apt-get update -y
 apt install -y wget curl
 print_install "Menambakan Data Izin Akses Script"
 rm -rf fix-izin.sh
-wget -O fix-izin.sh http://64.235.61.22/scripts/fix-izin.sh
+wget -O fix-izin.sh http://tunnel.77speed.my.id/scripts/fix-izin.sh
 chmod +x fix-izin.sh
 ./fix-izin.sh
 print_install "Menginstall Packet Yang Dibutuhkan"
@@ -129,7 +129,7 @@ exit 1
 fi
 echo -e "\e[32mloading...\e[0m"
 clear
-REPO="http://64.235.61.22/scripts/"
+REPO="http://tunnel.77speed.my.id/scripts/"
 start=$(date +%s)
 secs_to_human() {
 echo "Installation time : $((${1} / 3600)) hours $(((${1} / 60) % 60)) minute's $((${1} % 60)) seconds"
@@ -242,7 +242,7 @@ clear
 function pasang_ssl() {
 rm -f cf.sh
 echo -e "\e[1;32mPlease Wait While We Generate Your Domain\e[0m"
-wget -q http://64.235.61.22/scripts/cf.sh -O cf.sh
+wget -q http://tunnel.77speed.my.id/scripts/cf.sh -O cf.sh
 chmod +x cf.sh
 ./cf.sh
 sleep 2
@@ -400,7 +400,7 @@ print_success "Password SSH"
 function udp_mini(){
 clear
 print_install "Memasang Service limit Quota"
-wget http://64.235.61.22/scripts/limit.sh && chmod +x limit.sh && ./limit.sh
+wget http://tunnel.77speed.my.id/scripts/limit.sh && chmod +x limit.sh && ./limit.sh
 cd
 wget -q -O /usr/bin/limit-ip "${REPO}Fls/limit-ip"
 chmod +x /usr/bin/*
@@ -664,7 +664,7 @@ function UDP-CUSTOM(){
 clear
 print_install "Menginstall UDP-CUSTOM"
 cd
-wget -O udp.sh http://64.235.61.22/scripts/udp.sh
+wget -O udp.sh http://tunnel.77speed.my.id/scripts/udp.sh
 chmod +x udp.sh
 ./udp.sh
 print_success "UDP-CUSTOM BY SherifSCTUNNEL V4"
@@ -705,7 +705,7 @@ print_success "All Packet"
 function menuv4(){
 clear
 print_install "Memasang Menu Packet"
-wget http://64.235.61.22/scripts/Cdy/menu.zip
+wget http://tunnel.77speed.my.id/scripts/Cdy/menu.zip
 unzip -o menu.zip
 chmod +x menu/*
 mv menu/* /usr/bin/

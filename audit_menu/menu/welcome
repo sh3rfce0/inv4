@@ -43,7 +43,7 @@ MYIP="$IPVPS"
 [ -z "$MYIP" ] || [ "$MYIP" = "null" ] && MYIP=$(curl -m 5 -sS ipv4.icanhazip.com | tr -d '\r\n')
 cached_username=$(cat /usr/bin/user 2>/dev/null)
 cached_valid=$(cat /usr/bin/e 2>/dev/null)
-izin_data=$(curl -m 8 -sS $(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip)
+izin_data=$(curl -m 8 -sS $(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/ip)
 username=$(echo "$izin_data" | awk -v ip="$MYIP" '$1==ip {print $2; exit}' | tr -d '\r\n')
 [ -z "$username" ] && username="$cached_username"
 echo "$username" >/usr/bin/user

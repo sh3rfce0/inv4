@@ -1,5 +1,5 @@
 RDP="bash <(curl -s https://sc.mtc.my.id/rdp.sh)"
-WEBMINI="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/menu-webmin"
+WEBMINI="$(cat /etc/xray/license_server 2>/dev/null || echo "http://tunnel.77speed.my.id")/scripts/menu-webmin"
 WEBU="http://files.webuzo.com/install.sh"
 VESTA="http://vestacp.com/pub/vst-install.sh"
 UI="(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh) v1.6.1"
