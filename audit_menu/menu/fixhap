@@ -1,4 +1,77 @@
-#!/bin/bash
-z="
-";LGz='To m';vz='gren';NEz='p $d';VBz='ay/d';FEz=' " "';nz='0;32';Qz='n='\''\';hEz='g $!';pz='GE='\''';vBz='0m";';eFz='g" /';yFz='y | ';PCz='"███';DBz='//ra';UEz='_Suc';EGz='t ng';CGz='l re';vCz='_ite';wz='bo="';NDz=' + i';IDz=')';vDz='null';FFz='.cfg';jCz='rati';PBz='/"';Oz='31m'\''';nFz='y.co';cEz='m"';Cz='9m'\''';LCz='fram';cFz='x/${';Az='DF='\''';kFz='x/co';QBz='doma';KGz='ack ';hCz='ns=$';ZDz='slee';bEz='33[0';BCz=' -e ';kDz='lay=';Vz='PURP';lBz='3[36';Ez='='\''\e';GEz='$spi';QFz='"${R';ZBz='le()';CFz='/etc';CEz='prin';sz='LIGH';QDz=' ""';VCz='80%"';Uz='[34m';wFz='rt /';IEz='temp';JFz='1';ZEz='Succ';HDz='mes)';Kz='yell';lCz='Load';NCz='"██1';BGz='.pem';tz='T='\''\';vEz='apro';Bz='\e[3';pBz='{ ec';NFz='d/xr';wDz='; do';RFz='EPO}';dFz='in}/';bFz='s/xx';mCz='ing_';qFz='x.co';REz='func';tBz='1m${';yEz='ginx';cz='Lgre';uCz=' num';qDz='e ps';mDz='l sp';cBz='-e "';Zz='[36m';tEz='l st';ez='\e[9';HBz='cont';pEz=' "${';HCz='"; }';OCz='0%" ';iBz='; }';gBz='{*}\';Iz='e[5m';YFz='&1';tDz=' > /';gDz='loca';xCz=' i++';DDz='inde';sEz='emct';cDz='done';KCz='=6';xFz='y.ke';eCz='[@]}';IFz=' 2>&';EDz='x=$(';YBz='purp';MCz='es=(';JDz='colo';WDz='s[$i';aBz=' { e';Pz='gree';yCz=')); ';NGz='${NC';FCz='${*}';kCz='on))';xBz='red(';LEz='$tem';fBz=';1m$';FBz='thub';Rz='e[32';iDz='d=$1';GCz='3[0m';lz='N='\''\';yz='"';BFz=' -O ';wCz='ons;';ICz='dura';XCz='███9';YDz=']}\e';hDz='l pi';rBz='e "\';nBz='3[33';fEz='& lo';cCz='{#fr';VDz='rame';GDz='_fra';BEz='n#?}';sBz='[32;';HFz='" >/';lEz='etc/';gEz='adin';BDz='clea';XBz='n)';EFz='roxy';xDz='l te';dEz='p 1';DEz='tf "';iFz='cfg';uBz='*}\\';Dz='Bold';oz='ORAN';TDz='de}m';jBz='tybl';dz='en='\''';oBz='n() ';oFz='nf';OFz='ay.c';qCz='for ';bCz='es=$';Mz='red=';UCz='" "█';rEz='syst';FDz='(i %';pFz=' ${R';bz='[91m';qBz='ho -';rDz=' -p ';pCz=') {';RDz='"\e[';dCz='ames';hBz='[0m"';RCz='%" "';sCz='= 0;';kBz='ue()';JBz='com/';oDz='-\|/';SEz=' Loa';AEz='{spi';DCz='33[3';dDz='}';CDz='r';IGz='y';GGz='t ha';DGz='star';aFz='-i "';kz='GREE';pDz='whil';nCz='Anim';qEz='in}"';CBz='tps:';yBz=') { ';aCz='num_';fCz='iter';NBz='/v4/';XFz='l 2>';rFz='nf >';QEz='    ';RBz='in=$';gFz='oxy/';uFz='cat ';PDz='))';TFz='.con';wEz='xy';yDz='mp=$';xz='2;1m';hz='3m'\''';KDz='r_co';gCz='atio';OGz='}"';oEz='ain';mBz='ow()';jz='\e[0';ABz='REPO';rCz='((i ';LBz='pnst';XEz='33[5';tFz='inx/';HGz='prox';ZFz='sed ';UDz=' ${f';VFz='/dev';dBz='\\03';QCz='██35';ACz='echo';HEz='n"';fDz='ing(';kEz='fr /';uEz='op h';ODz=' % 7';JCz='tion';eBz='3[35';PEz='\b\b';SCz='████';YCz='██10';mEz='xray';MGz='enu ';UBz='c/xr';WFz='/nul';lFz='nf.d';xEz='op n';GBz='user';ZCz='0%")';SFz='Cfg/';rz='[0;3';fFz='hapr';AFz='wget';WBz='omai';eDz='load';OEz='elay';KBz='ariv';iz='NC='\''';UFz='f" >';SBz='(cat';MFz='onf.';bBz='cho ';uDz='dev/';wBz=' }';YEz=';32m';Tz='blue';OBz='main';WCz=' "██';tCz=' i <';Yz='cyan';Fz='[1m'\''';TCz='█65%';mz='033[';FGz='inx';eEz='p 3 ';jDz='l de';Lz='[33m';az='Lred';IBz='ent.';LFz='nx/c';jFz='ngin';nEz='/dom';MDz='((31';Jz=''\''';aEz='es\0';SDz='1;${';XDz='ndex';VEz='ces(';vFz='y/xr';Nz=''\''\e[';oCz='asi(';hFz='oxy.';gz='ow='\''';Hz='k='\''\';iCz='((du';PGz='menu';PFz='onf ';EEz='[%c]';CCz='"\\0';BBz='="ht';WEz=' "\0';LDz='de=$';uz='0;37';Sz='m'\''';MBz='ores';lDz='0.1';nDz='in='\''';sDz='$pid';jEz='rm -';AGz='tee ';TEz='ding';ADz='do';KEz='in%"';KFz='/ngi';Gz='Blin';sFz='c/ng';aDz='p 0.';qz='\033';iEz='es';ECz='1;1m';Xz='5m'\''';TBz=' /et';JGz='n "B';Wz='LE='\''';bDz='5';JEz='${sp';fz='2m'\''';MEz='p"}';DFz='/hap';mFz='/xra';GFz='}Cfg';EBz='w.gi';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$z$Gz$Hz$Iz$Jz$z$Kz$Ez$Lz$Jz$z$Mz$Nz$Oz$z$Pz$Qz$Rz$Sz$z$Tz$Ez$Uz$Jz$z$Vz$Wz$Bz$Xz$z$Yz$Ez$Zz$Jz$z$az$Ez$bz$Jz$z$cz$dz$ez$fz$z$Kz$gz$ez$hz$z$iz$jz$Sz$z$kz$lz$mz$nz$Sz$z$oz$pz$qz$rz$hz$z$sz$tz$mz$uz$Sz$z$vz$wz$ez$xz$yz$z$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$z$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$z$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$qz$hBz$iBz$z$jBz$kBz$aBz$bBz$cBz$dBz$lBz$fBz$gBz$qz$hBz$iBz$z$Kz$mBz$aBz$bBz$cBz$dBz$nBz$fBz$gBz$qz$hBz$iBz$z$Pz$oBz$pBz$qBz$rBz$qz$sBz$tBz$uBz$mz$vBz$wBz$z$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$dBz$GCz$HCz$z$ICz$JCz$KCz$z$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$SCz$TCz$UCz$SCz$SCz$SCz$VCz$WCz$SCz$SCz$SCz$SCz$XCz$OCz$PCz$SCz$SCz$SCz$SCz$SCz$YCz$ZCz$z$aCz$LCz$bCz$cCz$dCz$eCz$z$aCz$fCz$gCz$hCz$iCz$jCz$kCz$z$lCz$mCz$nCz$oCz$pCz$z$qCz$rCz$sCz$tCz$uCz$vCz$jCz$wCz$xCz$yCz$ADz$z$BDz$CDz$z$DDz$EDz$FDz$uCz$GDz$HDz$IDz$z$JDz$KDz$LDz$MDz$NDz$ODz$PDz$z$ACz$QDz$z$ACz$QDz$z$ACz$QDz$z$ACz$BCz$RDz$SDz$JDz$KDz$TDz$UDz$VDz$WDz$XDz$YDz$hBz$z$ZDz$aDz$bDz$z$cDz$z$dDz$z$eDz$fDz$pCz$z$gDz$hDz$iDz$z$gDz$jDz$kDz$lDz$z$gDz$mDz$nDz$oDz$Jz$z$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$z$gDz$xDz$yDz$AEz$BEz$z$CEz$DEz$EEz$FEz$GEz$HEz$z$gDz$mDz$RBz$IEz$JEz$KEz$LEz$MEz$z$ZDz$NEz$OEz$z$CEz$DEz$PEz$PEz$PEz$yz$z$cDz$z$CEz$DEz$QEz$PEz$PEz$yz$z$dDz$z$REz$JCz$SEz$TEz$UEz$VEz$pCz$z$BDz$CDz$z$ACz$BCz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$z$ZDz$dEz$z$BDz$CDz$z$dDz$z$BDz$CDz$z$ZDz$eEz$fEz$gEz$hEz$z$lCz$mCz$ZEz$iEz$z$jEz$kEz$lEz$mEz$nEz$oEz$z$ACz$pEz$QBz$qEz$tDz$lEz$mEz$nEz$oEz$z$rEz$sEz$tEz$uEz$vEz$wEz$z$rEz$sEz$tEz$xEz$yEz$z$AFz$BFz$CFz$DFz$EFz$DFz$EFz$FFz$pEz$ABz$GFz$DFz$EFz$FFz$HFz$uDz$vDz$IFz$JFz$z$AFz$BFz$CFz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$mEz$TFz$UFz$VFz$WFz$XFz$YFz$z$ZFz$aFz$bFz$cFz$QBz$dFz$eFz$lEz$fFz$gFz$fFz$hFz$iFz$z$ZFz$aFz$bFz$cFz$QBz$dFz$eFz$lEz$jFz$kFz$lFz$mFz$nFz$oFz$z$AFz$pFz$RFz$SFz$jFz$qFz$rFz$TBz$sFz$tFz$jFz$qFz$oFz$z$uFz$CFz$mFz$vFz$OFz$wFz$lEz$mEz$mFz$xFz$yFz$AGz$CFz$DFz$EFz$DFz$BGz$z$rEz$sEz$CGz$DGz$EGz$FGz$z$rEz$sEz$CGz$DGz$GGz$HGz$IGz$z$ACz$QDz$z$Pz$JGz$KGz$LGz$MGz$NGz$OGz$z$PGz"
+DF='\e[39m'
+Bold='\e[1m'
+Blink='\e[5m'
+yell='\e[33m'
+red='\e[31m'
+green='\e[32m'
+blue='\e[34m'
+PURPLE='\e[35m'
+cyan='\e[36m'
+Lred='\e[91m'
+Lgreen='\e[92m'
+yellow='\e[93m'
+NC='\e[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+LIGHT='\033[0;37m'
+grenbo="\e[92;1m"
+REPO="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/"
+domain=$(cat /etc/xray/domain)
+purple() { echo -e "\\033[35;1m${*}\\033[0m"; }
+tyblue() { echo -e "\\033[36;1m${*}\\033[0m"; }
+yellow() { echo -e "\\033[33;1m${*}\\033[0m"; }
+green() { echo -e "\\033[32;1m${*}\\033[0m"; }
+red() { echo -e "\\033[31;1m${*}\\033[0m"; }
+duration=6
+frames=("██10%" "█████35%" "█████████65%" "█████████████80%" "█████████████████████90%" "█████████████████████████100%")
+num_frames=${#frames[@]}
+num_iterations=$((duration))
+Loading_Animasi() {
+for ((i = 0; i < num_iterations; i++)); do
+clear
+index=$((i % num_frames))
+color_code=$((31 + i % 7))
+echo ""
+echo ""
+echo ""
+echo -e "\e[1;${color_code}m ${frames[$index]}\e[0m"
+sleep 0.5
+done
+}
+loading() {
+local pid=$1
+local delay=0.1
+local spin='-\|/'
+while ps -p $pid > /dev/null; do
+local temp=${spin#?}
+printf "[%c] " "$spin"
+local spin=$temp${spin%"$temp"}
+sleep $delay
+printf "\b\b\b\b\b\b"
+done
+printf "    \b\b\b\b"
+}
+function Loading_Succes() {
+clear
+echo -e  "\033[5;32mSucces\033[0m"
+sleep 1
+clear
+}
+clear
+sleep 3 & loading $!
+Loading_Succes
+rm -fr /etc/xray/domain
+echo "${domain}" > /etc/xray/domain
+systemctl stop haproxy
+systemctl stop nginx
+wget -O /etc/haproxy/haproxy.cfg "${REPO}Cfg/haproxy.cfg" >/dev/null 2>&1
+wget -O /etc/nginx/conf.d/xray.conf "${REPO}Cfg/xray.conf" >/dev/null 2>&1
+sed -i "s/xxx/${domain}/g" /etc/haproxy/haproxy.cfg
+sed -i "s/xxx/${domain}/g" /etc/nginx/conf.d/xray.conf
+wget ${REPO}Cfg/nginx.conf > /etc/nginx/nginx.conf
+cat /etc/xray/xray.crt /etc/xray/xray.key | tee /etc/haproxy/hap.pem
+systemctl restart nginx
+systemctl restart haproxy
+echo ""
+green "Back To menu ${NC}"
+menu

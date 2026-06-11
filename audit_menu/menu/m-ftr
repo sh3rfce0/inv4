@@ -1,4 +1,161 @@
-#!/bin/bash
-z="
-";pEz='crea';AHz='yste';GCz=' cen';uHz='XIT ';RFz='"  2';WGz='in  ';tJz='n/m-';mJz='20) ';vCz='ext}';VKz='od';dHz='off ';VJz='n/cl';DGz='.) C';pBz='func';gIz='otop';dEz='FORM';DHz='.) L';PJz='xcer';sDz='yan}';hJz='Info';BKz='mit-';DCz='CTUN';CHz='" 20';nBz='clea';FKz='n/ru';bEz='R   ';oJz='21) ';iCz='$tex';aEz='CLEA';SJz='xxra';NIz=' in';oEz='f() ';DEz='ngu}';HEz='{Xar';SKz='er';RJz='14) ';jFz='"  5';XBz='5;37';mz='END=';PEz='ENU ';SIz='/bin';IKz='thre';hHz='oste';eGz='" 16';YCz='aris';AGz='Bann';yz='ound';TIz='/run';jCz='t" |';SHz='ctio';Xz='GREE';JKz='adin';GJz='n/fi';CDz='- le';hDz='"$fo';uEz='o_Po';HGz='"  9';KEz='XX()';Wz='"';BGz='er  ';gz='='\''\e';qEz='te-b';wDz='rk}"';YHz='imit';fEz='N() ';HIz='22 o';NJz='epro';FCz='V4"';iJz='_Por';cDz='36m.';lDz='is_p';xz='ckgr';SGz='WS e';dGz='ache';LEz=' " $';gHz='.) B';PBz='[0m'\''';vGz='.) I';aBz='e="\';nz=''\''\e[';Mz='NC='\''';jJz='19) ';XCz='ng b';EJz='10) ';kJz='n/ab';PCz='dth=';fz='yell';yDz='S() ';wHz='ect_';TDz='}';iFz='g   ';gJz='18) ';Tz='="\0';EGz='hang';dBz='92;1';MIz=' $NB';DKz='ff ;';hGz='s   ';vz='Gree';Qz='[1;3';Lz='1;31';eBz='33[9';GDz='prin';QKz='-ftr';yBz='g';NHz='21.)';GKz='n_mu';uBz=') {';kGz='he F';lJz='out ';TBz='\e[3';ZJz='og ;';MCz='xt="';BIz='"Sel';iEz='HER(';xHz='Menu';sEz='otif';nEz='Noti';UFz='rt S';PHz='i-DD';EBz='grou';UBz='3m'\''';RCz='# Se';QDz='ho -';mHz='eadi';NFz=' Run';cEz='  IN';dFz=' "';Uz='33[1';qFz='elet';pDz=' -e ';CFz=' Ban';qDz='"${B';KJz='x ;;';cFz='ot	 ';Yz='N='\''\';mIz='/xp ';MJz='xws-';TFz='esta';REz='k}"';yHz='read';oGz='ION';KGz='.) F';sz='='\''\0';tBz='ner(';XDz='6m.:';dIz=';;';KCz='loca';bIz='oreb';aHz='ed  ';ACz='NAMA';SFz='.) R';xBz='njan';JJz='xngi';BCz='SC="';VGz='Doma';HBz='37m"';DBz='back';YEz='  CL';Jz=';1m"';pIz='ano ';Iz='e[92';qBz='tion';hz='[33m';sCz='n=${';OCz='l wi';cHz='-on-';nFz=' 		 ';gEz='N   ';cCz='nkan';IGz=' NS ';JDz='pace';EEz='FEAT';PFz=' Ser';FHz='Open';lCz=' '\''s/';qJz='ti-d';TGz='PRO ';TCz='kan ';SDz='")"';CEz='"${u';UEz='   A';mFz='Test';VEz='DMIN';YFz='"  3';RBz='5m'\''';ZDz=' $NA';YKz='enu';LFz='37m ';mEz='Bot_';aGz='15.)';QCz='50  ';qHz='to M';GEz='   $';hIz='5) c';MGz='Hapr';Gz='m"';QHz='oS P';NDz='\n" ';WCz='anja';JHz='t Se';aDz='MASC';JEz='  FI';NCz='$1"';nHz='ng)"';KIz='" NB';iGz='" 17';wIz='nge-';DFz='){';GHz=' Sou';wz='n_ba';wEz='bash';FIz='ions';oIz=' ; n';ZGz='R';PKz='*) m';mGz='INFO';eEz='ATIO';TJz='y ;;';ECz='NEL ';sJz='22) ';gGz=' Log';FDz=')';vHz=' Sel';vEz='rt()';tCz='#pla';ODz='"" "';CGz='"  8';tIz='txt ';xJz='n/li';gBz='BG_B';BJz='in-s';jGz=' Cac';HDz='tf "';XFz='  "';bBz='97;1';uFz='t Ex';IDz='%${s';nDz=' {';yIz='in ;';HKz='lti_';OKz='xit ';THz='n "';LGz='ixx ';VDz='atte';cGz='ar C';qGz='o Se';AEz='{';oBz='r';PIz=' ; b';ABz='33[4';uGz='" 19';hCz='-e "';pFz='.) D';UJz='15) ';eHz='XRAY';OBz='Xark';XGz='" 14';wJz='23) ';rz='ungu';AJz='9) c';GBz='[41;';az='gren';WEz=' AKS';Sz='Blue';yEz='r/bi';Hz='g="\';wGz='nfor';vBz='bari';CJz='elow';KFz='3[0;';UGz='" 13';rGz='rvic';VHz='t Ot';uJz='pane';YBz='nBe=';UIz=' ;;';IIz='r x]';sBz='_Ban';TKz='_Lam';MHz='t"';KHz='wa S';wCz='l sp';WBz='eBe=';hBz='LU="';Kz='r="\';fFz='.) M';DDz='n) /';UHz='" 22';SCz='suai';gCz='cho ';kCz=' sed';PDz='$(ec';hFz='orin';EIz=' Opt';WIz='/res';JIz=' :  ';jBz='1m" ';TEz='MIN(';uIz='8) c';aCz='g di';sFz='l Ac';OGz='" 11';fBz='6;1m';sGz='e Po';MEz='{BG_';fJz='le ;';ZCz=' yan';rBz=' ARI';FJz='r ; ';lGz='ile ';tz='33[0';LHz='crip';sHz='"  x';ZEz='EAR(';UDz='form';iIz='/spe';LKz='26) ';ADz=' (wi';CIz='ect ';HJz='xhap';EKz='25) ';IJz='11) ';jz='BGX=';HCz='ter_';RHz='rote';eJz='e-fi';vIz='/cha';rEz='ot-n';nIz='7) c';oCz='-9;]';iHz='r CP';ZBz='5;32';ZHz=' Spe';mBz='U';Oz='gray';XIz='et ;';ez='5m"';QEz='FIXX';IFz='god(';cBz='n="\';UKz='bofg';VBz='Whit';MBz='[5;3';oDz='echo';JBz='ix="';LIz='case';MFz=' 1.)';OIz='1) c';bJz='n/de';oHz='" 26';bGz=' Cle';BFz='ot';EDz=' 2 )';rDz='lueC';rIz='/ban';rHz='enu"';IHz=' Lis';QJz='t ;;';bz='bo="';dCz='l pl';iz=''\''';XEz='ES  ';fHz='" 25';VIz='2) c';rFz='e Al';xDz=' ATA';fIz=' ; g';tDz=' ———';Dz='m'\''';AKz='24) ';hEz='  OT';VFz='ervi';Vz=';36m';FFz=' Men';Cz='1;93';RDz='e "$';BBz='2;37';AFz='n/pr';lFz='peed';GIz=' [1-';uDz='————';VCz='an p';FEz='URES';XJz='16) ';tFz='coun';cIz='oot ';wFz=' 7.)';uCz='in_t';vFz='p "';rCz='l le';YIz=';';yJz='mits';xFz=' Cha';YJz='earl';ZFz='.) A';pJz='n/an';bFz='Rebo';gFz='onit';KKz='g ;;';LDz='s\03';QIz='ash ';QBz='33[3';BEz='    ';JFz='""';eFz='"  4';Bz='033[';QGz='x   ';ICz='text';yGz='on S';kBz='# BG';dDz='::."';lHz='-thr';dJz='cach';CBz='Red_';yFz='nge ';gDz='ext ';kDz=' bar';mCz='\x1b';PGz='Ngin';OJz='13) ';kEz=' Cre';CCz='ARIS';qCz='g'\'')';tEz=' Inf';NGz='oxy ';UCz='deng';WFz='ce  ';NBz='6m'\''';yCz='=$((';Pz='="\e';EFz='ATAS';eDz='cent';kFz='.) S';bCz='ingi';nGz='RMAT';XHz='" 23';YGz='Xray';kHz='ulti';RIz='/usr';bHz='" 24';aFz='uto ';qIz='/etc';JCz='() {';FBz='nd="';xGz='mati';tGz='rt  ';Nz='\e[0';WJz='earc';wBz='s_pa';xCz='aces';CKz='on-o';NKz='x) e';nCz='\[[0';kz='"\03';vDz='${Xa';iDz='rmat';qz='\e[5';eCz='ain_';EHz='ist ';SBz='ow='\''';eIz='4) c';BHz='m "';jIz='edte';FGz='e Do';fDz='er_t';xEz=' /us';YDz=':.\0';LJz='12) ';MKz='menu';rJz='dos ';NEz='BLU}';GGz='main';DJz='dns ';mDz='ng()';bDz=' \e[';vJz='l ;;';pGz='18.)';WKz='Sele';Rz='0m"';Fz='0;36';Ez='c="\';uz=';35m';HFz='mbof';ZIz='3) c';KBz='[0m"';jEz='OTHE';IEz='k} "';LCz='l te';cJz='let-';nJz='n/sc';cz='\033';SEz='  AD';RGz='" 12';XKz='ct_M';lBz=' BIR';OHz=' Ant';pz='bc="';KDz='s}s%';pCz='*m//';oFz='"  6';dz='[1;9';aIz='/aut';xIz='doma';sIz='ner.';jHz='U (m';Zz='0;32';lEz='ate_';RKz='esac';pHz='ack ';AIz=' -p ';OFz='ning';oz='0m'\''';jDz='ted_';GFz='u_La';tHz=' . E';QFz='vice';JGz='" 10';fGz='lear';kIz='st ;';Az='y='\''\';WHz='her ';MDz='3[0m';BDz='dth ';LBz='Cyan';HHz='rc &';DIz='From';iBz='[44;';IBz='Suff';OEz='   M';fCz='=$(e';lz='3[42';aJz='17) ';lIz='6) c';WDz='d_te';
-eval "$Az$Bz$Cz$Dz$z$Ez$Bz$Fz$Gz$z$Hz$Iz$Jz$z$Kz$Bz$Lz$Gz$z$Mz$Nz$Dz$z$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$Bz$Zz$Dz$z$az$bz$cz$dz$ez$z$fz$gz$hz$iz$z$jz$kz$lz$Gz$z$mz$nz$oz$z$pz$qz$Vz$Wz$z$rz$sz$tz$uz$iz$z$vz$wz$xz$yz$Tz$ABz$BBz$Gz$z$CBz$DBz$EBz$FBz$cz$GBz$HBz$z$IBz$JBz$cz$KBz$z$Mz$Nz$Dz$z$Sz$LBz$gz$MBz$NBz$z$OBz$gz$PBz$z$rz$sz$QBz$RBz$z$fz$SBz$TBz$UBz$z$VBz$WBz$nz$XBz$Dz$z$vz$YBz$nz$ZBz$Dz$z$Sz$LBz$gz$MBz$NBz$z$VBz$aBz$Bz$bBz$Gz$z$vz$cBz$Bz$dBz$Gz$z$LBz$Tz$eBz$fBz$Wz$z$OBz$gz$PBz$z$gBz$hBz$cz$iBz$jBz$kBz$lBz$mBz$z$nBz$oBz$z$pBz$qBz$rBz$sBz$tBz$uBz$z$vBz$wBz$xBz$yBz$z$ACz$BCz$CCz$DCz$ECz$FCz$z$pBz$qBz$GCz$HCz$ICz$JCz$z$KCz$LCz$MCz$NCz$z$KCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$z$KCz$dCz$eCz$ICz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$z$KCz$rCz$sCz$tCz$uCz$vCz$z$KCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$z$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$ICz$SDz$z$TDz$z$UDz$VDz$WDz$MCz$TBz$XDz$YDz$tz$uz$ZDz$aDz$bDz$cDz$dDz$z$eDz$fDz$gDz$hDz$iDz$jDz$ICz$Wz$z$vBz$wBz$xBz$yBz$z$TDz$z$pBz$qBz$kDz$lDz$WCz$mDz$nDz$z$oDz$pDz$qDz$rDz$sDz$tDz$uDz$uDz$uDz$uDz$uDz$uDz$uDz$uDz$uDz$vDz$wDz$z$TDz$z$pBz$qBz$xDz$yDz$AEz$z$oDz$pDz$BEz$CEz$DEz$BEz$BEz$BEz$BEz$EEz$FEz$BEz$BEz$BEz$GEz$HEz$IEz$z$TDz$z$pBz$qBz$JEz$KEz$nDz$z$oDz$pDz$LEz$MEz$NEz$BEz$BEz$BEz$OEz$PEz$QEz$BEz$BEz$BEz$GEz$HEz$REz$z$TDz$z$pBz$qBz$SEz$TEz$uBz$z$oDz$pDz$LEz$MEz$NEz$BEz$BEz$BEz$UEz$VEz$WEz$XEz$BEz$BEz$GEz$HEz$REz$z$TDz$z$pBz$qBz$YEz$ZEz$uBz$z$oDz$pDz$LEz$MEz$NEz$BEz$BEz$BEz$OEz$PEz$aEz$bEz$BEz$BEz$GEz$HEz$REz$z$TDz$z$pBz$qBz$cEz$dEz$eEz$fEz$AEz$z$oDz$pDz$LEz$MEz$NEz$BEz$BEz$BEz$cEz$dEz$eEz$gEz$BEz$BEz$GEz$HEz$REz$z$TDz$z$pBz$qBz$hEz$iEz$uBz$z$oDz$pDz$LEz$MEz$NEz$BEz$BEz$BEz$BEz$jEz$bEz$BEz$BEz$BEz$GEz$HEz$REz$z$TDz$z$pBz$qBz$kEz$lEz$mEz$nEz$oEz$AEz$z$pEz$qEz$rEz$sEz$z$TDz$z$pBz$qBz$tEz$uEz$vEz$nDz$z$wEz$xEz$yEz$AFz$BFz$z$TDz$z$pBz$qBz$CFz$tBz$DFz$z$nBz$oBz$z$vBz$wBz$xBz$yBz$z$EFz$z$vBz$wBz$xBz$yBz$z$TDz$z$pBz$qBz$FFz$GFz$HFz$IFz$uBz$z$vBz$wBz$xBz$yBz$z$oDz$pDz$JFz$z$oDz$pDz$kz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$BEz$Wz$z$oDz$pDz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$z$oDz$pDz$YFz$ZFz$aFz$bFz$cFz$dFz$z$oDz$pDz$eFz$fFz$gFz$hFz$iFz$BEz$XFz$z$oDz$pDz$jFz$kFz$lFz$mFz$nFz$dFz$z$oDz$pDz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$z$vBz$wBz$xBz$yBz$z$QEz$z$vBz$wBz$xBz$yBz$z$oDz$pDz$kz$KFz$LFz$wFz$xFz$yFz$AGz$BGz$BEz$Wz$z$oDz$pDz$CGz$DGz$EGz$FGz$GGz$BEz$XFz$z$oDz$pDz$HGz$DGz$EGz$FGz$GGz$IGz$XFz$z$oDz$pDz$JGz$KGz$LGz$MGz$NGz$BEz$XFz$z$oDz$pDz$OGz$KGz$LGz$PGz$QGz$BEz$XFz$z$oDz$pDz$RGz$KGz$LGz$SGz$TGz$BEz$XFz$z$oDz$pDz$UGz$KGz$LGz$VGz$WGz$BEz$XFz$z$oDz$pDz$XGz$KGz$LGz$YGz$BEz$BEz$XFz$z$vBz$wBz$xBz$yBz$z$aEz$ZGz$z$vBz$wBz$xBz$yBz$z$oDz$pDz$kz$KFz$LFz$aGz$bGz$cGz$dGz$BEz$XFz$z$oDz$pDz$eGz$DGz$fGz$gGz$hGz$BEz$Wz$z$oDz$pDz$iGz$DGz$fGz$jGz$kGz$lGz$Wz$z$vBz$wBz$xBz$yBz$z$mGz$nGz$oGz$z$vBz$wBz$xBz$yBz$z$oDz$pDz$kz$KFz$LFz$pGz$tEz$qGz$rGz$sGz$tGz$Wz$z$oDz$pDz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$z$oDz$pDz$CHz$DHz$EHz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$z$vBz$wBz$xBz$yBz$z$jEz$ZGz$z$vBz$wBz$xBz$yBz$z$oDz$pDz$kz$KFz$LFz$NHz$OHz$PHz$QHz$RHz$SHz$THz$z$oDz$pDz$UHz$kFz$LHz$VHz$WHz$dFz$z$oDz$pDz$XHz$DHz$YHz$ZHz$aHz$Wz$z$oDz$pDz$bHz$DHz$YHz$cHz$dHz$eHz$XFz$z$oDz$pDz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$mHz$nHz$z$oDz$pDz$oHz$gHz$pHz$qHz$rHz$z$oDz$pDz$sHz$tHz$uHz$Wz$z$oDz$pDz$JFz$z$vBz$wBz$xBz$yBz$z$oDz$pDz$JFz$z$TDz$z$pBz$qBz$vHz$wHz$xHz$JCz$z$yHz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$JIz$KIz$z$LIz$MIz$NIz$z$OIz$fGz$PIz$QIz$RIz$SIz$TIz$UIz$z$VIz$fGz$PIz$QIz$RIz$SIz$WIz$XIz$YIz$z$ZIz$fGz$PIz$QIz$RIz$SIz$aIz$bIz$cIz$dIz$z$eIz$fGz$fIz$gIz$UIz$z$hIz$fGz$PIz$QIz$RIz$SIz$iIz$jIz$kIz$YIz$z$lIz$fGz$PIz$QIz$RIz$SIz$mIz$dIz$z$nIz$fGz$oIz$pIz$qIz$rIz$sIz$tIz$dIz$z$uIz$fGz$PIz$QIz$RIz$SIz$vIz$wIz$xIz$yIz$YIz$z$AJz$fGz$PIz$QIz$RIz$SIz$vIz$wIz$xIz$BJz$CJz$DJz$dIz$z$EJz$nBz$FJz$wEz$xEz$yEz$GJz$HJz$UIz$z$IJz$nBz$FJz$wEz$xEz$yEz$GJz$JJz$KJz$z$LJz$nBz$FJz$wEz$xEz$yEz$GJz$MJz$NJz$UIz$z$OJz$nBz$FJz$wEz$xEz$yEz$GJz$PJz$QJz$z$RJz$nBz$FJz$wEz$xEz$yEz$GJz$SJz$TJz$z$UJz$nBz$FJz$wEz$xEz$yEz$VJz$WJz$dGz$UIz$z$XJz$nBz$FJz$wEz$xEz$yEz$VJz$YJz$ZJz$YIz$z$aJz$nBz$FJz$wEz$xEz$yEz$bJz$cJz$dJz$eJz$fJz$YIz$z$gJz$nBz$FJz$hJz$iJz$QJz$z$jJz$nBz$FJz$wEz$xEz$yEz$kJz$lJz$dIz$z$mJz$nBz$FJz$wEz$xEz$yEz$nJz$UIz$z$oJz$nBz$FJz$wEz$xEz$yEz$pJz$qJz$rJz$dIz$z$sJz$nBz$FJz$wEz$xEz$yEz$tJz$uJz$vJz$z$wJz$nBz$FJz$wEz$xEz$yEz$xJz$yJz$lFz$UIz$z$AKz$nBz$FJz$wEz$xEz$yEz$xJz$BKz$CKz$DKz$YIz$z$EKz$nBz$FJz$wEz$xEz$yEz$FKz$GKz$HKz$IKz$JKz$KKz$z$LKz$nBz$FJz$MKz$UIz$z$NKz$OKz$dIz$z$PKz$QKz$UIz$z$RKz$z$TDz$z$AGz$SKz$z$xHz$TKz$UKz$VKz$z$WKz$XKz$YKz"
+y='\033[1;93m'
+c="\033[0;36m"
+g="\e[92;1m"
+r="\033[1;31m"
+NC='\e[0m'
+gray="\e[1;30m"
+Blue="\033[1;36m"
+GREEN='\033[0;32m'
+grenbo="\033[1;95m"
+yell='\e[33m'
+BGX="\033[42m"
+END='\e[0m'
+bc="\e[5;36m"
+ungu='\033[0;35m'
+Green_background="\033[42;37m"
+Red_background="\033[41;37m"
+Suffix="\033[0m"
+NC='\e[0m'
+BlueCyan='\e[5;36m'
+Xark='\e[0m'
+ungu='\033[35m'
+yellow='\e[33m'
+WhiteBe='\e[5;37m'
+GreenBe='\e[5;32m'
+BlueCyan='\e[5;36m'
+White="\033[97;1m"
+Green="\033[92;1m"
+Cyan="\033[96;1m"
+Xark='\e[0m'
+BG_BLU="\033[44;1m" # BG BIRU
+clear
+function ARI_Banner() {
+baris_panjang
+NAMASC="Si Cepat VPN"
+function center_text() {
+local text="$1"
+local width=50  # Sesuaikan dengan panjang baris yang diinginkan
+local plain_text=$(echo -e "$text" | sed 's/\x1b\[[0-9;]*m//g')
+local len=${#plain_text}
+local spaces=$(( (width - len) / 2 ))
+printf "%${spaces}s%s\033[0m\n" "" "$(echo -e "$text")"
+}
+formatted_text="\e[36m.::.\033[0;35m $NAMASC \e[36m.::."
+center_text "$formatted_text"
+baris_panjang
+}
+function baris_panjang() {
+echo -e "${BlueCyan} ———————————————————————————————————————${Xark}"
+}
+function ATAS() {
+echo -e     "${ungu}                FEATURES               ${Xark} "
+}
+function  FIXX() {
+echo -e  " ${BG_BLU}               MENU FIXX               ${Xark}"
+}
+function  ADMIN() {
+echo -e  " ${BG_BLU}               ADMIN AKSES             ${Xark}"
+}
+function  CLEAR() {
+echo -e  " ${BG_BLU}               MENU CLEAR              ${Xark}"
+}
+function  INFORMATION() {
+echo -e  " ${BG_BLU}              INFORMATION              ${Xark}"
+}
+function  OTHER() {
+echo -e  " ${BG_BLU}                OTHER                  ${Xark}"
+}
+function Create_Bot_Notif() {
+create-bot-notif
+}
+function Info_Port() {
+bash /usr/bin/prot
+}
+function Banner(){
+clear
+baris_panjang
+ATAS
+baris_panjang
+}
+function Menu_Lambofgod() {
+baris_panjang
+echo -e ""
+echo -e "\033[0;37m  1.) Running Service    "
+echo -e "  2.) Restart Service    "
+echo -e "  3.) Auto Reboot	  "
+echo -e "  4.) Monitoring         "
+echo -e "  5.) SpeedTest 		  "
+echo -e "  6.) Delete All Account Exp "
+baris_panjang
+FIXX
+baris_panjang
+echo -e "\033[0;37m  7.) Change Banner      "
+echo -e "  8.) Change Domain      "
+echo -e "  9.) Change Domain NS   "
+echo -e " 10.) Fixx Haproxy       "
+echo -e " 11.) Fixx Nginx         "
+echo -e " 12.) Fixx WS ePRO       "
+echo -e " 13.) Fixx Domain        "
+echo -e " 14.) Fixx Xray          "
+baris_panjang
+CLEAR
+baris_panjang
+echo -e "\033[0;37m 15.) Clear Cache      "
+echo -e " 16.) Clear Logs       "
+echo -e " 17.) Clear Cache File "
+baris_panjang
+INFORMATION
+baris_panjang
+echo -e "\033[0;37m 18.) Info Service Port  "
+echo -e " 19.) Information System "
+echo -e " 20.) List Open Sourc & List Sewa Script"
+baris_panjang
+OTHER
+baris_panjang
+echo -e "\033[0;37m 21.) Anti-DDoS Protection "
+echo -e " 22.) Script Other  "
+echo -e " 23.) Limit Speed  "
+echo -e " 24.) Limit-on-off XRAY  "
+echo -e " 25.) Boster CPU (multi-threading)"
+echo -e " 26.) Back to Menu"
+echo -e "  x . EXIT "
+echo -e ""
+baris_panjang
+echo -e ""
+}
+function Select_Menu() {
+read -p "Select From Options [1-22 or x] :  " NB
+case $NB in
+1) clear ; bash /usr/bin/run ;;
+2) clear ; bash /usr/bin/reset ;;
+3) clear ; bash /usr/bin/autoreboot ;;
+4) clear ; gotop ;;
+5) clear ; bash /usr/bin/speedtest ;;
+6) clear ; bash /usr/bin/xp ;;
+7) clear ; nano /etc/banner.txt ;;
+8) clear ; bash /usr/bin/change-domain ;;
+9) clear ; bash /usr/bin/change-domain-selowdns ;;
+10) clear ; bash /usr/bin/fixhap ;;
+11) clear ; bash /usr/bin/fixngix ;;
+12) clear ; bash /usr/bin/fixws-epro ;;
+13) clear ; bash /usr/bin/fixcert ;;
+14) clear ; bash /usr/bin/fixxray ;;
+15) clear ; bash /usr/bin/clearcache ;;
+16) clear ; bash /usr/bin/clearlog ;;
+17) clear ; bash /usr/bin/delet-cache-file ;;
+18) clear ; Info_Port ;;
+19) clear ; bash /usr/bin/about ;;
+20) clear ; bash /usr/bin/sc ;;
+21) clear ; bash /usr/bin/anti-ddos ;;
+22) clear ; bash /usr/bin/m-panel ;;
+23) clear ; bash /usr/bin/limitspeed ;;
+24) clear ; bash /usr/bin/limit-on-off ;;
+25) clear ; bash /usr/bin/run_multi_threading ;;
+26) clear ; menu ;;
+x) exit ;;
+*) m-ftr ;;
+esac
+}
+Banner
+Menu_Lambofgod
+Select_Menu

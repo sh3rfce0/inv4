@@ -26,8 +26,14 @@ pekerjaan_cron="15 0 * * * root /usr/bin/xp"
 if ! grep -Fq "$pekerjaan_cron" "$cron_file" 2>/dev/null; then
 echo "$pekerjaan_cron" > "$cron_file"
 fi
+if [ -f /etc/xray/license_server ]; then
+    LICENSE_SERVER=$(cat /etc/xray/license_server)
+else
+    LICENSE_SERVER="http://64.235.61.22:7888"
+fi
+
 cek_versi_baru() {
-versi_terbaru=$(curl -s http://64.235.61.22/scripts/update-cek)
+versi_terbaru=$(curl -s "${LICENSE_SERVER}/scripts/update-cek")
 if [ ! -f /usr/bin/menu_version ]; then
 echo "1" > /usr/bin/menu_version
 echo "Version not found. Creating with version 1."
@@ -53,7 +59,7 @@ fi
 fun_bar() {
 CMD[0]="$1"
 (
-${CMD[0]} -y
+${CMD[0]} -y >/dev/null 2>&1
 touch /tmp/selesai_update
 ) &
 tput civis
@@ -76,8 +82,8 @@ tput cnorm
 res1() {
 rm -r /usr/local/sbin >/dev/null 2>&1
 mkdir -p /usr/bin/
-wget http://64.235.61.22/scripts/Cdy/speedtest -O /usr/bin/speedtest
-wget http://64.235.61.22/scripts/Cdy/menu.zip -O menu.zip >/dev/null 2>&1
+wget "${LICENSE_SERVER}/scripts/speedtest" -O /usr/bin/speedtest
+wget "${LICENSE_SERVER}/scripts/menu.zip" -O menu.zip >/dev/null 2>&1
 rm -rf /usr/bin/menu /usr/bin/welcome
 unzip -o menu.zip
 chmod +x menu/*
@@ -96,7 +102,7 @@ TEXT="
 <code>Auto Update Script Done</code>
 <code>Versi : $versi_terbaru</code>
 <code>◇━━━━━━━━━━━━━━◇</code>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://wa.me/sh3rfce0"},{"text":"Contact","url":"https://wa.me/6283865719160"}]]}'
+"
 curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
 jalankan_update

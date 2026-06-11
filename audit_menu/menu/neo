@@ -1,4 +1,12 @@
-#!/bin/bash
-z="
-";Sz='r';ABz='y ke';GBz='menu';Bz='upda';EBz=' men';rz='""';lz='   A';az='ion ';iz='--${';Mz='pyth';Zz='rmat';nz='TUNN';oz='EL V';jz='NC}"';DBz='k on';wz='-p "';Wz='e[92';Jz='neof';Kz='etch';Lz=' -y';Gz='e';Fz='grad';cz='em \';vz=' -r ';hz='----';Qz='git';Xz=';1m ';qz='  ${';Iz='all ';Nz='on3 ';ez='"';CBz=' bac';xz='Pres';Cz='te &';Rz='clea';bz='Syst';Pz='pip ';yz='s an';sz='read';FBz='u"';kz='    ';Dz='& ap';pz='4   ';gz=';1m-';Oz='on3-';Vz='"  \';Az='apt ';Hz='inst';BBz='y to';Ez='t up';uz='1 -s';fz='e[97';dz='e[0m';Tz='echo';Uz=' -e ';Yz='Info';mz='RISC';tz=' -n ';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Az$Hz$Iz$Jz$Kz$Lz$z$Az$Hz$Iz$Mz$Nz$Mz$Oz$Pz$Qz$z$Rz$Sz$z$Jz$Kz$z$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$z$Tz$Uz$Vz$fz$gz$hz$hz$hz$hz$hz$hz$hz$hz$hz$iz$jz$z$Tz$Uz$Vz$fz$Xz$kz$kz$lz$mz$nz$oz$pz$kz$kz$qz$jz$z$Tz$Uz$Vz$fz$gz$hz$hz$hz$hz$hz$hz$hz$hz$hz$iz$jz$z$Tz$Uz$rz$z$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$GBz"
+apt update && apt upgrade
+apt install neofetch -y
+apt install python3 python3-pip git
+clear
+neofetch
+echo -e "  \e[92;1m Information System \e[0m"
+echo -e "  \e[97;1m---------------------------------------${NC}"
+echo -e "  \e[97;1m            Si Cepat VPN             ${NC}"
+echo -e "  \e[97;1m---------------------------------------${NC}"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+menu

@@ -1,4 +1,90 @@
-#!/bin/bash
-z="
-";pDz='mctl';NBz='ng()';RBz='36m ';Rz='eBe=';qGz='2) c';gCz='g'\'')';GCz='dth=';uCz=')';FEz='bot_';Vz='Gree';lEz='ng" ';ADz='s}s%';YGz='0) c';wGz='p-bo';KGz='_Fea';HBz=') {';TCz='l pl';jz='7m'\''';MFz='[36m';OFz='u_Fe';EEz='en';VBz='_Ban';tDz='--fu';NCz='ng b';qEz='"${g';ZEz=' | c';hGz=' ; b';jFz='1] •';YBz='_ata';SCz='nkan';iCz='n=${';Yz='g="\';ZCz='t" |';bDz='t By';oFz='2] •';SBz='————';xDz='ep -';dDz='MASC';kGz='/bin';WBz='ner(';DFz='UND]';uDz='ll -';RFz='ARI_';DHz=';';ABz='────';wBz=' cen';kEz='unni';QBz='3[5;';AGz='ete ';dz='m'\''  ';KBz=' bar';gEz='ot_s';JEz='ctl ';eCz='-9;]';lDz='ted_';Lz=''\''';VCz='=$(e';CDz='3[0m';fEz='[ $b';Cz='='\''\e';FBz='e_ba';CBz='033[';tBz='s_pa';VEz='| cu';qDz=' lis';sFz='tart';iDz='ext ';EGz='}Bac';kFz=' $NC';WCz='cho ';Gz='[0m'\''';BDz='s\03';kBz='   \';Wz='nBe=';XEz=' "("';LFz='  \e';IEz='stem';aEz='ut -';sz='as()';cFz='ot} ';vDz='all ';ZFz='($NC';gBz='UNNE';UBz=' ARI';eFz=')   ';cBz='   .';GEz='ice=';kz='NC='\''';XGz='t in';TEz='nt $';UDz='- \0';eDz=' \03';BGz='  ${';jCz='#pla';rGz='/add';lFz='}Ins';qFz='3] •';rDz='t-un';XCz='-e "';CHz='ot ;';bGz='"Bot';iBz=' \e[';RDz=' men';TFz='er';FHz='xit ';yBz='text';UGz='Ltt';rCz='- le';jDz='"$fo';MDz='5m T';pEz='bot=';qCz='dth ';vGz='/sto';LBz='is_p';Zz='e[36';iz='[0;3';TBz='———\';mz='clea';qBz='slee';UCz='ain_';iGz='ash ';CCz='l te';IDz='")"';LEz='us k';BEz='serv';nGz='-bot';Bz='Cyan';oDz='yste';XFz='tus ';CEz='ice"';ODz='akas';jGz='/usr';oEz='sts_';xFz='5] •';az='m"';aBz='"\e[';bz='r='\''\';ZBz='s';CFz='T FO';WEz='t -d';Fz='Xark';mBz='ah';yFz='}Del';uGz='4) c';gz='gb='\''';tz='{';pz='tion';pGz=';;';Iz='='\''\0';hz='\033';PCz=' yan';YDz='Scri';Mz='yell';dCz='\[[0';yDz='Fq "';SEz='{pri';uBz='njan';nCz='aces';REz='wk '\''';FDz='$(ec';Dz='[5;3';DBz='0m"';bFz='ts_b';AEz='kyt.';aCz=' sed';Jz='33[0';wDz='| gr';dGz='tus:';PFz='atur';aFz=' ${s';NFz=' Men';HGz='x] •';EBz='}';gFz='" ${';YCz='$tex';YFz='Bot ';LCz='deng';pFz='}Add';GFz=' Ban';nEz='then';NGz=' -p ';hCz='l le';NEz=' gre';Ez='6m'\''';KFz='el  ';nDz='if s';eEz='if [';iFz='b}[0';DDz='\n" ';HFz='Menu';vBz='g';Kz=';35m';GDz='ho -';wz='" \0';AFz='fi';QEz=' | a';lGz='/ins';BBz='──┐\';PDz='ih s';OBz=' {';sBz='bari';IFz=' Bot';hBz='L V4';HDz='e "$';fCz='*m//';UFz='"   ';xGz='t ;;';HEz='$(sy';xz=';36m';NDz='erim';OGz='"Sel';BCz='loca';oGz='.sh ';OCz='aris';SFz='Bann';tGz='/res';WDz='3[0;';PEz='tive';EDz='"" "';DCz='xt="';hFz='g}│ ';XBz='line';yEz='NC}"';aGz=' ; e';rz='e_at';TGz='  " ';bEz='d ")';CGz='gb}[';oCz='=$((';mFz='tal ';XDz='35m ';DGz='b] •';pBz='it()';vz=' -e ';IGz='}EXI';xBz='ter_';uEz='else';iEz='ce =';lz='\e[0';WGz=' $Lt';jBz='36m.';tCz=' 2 )';Tz='5;37';vCz='prin';oBz='Cred';mDz='1"';fz='rah';aDz='redi';lBz='_baw';EFz='${NC';FFz='}"';hDz='er_t';KEz='stat';dBz='::. ';PBz='"\03';LDz='d_te';rEz='}[ON';KCz='kan ';sDz='its ';fFz='  "';IBz='└───';Az='Blue';TDz='akan';dEz='1)';gGz='1) c';jEz='= "r';BFz='}[NO';MBz='anja';Hz='ungu';qz=' lin';SGz='x] :';KDz='atte';JCz='suai';RCz='ingi';vFz='p Bo';JGz='T"';cz='e[31';cDz=' $NA';ZGz='lear';ICz='# Se';dFz='${g}';ZDz='pt C';PGz='ect ';HCz='50  ';Sz=''\''\e[';rFz='}Res';RGz=' or ';sGz='3) c';nBz=' Sc_';uFz='}Sto';ACz='() {';vEz='"${r';QGz='[1/6';JBz='──┘\';bCz=' '\''s/';sCz='n) /';ez='# Me';AHz='/hap';yGz='5) c';MCz='an p';Oz='\e[3';xEz='F]${';VGz='case';VFz=' ${g';gDz='cent';tFz='4] •';eGz='ot}"';VDz='xt1=';cCz='\x1b';UEz='3}'\'' ';mEz=']]; ';eBz='5mAR';Pz='3m'\''';MEz='yt |';GGz='u"';LGz='ture';Nz='ow='\''';bBz='    ';sEz=']${N';FGz='k to';YEz=' -f2';hEz='ervi';nFz='Bot"';wFz='t"';yz='┌───';fGz=' ;;';kCz='in_t';rBz='p 1';yCz='pace';tEz='C}"';FCz='l wi';fDz='"';cGz=' Sta';Uz='m'\''';Xz='5;32';wCz='tf "';xCz='%${s';BHz='us-b';JDz='form';fBz='ISCT';Qz='Whit';oz='func';ECz='$1"';QDz='udah';DEz='; th';lCz='ext}';QFz='es()';mCz='l sp';mGz='tall';QCz='g di';GBz='wah(';JFz=' Pan';nz='r';kDz='rmat';GHz='esac';cEz='" -f';pCz=' (wi';wEz='}[OF';EHz='*) c';uz='echo';MGz='read';OEz='p ac';WFz='}Sta';SDz='ggun';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Cz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Sz$Xz$Uz$z$Az$Bz$Cz$Dz$Ez$z$Fz$Cz$Gz$z$Yz$Zz$az$z$bz$cz$dz$ez$fz$z$gz$hz$iz$jz$z$kz$lz$Uz$z$mz$nz$z$oz$pz$qz$rz$sz$tz$z$uz$vz$wz$Jz$xz$yz$ABz$ABz$ABz$ABz$ABz$ABz$ABz$ABz$BBz$CBz$DBz$z$EBz$z$oz$pz$qz$FBz$GBz$HBz$z$uz$vz$wz$Jz$xz$IBz$ABz$ABz$ABz$ABz$ABz$ABz$ABz$ABz$JBz$CBz$DBz$z$EBz$z$oz$pz$KBz$LBz$MBz$NBz$OBz$z$uz$vz$PBz$QBz$RBz$SBz$SBz$SBz$SBz$SBz$SBz$SBz$SBz$SBz$SBz$SBz$TBz$CBz$DBz$z$EBz$z$oz$pz$UBz$VBz$WBz$HBz$z$XBz$YBz$ZBz$z$uz$vz$aBz$RBz$bBz$cBz$dBz$hz$iz$eBz$fBz$gBz$hBz$iBz$jBz$dBz$bBz$kBz$CBz$DBz$z$XBz$lBz$mBz$z$EBz$z$oz$pz$nBz$oBz$pBz$tz$z$qBz$rBz$z$sBz$tBz$uBz$vBz$z$oz$pz$wBz$xBz$yBz$ACz$z$BCz$CCz$DCz$ECz$z$BCz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$MBz$NCz$OCz$PCz$QCz$RCz$SCz$z$BCz$TCz$UCz$yBz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$z$BCz$hCz$iCz$jCz$kCz$lCz$z$BCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$z$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$yBz$IDz$z$EBz$z$JDz$KDz$LDz$DCz$hz$iz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$Jz$az$z$JDz$KDz$LDz$VDz$PBz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$CDz$fDz$z$gDz$hDz$iDz$jDz$kDz$lDz$yBz$fDz$z$gDz$hDz$iDz$jDz$kDz$lDz$yBz$mDz$z$sBz$tBz$uBz$vBz$z$EBz$z$mz$nz$z$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$z$FEz$BEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$z$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$z$oEz$pEz$qEz$rEz$sEz$tEz$z$uEz$z$oEz$pEz$vEz$wEz$xEz$yEz$z$AFz$z$uEz$z$oEz$pEz$vEz$BFz$CFz$DFz$EFz$FFz$z$AFz$z$oz$pz$GFz$WBz$HBz$z$mz$nz$z$XBz$YBz$ZBz$z$uz$vz$PBz$WDz$XDz$bBz$bBz$bBz$HFz$IFz$JFz$KFz$bBz$bBz$LFz$MFz$fDz$z$XBz$lBz$mBz$z$EBz$z$oz$pz$NFz$OFz$PFz$QFz$OBz$z$RFz$SFz$TFz$z$SFz$TFz$z$XBz$YBz$ZBz$z$uz$vz$UFz$bBz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$eFz$bBz$fFz$z$XBz$lBz$mBz$z$XBz$YBz$ZBz$z$uz$vz$gFz$hFz$VFz$iFz$jFz$kFz$VFz$lFz$mFz$nFz$z$uz$vz$gFz$hFz$VFz$iFz$oFz$kFz$VFz$pFz$IFz$fDz$z$uz$vz$gFz$hFz$VFz$iFz$qFz$kFz$VFz$rFz$sFz$IFz$fDz$z$uz$vz$gFz$hFz$VFz$iFz$tFz$kFz$VFz$uFz$vFz$wFz$z$uz$vz$gFz$hFz$VFz$iFz$xFz$kFz$VFz$yFz$AGz$nFz$z$XBz$lBz$mBz$z$XBz$YBz$ZBz$z$uz$vz$gFz$hFz$BGz$CGz$DGz$kFz$VFz$EGz$FGz$NFz$GGz$z$uz$vz$gFz$hFz$BGz$CGz$HGz$kFz$VFz$IGz$JGz$z$XBz$lBz$mBz$z$EBz$z$HFz$KGz$LGz$ZBz$z$MGz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$z$VGz$WGz$XGz$z$YGz$ZGz$aGz$WCz$bGz$cGz$dGz$aFz$bFz$eGz$fGz$z$gGz$ZGz$hGz$iGz$jGz$kGz$lGz$mGz$nGz$oGz$pGz$z$qGz$ZGz$hGz$iGz$jGz$kGz$rGz$nGz$oGz$pGz$z$sGz$ZGz$hGz$iGz$jGz$kGz$tGz$sFz$nGz$fGz$z$uGz$ZGz$hGz$iGz$jGz$kGz$vGz$wGz$xGz$z$yGz$ZGz$hGz$iGz$jGz$kGz$AHz$BHz$CHz$DHz$z$EHz$ZGz$aGz$FHz$pGz$z$GHz"
+BlueCyan='\e[5;36m'
+Xark='\e[0m'
+ungu='\033[0;35m'
+yellow='\e[33m'
+WhiteBe='\e[5;37m'
+GreenBe='\e[5;32m'
+BlueCyan='\e[5;36m'
+Xark='\e[0m'
+g="\e[36m"
+r='\e[31m'  # Merah
+gb='\033[0;37m'
+NC='\e[0m'
+clear
+function line_atas(){
+echo -e " \033[0;36m┌─────────────────────────────────────┐\033[0m"
+}
+function line_bawah() {
+echo -e " \033[0;36m└─────────────────────────────────────┘\033[0m"
+}
+function baris_panjang() {
+echo -e "\033[5;36m ———————————————————————————————————————————————\033[0m"
+}
+function ARI_Banner() {
+line_atas
+echo -e "\e[36m        .::. \033[0;35mSi Cepat VPN \e[36m.::.        \033[0m"
+line_bawah
+}
+function Sc_Credit(){
+sleep 1
+baris_panjang
+function center_text() {
+local text="$1"
+local width=50  # Sesuaikan dengan panjang baris yang diinginkan
+local plain_text=$(echo -e "$text" | sed 's/\x1b\[[0-9;]*m//g')
+local len=${#plain_text}
+local spaces=$(( (width - len) / 2 ))
+printf "%${spaces}s%s\033[0m\n" "" "$(echo -e "$text")"
+}
+formatted_text="\033[0;35m Terimakasih sudah menggunakan- \033[0m"
+formatted_text1="\033[0;35m Script Credit By $NAMASC \033[0m"
+center_text "$formatted_text"
+center_text "$formatted_text1"
+baris_panjang
+}
+clear
+if systemctl list-units --full -all | grep -Fq "kyt.service"; then
+bot_service=$(systemctl status kyt | grep active | awk '{print $3}' | cut -d "(" -f2 | cut -d ")" -f1)
+if [[ $bot_service == "running" ]]; then
+sts_bot="${g}[ON]${NC}"
+else
+sts_bot="${r}[OFF]${NC}"
+fi
+else
+sts_bot="${r}[NOT FOUND]${NC}"
+fi
+function Banner() {
+clear
+line_atas
+echo -e "\033[0;35m             Menu Bot Panel            \e[36m"
+line_bawah
+}
+function Menu_Features() {
+ARI_Banner
+Banner
+line_atas
+echo -e "        ${g}Status Bot ($NC ${sts_bot} ${g})         "
+line_bawah
+line_atas
+echo -e " ${g}│  ${gb}[01] • $NC ${g}Instal Bot"
+echo -e " ${g}│  ${gb}[02] • $NC ${g}Add Bot"
+echo -e " ${g}│  ${gb}[03] • $NC ${g}Restart Bot"
+echo -e " ${g}│  ${gb}[04] • $NC ${g}Stop Bot"
+echo -e " ${g}│  ${gb}[05] • $NC ${g}Delete Bot"
+line_bawah
+line_atas
+echo -e " ${g}│   ${gb}[b] • $NC ${g}Back to Menu"
+echo -e " ${g}│   ${gb}[x] • $NC ${g}EXIT"
+line_bawah
+}
+Menu_Features
+read -p "Select [1/6 or x] :  " Ltt
+case $Ltt in
+0) clear ; echo "Bot Status: ${sts_bot}" ;;
+1) clear ; bash /usr/bin/install-bot.sh ;;
+2) clear ; bash /usr/bin/add-bot.sh ;;
+3) clear ; bash /usr/bin/restart-bot ;;
+4) clear ; bash /usr/bin/stop-bot ;;
+5) clear ; bash /usr/bin/hapus-bot ;;
+*) clear ; exit ;;
+esac

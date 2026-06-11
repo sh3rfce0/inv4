@@ -1,4 +1,303 @@
-#!/bin/bash
-z="
-";rHz=' \03';OMz=' 23)';UEz='og-r';hGz='--ma';Yz=';36'\''';jBz='IWhi';SCz='"[${';gKz='4 | ';AIz='i"';nBz='expo';gDz=' ]; ';ACz='rt B';aDz='ocal';vBz='rt Y';Lz='033[';mCz='ENDI';JCz='36m'\''';nIz='re"';MBz='ck='\''';IGz='l":"';PJz='XIT ';QKz='s an';jFz='NOTI';BBz='7m'\'' ';KKz='[0m"';wz='e';VCz='R ${';qFz=' Don';tz='ite=';QGz='},{"';mIz='3 So';mJz=' "0 ';TKz=' bac';XIz='oot ';EEz='e +"';rJz=' > /';CFz='b" |';MHz='bin/';EIz='am 3';vHz='Rebo';TFz='Y/se';ALz='m 8 ';ZKz='02)';GKz='m 1 ';nKz='m 5 ';ZCz='NFO=';bHz='NC\0';WIz='-Reb';vEz='#bot';uIz='}19.';Hz='Blac';wJz='o-Re';eBz='ple=';oJz='* * ';GMz=' 21)';kGz='"cha';xDz='+"%m';xLz=' 19)';OEz='ime ';KMz='22 *';FBz='05m'\''';HGz=',"ur';lFz='/b>';TGz='onta';oIz='}16.';oCz='[${Y';JIz='}6.$';Az='BIBl';LBz='IBla';TDz='ecki';pHz='reen';sIz='}18.';tLz='18 |';vz='Whit';BIz='}2.$';cBz='0;94';uz='97m'\''';cLz=' 13)';UKz='k on';eGz=']]}'\''';pDz='eboo';gIz='}13.';ULz='m 11';cIz='11 P';mGz='=$CH';rGz='_pag';nLz='16 |';bIz='}11.';PCz='0m'\''';rz='Cyan';eCz='C}]"';TJz='3m<\';ODz='nhaz';FKz='2mJa';HMz='21 *';KJz=' "';Gz='  # ';JMz=' 22)';oz='BICy';ABz='[4;3';lCz='}]"';jLz='15 |';tIz='6 So';QDz='om);';oBz='rt R';AFz='t/.b';VLz='12 |';Oz='Red';PDz='ip.c';GFz='-f 2';oEz='cut ';uCz='END=';RJz='32m<';QHz='tis';tHz='et A';YCz='rt I';RGz='text';EKz='\e[3';OKz='-p "';VFz='ssag';cGz='3939';kHz='$NC"';Wz='='\''\0';tKz='07)';ILz=' * *';rIz='5 So';RKz='y ke';qHz='}1.$';gCz='KEY=';dBz='IPur';OJz='TO E';nJz='1 * ';rEz='f 3)';pIz='4 So';pJz='root';fKz='m 3 ';NGz='I_VP';ZGz='a.me';uKz='7 * ';QLz='0m"';xFz='{"in';bCz='OW} ';tEz='ep -';KGz='s://';IHz='d +x';GHz='EOF';hFz='OREB';dCz=' ${N';hHz='R AU';xGz='arse';HJz='}24.';EHz='ev/n';BJz='9 Ma';WEz='t';bJz=' -p ';az='ello';CKz=' Set';SMz='0 * ';mLz='Sore';JBz='101m';vGz='=$TE';FGz=':"ᴏʀ';lIz='}15.';NLz='n.d/';ZLz=' Sia';sLz='17 *';NCz='rt N';YDz='e /u';dGz='59"}';nCz='NG="';NKz=' -r ';ZEz='utdo';MLz='/cro';nEz='" | ';HHz='chmo';hLz=' 14)';sCz=']"';jIz='}14.';YLz='m 12';EDz=''\''\e[';LFz='"htt';CHz='$URL';Fz='    ';iz='rple';CLz='09)';pEz='-d '\''';LEz=' \$t';WCz='NC}]';ZIz='10 P';GBz='  #';AHz='e=ht';fCz='rt O';EMz='20 *';ECz='URPL';vLz='18 *';IDz='32m'\''';FMz='21 |';TLz='11 *';gHz='NAGE';Mz='1;91';dFz='code';rFz='e</c';dEz='ID=$';sBz='rt G';gJz='" op';QFz='m.or';lKz='05)';yGz='_mod';MKz='1 -s';tCz='rt S';qIz='}17.';fGz='curl';sGz='e_pr';yKz='8 * ';tGz='evie';PGz='ORE"';DMz=' 20)';HKz='Pagi';DFz=' cut';PEz='\$wa';oDz='in/r';UJz='m<\0';PKz='Pres';XKz=';;';uEz='E "^';fDz='atis';iJz=' $op';BKz='ully';uBz=';32m';XBz='93m'\''';HBz='Red=';wKz='8 | ';eLz='Sian';lHz='36└─';WKz='menu';nGz='ATID';fJz='u : ';sz='BIWh';bDz='/bin';BFz='ot.d';bz='w';UMz='00)';fIz='iang';XEz='/sbi';jJz='t in';BEz='wakt';VHz='3[5;';wLz='19 |';bLz='13 |';hJz='case';cKz='3 | ';hKz='04)';CBz='On_I';WGz='":"h';yCz='W} R';RHz='fi';qEz=' '\'' -';kz=';95m';vKz='m 7 ';wFz='kup=';OHz='ot_o';nFz='to R';yz='te='\''';AEz='%Y")';GEz=' "Su';JJz=' $NC';MGz='e/AR';cCz='INFO';hz='BIPu';lGz='t_id';QJz='MENU';WDz='if [';Dz='3[1;';ZJz='34m ';CIz='am 2';BCz='LUE=';JEz='ly R';EFz=' -d ';dLz='13 *';XCz='"';TEz='ot/l';cHz='33[4';CGz='d":[';DDz='red=';GCz='0;35';sHz='36mS';GGz='ᴅᴇʀ"';FCz='E='\''\';sJz='etc/';Cz=''\''\03';VIz='Auto';CDz='r';vDz='\$(d';wGz='XT&p';QBz='33[0';HLz='10 *';Ez='90m'\''';AKz='sesf';vCz='SEND';mKz='5 * ';HCz='rt C';fEz='p -E';SJz='[1;3';rBz='1m'\''';wCz='ECEI';NDz=' ica';uHz='uto-';QIz='am 9';Kz='d='\''\';PMz='23 *';JLz=' roo';CJz='}22.';eKz='3 * ';NFz='/api';yEz='c/bo';yBz='0;33';jGz='me $';IMz='22 |';aLz='ng\e';MCz=';37m';bEz='r no';PLz='i\e[';vJz='"Aut';bGz='1327';sDz='is';BGz='boar';kFz='F⚠️<';VBz='IYel';TBz='en='\''';FDz='1;31';qLz='17 |';aCz='YELL';PHz='toma';kCz='${NC';vFz='_mar';xEz='"/et';WJz='$NC ';VDz='PS"';KFz='URL=';wEz='# " ';NJz='ACK ';XLz='12 *';dDz='oot_';SBz='IGre';gBz='ICya';oGz='&dis';kEz='/bot';yIz='8 Ma';VKz='u"';pFz='rver';cDz='/reb';hBz='n='\''\';aJz='read';ZBz='ow';IJz='12 M';THz='""';JFz='="10';oHz=' ${g';WLz=' 12)';LIz='}7.$';RCz='ROR=';Xz='33[5';eIz='12 S';LCz='IGHT';KDz='=$(w';JKz='====';tFz='"'\''&r';UCz=' ERO';RFz='g/bo';bFz='━━━━';xKz='08)';iKz='4 * ';YGz='://w';IIz='am 5';qDz='t_ot';fHz='U MA';pLz='16 *';aHz='36│$';OCz='C='\''\';KLz='t /u';tJz='cron';UBz='2m'\'' ';LGz='wa.m';xIz='}20.';gGz=' -s ';hEz='bot#';RDz='echo';qBz='[0;3';BLz='9 | ';mEz='t.db';jHz='BOOT';iHz='TORE';Rz='92m'\''';IFz='TIME';GLz=' 10)';lEz='/.bo';iCz='N} O';YJz='m\03';IBz='3[0;';dKz='03)';bBz='e='\''\';Nz='m'\''  ';IEz='sful';MFz='ps:/';lLz='15 *';DGz='[{"t';CMz='20 |';XGz='ttps';AMz='Mala';xBz='W='\''\';RIz='}10.';xJz='boot';SKz='y to';MEz='angg';MIz='am 7';KEz='t On';iDz='cat ';qKz='6 * ';qGz='_web';Pz='BIGr';sKz='7 | ';YHz='─┐\0';ELz='m 9 ';SFz='t$KE';TCz='RED}';UIz='Set ';ZFz='<cod';uJz='.d/r';RLz='11 |';gz='Blue';qCz='NG $';FHz='ull';gLz='14 |';OGz='N_ST';rDz='omat';WBz='low=';kKz='5 | ';HDz='e[0;';CCz='34m'\''';yHz=' Pag';pKz='06)';EBz='[0;1';kIz='2 Si';pGz='able';YIz='Jam ';HEz='cces';YFz='="';EJz='alam';hCz='GREE';kBz='NC='\''';iFz='OOT ';OBz='0m'\'' ';eDz='otom';Bz='ack=';jEz='/etc';UHz='"\03';aBz='IBlu';mHz='─┘\0';rCz='{NC}';fFz='<b> ';RBz=';91m';DBz='le='\''';sEz='$(gr';KHz='r/lo';EGz='ext"';FEz='%T")';oKz='6 | ';Jz='BIRe';NIz='}8.$';nz='le';PBz='IRed';SIz='} \0';kDz='F > ';jCz='KEY ';Uz='BIYe';MJz='36mB';AJz='}21.';vIz='7 Ma';dJz='lect';ZHz='m"';wBz='ELLO';aFz='e>◇━';TIz=';36m';XHz='────';Sz='Gree';OFz='.tel';KCz='rt L';aGz='/628';fLz='g\e[';JDz='MYIP';UFz='ndMe';lJz='01)';WFz='e"';LMz=' Mal';SLz=' 11)';OIz='am 8';GIz='am 4';cEz='CHAT';gFz=' AUT';eFz='>';LKz=' -n ';Vz='llow';YBz='Yell';YMz='esac';tBz='REEN';jz='33[1';mDz='/loc';LHz='cal/';PFz='egra';mz='Purp';yDz='-%d-';qJz='tis"';lDz='/usr';pz='an='\''';cz='ue='\''';ZDz='sr/l';DLz='9 * ';pBz='ED='\''';aKz='2 * ';eJz=' men';BMz='m\e[';KIz='am 6';XJz='\E[0';UGz='ct",';JHz=' /us';eEz='(gre';VEz='t.tx';FLz='10 |';ADz='VE $';GJz='11 M';Zz=' # Y';XMz='*)';FJz='}23.';FFz=''\'' '\'' ';nDz='al/b';nHz='36│ ';DCz='rt P';NBz='[0;9';LDz='get ';kLz=' 15)';rLz=' 17)';QCz='rt E';cJz='" Se';fz='4m'\'' ';dz='\033';Iz='k';iIz='ang"';AGz='_key';HIz='}5.$';SGz='":"C';SDz=' "Ch';HFz=')';WMz='exit';LLz='" > ';dIz='}12.';VMz='x)';WHz='36┌─';GDz='gree';KBz=''\''';DHz=' >/d';jKz='m 4 ';BHz='ml" ';uDz='gal=';YKz='2 | ';mFz='e>Au';IKz='36==';NHz='rebo';CEz='u=\$';REz='" >>';iGz='x-ti';MDz='-qO-';cFz='━◇</';wIz='lam"';wDz='ate ';hDz='then';MMz='am\e';OLz='m 10';DEz='(dat';uGz='w=1&';yFz='line';tDz='tang';xHz='am 1';FIz='}4.$';xCz='VE="';TMz='0 | ';xz='UWhi';QEz='ktu.';eHz=' MEN';ez='[1;9';rKz='m 6 ';aIz='agi"';ICz='YAN=';sFz='ode>';bKz='m 2 ';oLz=' 16)';PIz='}9.$';iLz='14 *';Qz='een=';UDz='ng V';Tz='n';uFz='eply';wHz='ot J';RMz=' 24)';jDz='<<EO';XFz='TEXT';SHz=' -e ';lz=''\''   ';LJz='}0.$';hIz='1 Si';lBz='\e[0';VJz=';31m';uLz=' 18)';kJz='1 | ';DJz='10 M';iBz='0;96';gEz=' "^#';oFz='t Se';fBz='95m'\''';VGz='"url';SEz=' /ro';DKz=' at ';dHz='2m  ';qz='6m'\'' ';JGz='http';mBz='m'\''';aEz='wn -';iEz=' " "';NEz='al T';XDz=' ! -';yLz='19 *';YEz='n/sh';pCz='W} P';DIz='}3.$';BDz='clea';yJz=' Suc';NMz='23 |';QMz='24 |';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$z$Jz$Kz$Lz$Mz$Nz$Fz$Gz$Oz$z$Pz$Qz$Cz$Dz$Rz$Fz$Gz$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Fz$Zz$az$bz$z$Az$cz$dz$ez$fz$Fz$Gz$gz$z$hz$iz$Wz$jz$kz$lz$Gz$mz$nz$z$oz$pz$dz$ez$qz$Fz$Gz$rz$z$sz$tz$Cz$Dz$uz$Fz$Gz$vz$wz$z$xz$yz$dz$ABz$BBz$Fz$Gz$vz$wz$z$CBz$mz$DBz$dz$EBz$FBz$GBz$z$CBz$HBz$Cz$IBz$JBz$KBz$z$LBz$MBz$dz$NBz$OBz$Fz$Gz$Hz$Iz$z$PBz$Wz$QBz$RBz$lz$Fz$Gz$Oz$z$SBz$TBz$dz$NBz$UBz$Fz$Gz$Sz$Tz$z$VBz$WBz$Cz$IBz$XBz$Fz$Gz$YBz$ZBz$z$aBz$bBz$Lz$cBz$Nz$Fz$Gz$gz$z$dBz$eBz$Cz$IBz$fBz$Fz$Gz$mz$nz$z$gBz$hBz$Lz$iBz$Nz$Fz$Gz$rz$z$jBz$yz$dz$NBz$BBz$Fz$Gz$vz$wz$z$kBz$lBz$mBz$z$nBz$oBz$pBz$dz$qBz$rBz$z$nBz$sBz$tBz$Wz$QBz$uBz$KBz$z$nBz$vBz$wBz$xBz$Lz$yBz$mBz$z$nBz$ACz$BCz$Cz$IBz$CCz$z$nBz$DCz$ECz$FCz$Lz$GCz$mBz$z$nBz$HCz$ICz$Cz$IBz$JCz$z$nBz$KCz$LCz$Wz$QBz$MCz$KBz$z$nBz$NCz$OCz$Lz$PCz$z$nBz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$z$nBz$YCz$ZCz$SCz$aCz$bCz$cCz$dCz$eCz$z$nBz$fCz$gCz$SCz$hCz$iCz$jCz$kCz$lCz$z$nBz$DCz$mCz$nCz$oCz$wBz$pCz$mCz$qCz$rCz$sCz$z$nBz$tCz$uCz$SCz$aCz$bCz$vCz$dCz$eCz$z$nBz$oBz$wCz$xCz$oCz$wBz$yCz$wCz$ADz$rCz$sCz$z$BDz$CDz$z$DDz$EDz$FDz$mBz$z$GDz$hBz$HDz$IDz$z$kBz$lBz$mBz$z$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$z$RDz$SDz$TDz$UDz$VDz$z$BDz$CDz$z$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$z$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$z$tDz$uDz$vDz$wDz$xDz$yDz$AEz$z$BEz$CEz$DEz$EEz$FEz$z$RDz$GEz$HEz$IEz$JEz$pDz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$pDz$VEz$WEz$z$XEz$YEz$ZEz$aEz$bEz$bz$z$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$z$gCz$sEz$tEz$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$z$IFz$JFz$XCz$z$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$z$XFz$YFz$z$ZFz$aFz$bFz$bFz$bFz$cFz$dFz$eFz$z$fFz$gFz$hFz$iFz$jFz$kFz$lFz$z$ZFz$aFz$bFz$bFz$bFz$cFz$dFz$eFz$z$ZFz$mFz$nFz$pDz$oFz$pFz$qFz$rFz$sFz$z$ZFz$aFz$bFz$bFz$bFz$cFz$dFz$eFz$z$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$z$fGz$gGz$hGz$iGz$jGz$IFz$EFz$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$RGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$z$GHz$z$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$z$RHz$z$BDz$CDz$z$RDz$SHz$THz$z$RDz$SHz$UHz$VHz$WHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$YHz$QBz$ZHz$z$RDz$SHz$UHz$VHz$aHz$bHz$cHz$dHz$Fz$Fz$eHz$fHz$gHz$hHz$iHz$jHz$Fz$Fz$kHz$z$RDz$SHz$UHz$VHz$lHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$mHz$QBz$ZHz$z$RDz$SHz$UHz$VHz$WHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$YHz$QBz$ZHz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$qHz$rCz$rHz$IBz$sHz$tHz$uHz$vHz$wHz$xHz$yHz$AIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$BIz$rCz$rHz$IBz$sHz$tHz$uHz$vHz$wHz$CIz$yHz$AIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$DIz$rCz$rHz$IBz$sHz$tHz$uHz$vHz$wHz$EIz$yHz$AIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$FIz$rCz$rHz$IBz$sHz$tHz$uHz$vHz$wHz$GIz$yHz$AIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$HIz$rCz$rHz$IBz$sHz$tHz$uHz$vHz$wHz$IIz$yHz$AIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$JIz$rCz$rHz$IBz$sHz$tHz$uHz$vHz$wHz$KIz$yHz$AIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$LIz$rCz$rHz$IBz$sHz$tHz$uHz$vHz$wHz$MIz$yHz$AIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$NIz$rCz$rHz$IBz$sHz$tHz$uHz$vHz$wHz$OIz$yHz$AIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$PIz$rCz$rHz$IBz$sHz$tHz$uHz$vHz$wHz$QIz$yHz$AIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$RIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$ZIz$aIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$bIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$cIz$aIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$dIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$eIz$fIz$XCz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$gIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$hIz$iIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$jIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$kIz$iIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$lIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$mIz$nIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$oIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$pIz$nIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$qIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$rIz$nIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$sIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$tIz$nIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$uIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$vIz$wIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$xIz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$yIz$wIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$AJz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$BJz$wIz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$CJz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$DJz$EJz$XCz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$FJz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$GJz$EJz$XCz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$HJz$kCz$SIz$QBz$TIz$UIz$VIz$WIz$XIz$YIz$IJz$EJz$XCz$z$RDz$SHz$UHz$VHz$nHz$JJz$KJz$z$RDz$SHz$UHz$VHz$nHz$oHz$pHz$LJz$rCz$rHz$IBz$MJz$NJz$OJz$PJz$QJz$rHz$Dz$RJz$dz$SJz$TJz$Lz$FDz$UJz$jz$VJz$WJz$XJz$YJz$IBz$ZJz$XCz$z$RDz$SHz$UHz$VHz$lHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$XHz$mHz$QBz$ZHz$z$RDz$z$aJz$bJz$cJz$dJz$eJz$fJz$gJz$WEz$z$RDz$SHz$THz$z$hJz$iJz$jJz$z$kJz$lJz$z$BDz$CDz$z$RDz$mJz$nJz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$GKz$HKz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$YKz$ZKz$z$BDz$CDz$z$RDz$mJz$aKz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$bKz$HKz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$cKz$dKz$z$BDz$CDz$z$RDz$mJz$eKz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$fKz$HKz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$gKz$hKz$z$BDz$CDz$z$RDz$mJz$iKz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$jKz$HKz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$kKz$lKz$z$BDz$CDz$z$RDz$mJz$mKz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$nKz$HKz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$oKz$pKz$z$BDz$CDz$z$RDz$mJz$qKz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$rKz$HKz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$sKz$tKz$z$BDz$CDz$z$RDz$mJz$uKz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$vKz$HKz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$wKz$xKz$z$BDz$CDz$z$RDz$mJz$yKz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$ALz$HKz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$BLz$CLz$z$BDz$CDz$z$RDz$mJz$DLz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$ELz$HKz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$FLz$GLz$z$BDz$CDz$z$RDz$mJz$HLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$OLz$yHz$PLz$QLz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$RLz$SLz$z$BDz$CDz$z$RDz$mJz$TLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$ULz$yHz$PLz$QLz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$VLz$WLz$z$BDz$CDz$z$RDz$mJz$XLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$YLz$ZLz$aLz$KKz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$bLz$cLz$z$BDz$CDz$z$RDz$mJz$dLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$GKz$eLz$fLz$QLz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$gLz$hLz$z$BDz$CDz$z$RDz$mJz$iLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$bKz$eLz$fLz$QLz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$jLz$kLz$z$BDz$CDz$z$RDz$mJz$lLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$fKz$mLz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$nLz$oLz$z$BDz$CDz$z$RDz$mJz$pLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$jKz$mLz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$qLz$rLz$z$BDz$CDz$z$RDz$mJz$sLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$nKz$mLz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$tLz$uLz$z$BDz$CDz$z$RDz$mJz$vLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$rKz$mLz$lBz$ZHz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$wLz$xLz$z$BDz$CDz$z$RDz$mJz$yLz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$vKz$AMz$BMz$QLz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$CMz$DMz$z$BDz$CDz$z$RDz$mJz$EMz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$ALz$AMz$BMz$QLz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$FMz$GMz$z$BDz$CDz$z$RDz$mJz$HMz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$ELz$AMz$BMz$QLz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$IMz$JMz$z$BDz$CDz$z$RDz$mJz$KMz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$OLz$LMz$MMz$KKz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$NMz$OMz$z$BDz$CDz$z$RDz$mJz$PMz$ILz$JLz$KLz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$LLz$jEz$MLz$NLz$NHz$OHz$PHz$QHz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$ULz$LMz$MMz$KKz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$QMz$RMz$z$BDz$CDz$z$RDz$mJz$SMz$oJz$pJz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$qJz$rJz$sJz$tJz$uJz$pDz$qDz$rDz$sDz$z$RDz$SHz$vJz$wJz$xJz$yJz$AKz$BKz$CKz$DKz$EKz$FKz$YLz$LMz$MMz$KKz$z$RDz$SHz$UHz$VHz$IKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$JKz$dz$KKz$z$aJz$LKz$MKz$NKz$OKz$PKz$QKz$RKz$SKz$TKz$UKz$eJz$VKz$z$WKz$z$XKz$z$TMz$UMz$z$BDz$CDz$z$WKz$z$XKz$z$VMz$z$WMz$z$XKz$z$XMz$z$RDz$SHz$THz$z$WKz$z$XKz$z$YMz"
+BIBlack='\033[1;90m'      # Black
+BIRed='\033[1;91m'        # Red
+BIGreen='\033[1;92m'      # Green
+BIYellow='\033[5;36'     # Yellow
+BIBlue='\033[1;94m'       # Blue
+BIPurple='\033[1;95m'     # Purple
+BICyan='\033[1;96m'       # Cyan
+BIWhite='\033[1;97m'      # White
+UWhite='\033[4;37m'       # White
+On_IPurple='\033[0;105m'  #
+On_IRed='\033[0;101m'
+IBlack='\033[0;90m'       # Black
+IRed='\033[0;91m'         # Red
+IGreen='\033[0;92m'       # Green
+IYellow='\033[0;93m'      # Yellow
+IBlue='\033[0;94m'        # Blue
+IPurple='\033[0;95m'      # Purple
+ICyan='\033[0;96m'        # Cyan
+IWhite='\033[0;97m'       # White
+NC='\e[0m'
+export RED='\033[0;31m'
+export GREEN='\033[0;32m'
+export YELLOW='\033[0;33m'
+export BLUE='\033[0;34m'
+export PURPLE='\033[0;35m'
+export CYAN='\033[0;36m'
+export LIGHT='\033[0;37m'
+export NC='\033[0m'
+export EROR="[${RED} EROR ${NC}]"
+export INFO="[${YELLOW} INFO ${NC}]"
+export OKEY="[${GREEN} OKEY ${NC}]"
+export PENDING="[${YELLOW} PENDING ${NC}]"
+export SEND="[${YELLOW} SEND ${NC}]"
+export RECEIVE="[${YELLOW} RECEIVE ${NC}]"
+clear
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+MYIP=$(wget -qO- icanhazip.com);
+echo "Checking VPS"
+clear
+if [ ! -e /usr/local/bin/reboot_otomatis ]; then
+cat <<EOF > /usr/local/bin/reboot_otomatis
+tanggal=\$(date +"%m-%d-%Y")
+waktu=\$(date +"%T")
+echo "Successfully Reboot On \$tanggal Time \$waktu." >> /root/log-reboot.txt
+/sbin/shutdown -r now
+CHATID=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 3)
+KEY=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 2)
+TIME="10"
+URL="https://api.telegram.org/bot$KEY/sendMessage"
+TEXT="
+<code>◇━━━━━━━━━━━━━━◇</code>
+<b>  AUTOREBOOT NOTIF⚠️</b>
+<code>◇━━━━━━━━━━━━━━◇</code>
+<code>Auto Reboot Server Done</code>
+<code>◇━━━━━━━━━━━━━━◇</code>
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/she0rif"},{"text":"Contact","url":"https://wa.me/6283865719160"}]]}'
+curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
+EOF
+chmod +x /usr/local/bin/reboot_otomatis
+fi
+clear
+echo -e ""
+echo -e "\033[5;36┌──────────────────────────────────────────┐\033[0m"
+echo -e "\033[5;36│$NC\033[42m           MENU MANAGER AUTOREBOOT        $NC"
+echo -e "\033[5;36└──────────────────────────────────────────┘\033[0m"
+echo -e "\033[5;36┌──────────────────────────────────────────┐\033[0m"
+echo -e "\033[5;36│  ${green}1.${NC} \033[0;36mSet Auto-Reboot Jam 1 Pagi"
+echo -e "\033[5;36│  ${green}2.${NC} \033[0;36mSet Auto-Reboot Jam 2 Pagi"
+echo -e "\033[5;36│  ${green}3.${NC} \033[0;36mSet Auto-Reboot Jam 3 Pagi"
+echo -e "\033[5;36│  ${green}4.${NC} \033[0;36mSet Auto-Reboot Jam 4 Pagi"
+echo -e "\033[5;36│  ${green}5.${NC} \033[0;36mSet Auto-Reboot Jam 5 Pagi"
+echo -e "\033[5;36│  ${green}6.${NC} \033[0;36mSet Auto-Reboot Jam 6 Pagi"
+echo -e "\033[5;36│  ${green}7.${NC} \033[0;36mSet Auto-Reboot Jam 7 Pagi"
+echo -e "\033[5;36│  ${green}8.${NC} \033[0;36mSet Auto-Reboot Jam 8 Pagi"
+echo -e "\033[5;36│  ${green}9.${NC} \033[0;36mSet Auto-Reboot Jam 9 Pagi"
+echo -e "\033[5;36│  ${green}10.${NC} \033[0;36mSet Auto-Reboot Jam 10 Pagi"
+echo -e "\033[5;36│  ${green}11.${NC} \033[0;36mSet Auto-Reboot Jam 11 Pagi"
+echo -e "\033[5;36│  ${green}12.${NC} \033[0;36mSet Auto-Reboot Jam 12 Siang"
+echo -e "\033[5;36│  ${green}13.${NC} \033[0;36mSet Auto-Reboot Jam 1 Siang"
+echo -e "\033[5;36│  ${green}14.${NC} \033[0;36mSet Auto-Reboot Jam 2 Siang"
+echo -e "\033[5;36│  ${green}15.${NC} \033[0;36mSet Auto-Reboot Jam 3 Sore"
+echo -e "\033[5;36│  ${green}16.${NC} \033[0;36mSet Auto-Reboot Jam 4 Sore"
+echo -e "\033[5;36│  ${green}17.${NC} \033[0;36mSet Auto-Reboot Jam 5 Sore"
+echo -e "\033[5;36│  ${green}18.${NC} \033[0;36mSet Auto-Reboot Jam 6 Sore"
+echo -e "\033[5;36│  ${green}19.${NC} \033[0;36mSet Auto-Reboot Jam 7 Malam"
+echo -e "\033[5;36│  ${green}20.${NC} \033[0;36mSet Auto-Reboot Jam 8 Malam"
+echo -e "\033[5;36│  ${green}21.${NC} \033[0;36mSet Auto-Reboot Jam 9 Malam"
+echo -e "\033[5;36│  ${green}22.${NC} \033[0;36mSet Auto-Reboot Jam 10 Malam"
+echo -e "\033[5;36│  ${green}23.${NC} \033[0;36mSet Auto-Reboot Jam 11 Malam"
+echo -e "\033[5;36│  ${green}24.${NC} \033[0;36mSet Auto-Reboot Jam 12 Malam"
+echo -e "\033[5;36│  $NC "
+echo -e "\033[5;36│  ${green}0.${NC} \033[0;36mBACK TO EXIT MENU \033[1;32m<\033[1;33m<\033[1;31m<\033[1;31m$NC \E[0m\033[0;34m "
+echo -e "\033[5;36└──────────────────────────────────────────┘\033[0m"
+echo
+read -p " Select menu : " opt
+echo -e ""
+case $opt in
+1 | 01)
+clear
+echo "0 1 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 1 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+2 | 02)
+clear
+echo "0 2 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 2 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+3 | 03)
+clear
+echo "0 3 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 3 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+4 | 04)
+clear
+echo "0 4 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 4 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+5 | 05)
+clear
+echo "0 5 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 5 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+6 | 06)
+clear
+echo "0 6 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 6 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+7 | 07)
+clear
+echo "0 7 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 7 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+8 | 08)
+clear
+echo "0 8 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 8 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+9 | 09)
+clear
+echo "0 9 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 9 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+10 | 10)
+clear
+echo "0 10 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 10 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+11 | 11)
+clear
+echo "0 11 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 11 Pagi\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+12 | 12)
+clear
+echo "0 12 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 12 Siang\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+13 | 13)
+clear
+echo "0 13 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 1 Siang\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+14 | 14)
+clear
+echo "0 14 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 2 Siang\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+15 | 15)
+clear
+echo "0 15 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 3 Sore\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+16 | 16)
+clear
+echo "0 16 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 4 Sore\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+17 | 17)
+clear
+echo "0 17 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 5 Sore\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+18 | 18)
+clear
+echo "0 18 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 6 Sore\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+19 | 19)
+clear
+echo "0 19 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 7 Malam\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+20 | 20)
+clear
+echo "0 20 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 8 Malam\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+21 | 21)
+clear
+echo "0 21 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 9 Malam\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+22 | 22)
+clear
+echo "0 22 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 10 Malam\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+23 | 23)
+clear
+echo "0 23 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 11 Malam\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+24 | 24)
+clear
+echo "0 0 * * * root /usr/local/bin/reboot_otomatis" > /etc/cron.d/reboot_otomatis
+echo -e "Auto-Reboot Sucsesfully Set at \e[32mJam 12 Malam\e[0m"
+echo -e "\033[5;36======================================\033[0m"
+read -n 1 -s -r -p "Press any key to back on menu"
+menu
+;;
+0 | 00)
+clear
+menu
+;;
+x)
+exit
+;;
+*)
+echo -e ""
+menu
+;;
+esac

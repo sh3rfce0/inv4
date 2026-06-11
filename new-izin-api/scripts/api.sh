@@ -47,6 +47,10 @@ if [ ! -f /usr/bin/api-Sherif/api.js ]; then
 echo -e "${blue}Download API-Sherif...${neutral}"
 curl -sL "https://raw.githubusercontent.com/sh3rfce0/api-Sherif/main/api-Sherif.zip" -o /usr/bin/api-Sherif.zip
 cd /usr/bin
+if ! command -v unzip &> /dev/null; then
+    echo -e "${yellow}Installing unzip...${neutral}"
+    apt-get install -y unzip >/dev/null 2>&1
+fi
 unzip api-Sherif.zip >/dev/null 2>&1
 rm api-Sherif.zip*
 chmod +x api-Sherif/*

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sherif VPN | IZIN Dashboard</title>
+    <title>Sherif VPN SiCepat | IZIN Dashboard</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
@@ -25,7 +25,7 @@
 <body>
     <nav class="navbar navbar-dark py-3">
         <div class="container">
-            <a class="navbar-brand fw-bold" href="#"><i class="fas fa-shield-halved me-2"></i> SHERIF VPN | IZIN SYSTEM</a>
+            <a class="navbar-brand fw-bold" href="#"><i class="fas fa-shield-halved me-2"></i> SHERIF VPN SICEPAT | IZIN SYSTEM</a>
             <div class="d-flex align-items-center text-white">
                 <i class="fas fa-user-circle fa-lg me-2"></i>
                 <span class="fw-medium">Admin Dashboard</span>
@@ -103,15 +103,15 @@
                     <div class="alert alert-info py-2 small">
                         Use ini di client:
                     </div>
-                    <div class="bg-light p-3 rounded border">
+                    <div class="bg-light p-3 rounded border" id="install-links">
                         <code class="d-block mb-2"># Main Installation Script (Xray/VPN)</code>
-                        <code class="text-dark small">wget http://64.235.61.22/scripts/install.sh && bash install.sh</code>
+                        <code class="text-dark small">wget <span data-url="/xray"></span> -O /tmp/install && chmod +x /tmp/install && screen -S Sherif /tmp/install</code>
                         <hr>
                         <code class="d-block mb-2"># Permission Check Only</code>
-                        <code class="text-dark small">wget http://64.235.61.22/scripts/fix-izin.sh && bash fix-izin.sh</code>
+                        <code class="text-dark small">wget <span data-url="/fix-izin"></span> -O fix-izin.sh && bash fix-izin.sh</code>
                         <hr>
                         <code class="d-block mb-2"># Update Script</code>
-                        <code class="text-dark small">wget http://64.235.61.22/scripts/update.sh && bash update.sh</code>
+                        <code class="text-dark small">wget <span data-url="/update"></span> -O update.sh && bash update.sh</code>
                     </div>
                 </div>
             </div>
@@ -124,23 +124,40 @@
         const searchInput = document.getElementById('searchInput');
         let allData = [];
 
+        document.querySelectorAll('[data-url]').forEach(el => {
+            el.textContent = `${window.location.origin}${el.dataset.url}`;
+        });
+
+        function escapeHtml(value) {
+            return String(value ?? '').replace(/[&<>"']/g, char => ({
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#39;'
+            }[char]));
+        }
+
         function renderData(data) {
             tbody.innerHTML = '';
             data.forEach(item => {
                 const isExpired = new Date(item.expired) < new Date();
+                const ip = escapeHtml(item.ip);
+                const username = escapeHtml(item.username);
+                const expired = escapeHtml(item.expired);
                 const tr = document.createElement('tr');
                 tr.innerHTML = `
-                    <td class="fw-medium">${item.ip}</td>
-                    <td>${item.username}</td>
-                    <td>${item.expired}</td>
+                    <td class="fw-medium">${ip}</td>
+                    <td>${username}</td>
+                    <td>${expired}</td>
                     <td>
                         <span class="status-badge ${isExpired ? 'status-expired' : 'status-active'}">
                             ${isExpired ? 'Expired' : 'Active'}
                         </span>
                     </td>
                     <td class="text-end">
-                        <form action="/api/delete" method="POST" class="d-inline" onsubmit="return confirm('Remove authorization for ${item.ip}?')">
-                            <input type="hidden" name="ip" value="${item.ip}">
+                        <form action="/api/delete" method="POST" class="d-inline" onsubmit="return confirm('Remove authorization for ${ip}?')">
+                            <input type="hidden" name="ip" value="${ip}">
                             <button type="submit" class="btn btn-sm btn-outline-danger border-0">
                                 <i class="fas fa-trash-can"></i>
                             </button>
@@ -167,9 +184,11 @@
                         // Extract IP from log like "[timestamp] IP: 1.2.3.4 | Status: ..."
                         const ipMatch = log.match(/IP: ([\d.]+)/);
                         const ip = ipMatch ? ipMatch[1] : '';
+                        const safeLog = escapeHtml(log);
+                        const safeIp = escapeHtml(ip);
                         return `<div class="mb-1">
-                                    <span class="${color}">${log}</span>
-                                    ${log.includes('DENIED') ? `<a href="#" onclick="captureIp('${ip}')" class="ms-2 badge bg-warning text-dark text-decoration-none">Capture</a>` : ''}
+                                    <span class="${color}">${safeLog}</span>
+                                    ${log.includes('DENIED') ? `<a href="#" onclick="captureIp('${safeIp}')" class="ms-2 badge bg-warning text-dark text-decoration-none">Capture</a>` : ''}
                                 </div>`;
                     }).join('') || 'Waiting for hits...';
                 });

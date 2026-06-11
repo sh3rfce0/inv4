@@ -1,4 +1,153 @@
-#!/bin/bash
-z="
-";PCz=' "rm';eIz='rog"';OFz='read';xEz=' -e ';IBz='ED}#';bJz='ly n';tHz='ile';qz='asen';rIz='0; e';UHz='tmpf';BKz='p $t';WJz='-cd ';dz='36m'\''';mEz='t a ';XHz='pfil';PGz='tsel';LJz='ed.';VJz='ip2 ';GBz='{NC}';UEz='il -';eCz=' || ';sFz='v/nu';dFz=' the';qIz='ss $';ez='rt L';aJz='obab';yGz=' set';YJz=':';HBz=' ${R';Cz='ED='\''';bCz='E TE';TIz='$pro';yIz='|| {';kz='PATH';MKz='t $w';OKz='d u-';FGz=' ln ';bBz='}   ';rFz=' /de';TDz='cpmo';bHz='d /t';uBz='EN} ';dDz='FS= ';sIz='fi; ';LBz='NC}$';HFz='/dev';rDz=' -z ';SEz='oo |';pBz='${YE';MBz='{GRE';lz='="/u';qCz='omp=';kHz='in/b';FHz='"s|^';ZBz='=${N';WDz='f zf';NEz=' tai';uDz='& di';VIz=' $re';fDz=' sav';kCz=' "$x';IKz='$i~"';hEz=' "$i';AKz='"$i"';YBz='YAN}';tJz='ckup';gHz='+$sk';LHz='<'\''EO';hCz='res=';NKz='rita';GFz='$" >';XDz='oo[1';lHz='zip2';dJz='n en';JEz='l"; ';wCz='mp=1';AGz='2 | ';pCz=' dec';kBz='mafi';AEz='ir/t';HHz='if $';gJz=', fi';JIz='mpfi';iGz='chmo';Dz='\033';bGz='tmp';oz='"';hGz='=0';KFz=' "${';uEz='if s';mCz='"ung';xDz='dir/';fBz=': ke';JHz='> $t';hIz='"}; ';SIz='tmp/';WHz='`tem';tCz='"x-d';gCz='mp=0';iEz='" ; ';YGz='2>/d';YEz='null';xFz=' in';kFz='sion';Qz='0;33';aDz='=""';xCz='shif';bIz='og")';fz='IGHT';xBz='righ';JJz=' unc';yBz='t @ ';TGz='od";';sDz='"$di';wIz='v9 "';aGz='|| c';Oz='W='\''\';pFz='.[sS';NIz='og" ';LIz='/tmp';GCz='E}  ';GDz='oo2$';mDz=':"';gGz='else';bz='rt C';HEz='s"';QGz='f"; ';iCz='0';ZHz=' gzt';LDz='mod}';iFz='d pe';RIz='e "/';jDz=' IFS';kDz='="${';EJz='on n';sHz='00 $';vEz='ed -';VHz='ile=';YHz='e -p';WGz='i" $';IHz='|" >';EBz='====';KDz='D-cp';REz='ho f';SBz='${NC';HCz='exit';qGz='p  #';iHz='$0" ';CKz='mp "';hHz='ip "';MDz=' zfo';yz='echo';rGz=' tru';PKz='w $i';qBz='LLOW';oGz=': >|';tGz='e th';az='0;35';LFz='x}: ';UIz='g"; ';qHz='/chm';yJz='mv $';cFz='ull;';UCz='" HU';QFz='cryp';fHz='ail ';nDz='for ';YDz='2]$$';kEz='}: $';pEz='inue';MGz=' dep';OGz='on i';vFz=' "`b';tIz='s';VEz='n +1';fJz='rmat';TCz='it 1';qEz='$dec';YCz='RAP ';oHz='k $u';IFz='/nul';yHz=' /bi';XJz='mp; ';PDz=') 2>';ABz='  " ';wHz='cho ';ZJz='i pr';XFz=' '\''^.';eDz='	}";';tEz='0; t';xGz='ring';dEz=';;';wFz='$i`"';vIz='2 -c';eHz='xit ';UJz='| bz';cGz='-w $';OIz=' '\''/b';vJz='as $';DDz='$ ||';jFz='rmis';dIz='/"$p';uIz='EOF';UBz='ED}-';Fz='1m'\''';BHz='sed ';JDz='CPMO';cIz=' &';jBz='i na';XIz='(/bi';JGz=')';MCz='tmp=';KCz='set ';gBz='tik ';Mz='rt Y';JCz='fi';pHz='/bin';ACz='-  A';NJz='eval';nGz='ll';mHz=' -cd';mBz='NC} ';Az='expo';kGz='w $t';BIz='d '\''s';eFz='n';lDz='IFS}';JBz='----';mz='sr/b';sGz='ncat';FDz='t 1';pIz='mpre';HDz='-z "';gDz='eifs';MIz='/$pr';rCz='1';AJz='/rm ';CGz='ed |';yCz='t';xz='then';JKz='" 2>';gEz='! -f';MJz='}';nCz='zexe';WCz='T QU';xIz='>> $';VDz='rm -';mFz='chan';rEz='omp ';pGz=' $tm';lCz='" = ';SDz='en';RCz='$tmp';cJz='ot i';MEz='find';aIz='f $t';NBz='EN}[';RJz='-e 2';UFz='s -l';tDz='r" &';nBz='${RE';dBz='} US';pJz='" ||';iBz='spas';Nz='ELLO';XBz=' ${C';lIz=''\'' 0';gFz='as s';dHz='|| e';aBz='C}"';KHz='mp <';aHz='mp -';BJz='}: c';hz='rt N';cDz='"${I';sCz='"x$1';FEz='"$sa';WFz='grep';iIz='$?';vBz='  [ ';DBz='E}==';iJz='ncha';Ez='[0;3';Pz='033[';WBz='}"';DFz='^ski';JFz='l; t';oEz='cont';yFz='bzip';nHz=' >> ';xHz='$0 |';lBz='le${';rz='ame ';VFz='" | ';FKz=' $i';ICz=' 1';OEz='l';BDz='> zf';EGz='od |';hFz='etui';vCz='hen';dGz='writ';yDz='="$d';rBz='  --';DJz='essi';nEz='file';ZDz='tail';OBz='MENU';QIz='m -f';kJz='.';mJz='i~"';GHz='ail|';ODz='o2$$';RBz='TER]';PHz='umas';vGz='le, ';CIz='|^.*';uFz='etgi';dCz=': > ';PEz='case';cBz=' ${G';FCz='{BLU';QDz='&1`"';CFz='ep "';FIz='if /';NCz='gz$$';NHz='skip';ECz='  "$';CHz='1q $';oCz='" &&';lGz='mp 2';CBz=' ${P';Uz=''\''\03';OJz=' `se';Gz='rt G';SHz='`';qFz=']'\'' >';Lz=''\''';XGz='tmp ';Sz='rt B';lFz=', un';tBz='   $';uHz='prog';TEz=' $ta';ZIz='5; /';HIz='ln -';UDz='d=${';Rz='m'\''';KGz='$i w';TJz='i"`';EHz='p';nz='in:$';CEz='brea';hJz='le u';ZCz='USR1';gIz='+"$@';fEz='i do';GJz='ossi';oBz='D} #';wz=' 0; ';qJz=' {';tz='if t';fGz='=1';eEz='esac';SCz='; ex';MHz='F'\''';jHz='| /b';SFz='d"';XEz='dev/';AFz='$i" ';aEz='foo)';vz='$# =';GIz='bin/';rJz='anno';nIz='&';EEz='done';TBz='}${R';Wz='34m'\''';DKz='t cr';ADz=' hi ';eJz='c fo';SGz='$cpm';lEz='i no';QEz=' `ec';OHz='=23';sBz='---$';RGz=' ;;';vDz='r=.';iDz='FS";';iz='C='\''\';Iz='='\''\0';KJz='hang';sz='$0`';DHz='0 >>';FJz='ot p';oJz='"$i~';BBz='    ';yEz='2q "';wGz='igno';Vz='3[0;';Hz='REEN';TFz='if l';DCz=') ] ';HJz='ble ';SJz='q "$';VBz='---#';Bz='rt R';xJz='mp';sEz='-eq ';GGz='| sl';kIz='$res';IJz='$i, ';ZEz='` in';NGz='end ';AHz=' -C';jJz='nged';bDz='IFS=';HKz='od "';rHz='od 7';hDz='="$I';jGz='d u+';fCz='deco';QJz=' 1d ';CJz='ompr';pDz='in $';VCz='P IN';QHz='k=`u';Xz='rt P';jIz='e; e';OCz='trap';wDz='-f $';YIz='n/sl';DGz=' chm';ZGz='ull ';aFz='> /d';oDz='dir ';AIz='n/se';DIz='/||'\''';jEz=' ${x';bFz='ev/n';cHz='mp` ';PJz='d -e';EFz='p=[0';MFz='$i i';CCz='2024';mGz='>/de';IIz='T $t';gz=';37m';mIz='le) ';uz='est ';PFz='y en';fIz=' ${1';WIz='s'\'' 0';NDz='o1$$';RHz='mask';QBz='CRYP';bEz='l="$';BFz='| gr';PIz='in/r';IDz='`(${';IEz='$tai';BGz=' | s';pz='x=`b';CDz='oo1$';wEz='e 1d';QCz=' -f ';LCz='-C';oFz='....';DEz='k';jz='0m'\''';PBz='  EN';GKz='-n "';cz='YAN=';Kz=';32m';eGz='able';RDz='; th';HGz='eep ';Jz='33[0';Tz='LUE=';KBz='--${';sJz='t ba';wJz='i~';RFz='ted'\''';LEz='not ';XCz='IT T';LKz=' tes';UGz='cp -';uGz='e fi';fFz='$i h';LGz='ould';ZFz='S]'\'' ';Yz='URPL';VGz='p "$';YFz='..[s';EDz=' exi';cCz='RM';GEz='veif';uCz='"; t';WEz=' 2>/';cEz=' -n"';NFz='s al';oIz=' Can';vHz='="`e';qDz='; do';tFz='ll; ';THz='k 77';aCz=' PIP';EIz='`"';uJz=' $i ';FFz='-9]*';KEz=' can';KKz='elif';KIz='le "';FBz='===$';IGz='| rm';hBz='enc ';lJz='f "$';jCz='test';nJz='mv "';BEz='ail"';eBz='AGE ';BCz='RI (';Zz='E='\''\';wBz='Copy';EKz='eate';nFz='ged"';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Az$Gz$Hz$Iz$Jz$Kz$Lz$z$Az$Mz$Nz$Oz$Pz$Qz$Rz$z$Az$Sz$Tz$Uz$Vz$Wz$z$Az$Xz$Yz$Zz$Pz$az$Rz$z$Az$bz$cz$Uz$Vz$dz$z$Az$ez$fz$Iz$Jz$gz$Lz$z$Az$hz$iz$Pz$jz$z$kz$lz$mz$nz$kz$oz$z$pz$qz$rz$sz$z$tz$uz$vz$wz$xz$z$yz$ABz$BBz$BBz$CBz$Yz$DBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$FBz$GBz$oz$z$yz$ABz$BBz$BBz$HBz$IBz$JBz$JBz$JBz$JBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$JBz$JBz$JBz$JBz$VBz$SBz$WBz$z$yz$ABz$BBz$BBz$XBz$YBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$ZBz$aBz$z$yz$ABz$BBz$BBz$HBz$IBz$SBz$bBz$BBz$BBz$cBz$Hz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$BBz$BBz$BBz$nBz$oBz$SBz$WBz$z$yz$ABz$pBz$qBz$bBz$BBz$rBz$JBz$JBz$JBz$JBz$JBz$JBz$JBz$JBz$JBz$JBz$JBz$JBz$JBz$JBz$sBz$GBz$oz$z$yz$ABz$BBz$BBz$HBz$IBz$SBz$bBz$BBz$tBz$MBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$SBz$bBz$BBz$BBz$HBz$IBz$SBz$WBz$z$yz$ECz$FCz$GCz$BBz$BBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$ZBz$aBz$z$HCz$ICz$z$JCz$z$KCz$LCz$z$MCz$NCz$z$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$z$dCz$RCz$eCz$HCz$ICz$z$fCz$gCz$z$hCz$iCz$z$jCz$kCz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$z$tz$uz$sCz$lCz$tCz$uCz$vCz$z$fCz$wCz$z$xCz$yCz$z$JCz$z$yz$ADz$BDz$CDz$DDz$EDz$FDz$z$yz$ADz$BDz$GDz$DDz$EDz$FDz$z$tz$uz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$MDz$ODz$PDz$QDz$RDz$SDz$z$TDz$UDz$JDz$KDz$LDz$z$JCz$z$VDz$WDz$XDz$YDz$z$ZDz$aDz$z$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$z$nDz$oDz$pDz$kz$qDz$z$jCz$rDz$sDz$tDz$uDz$vDz$z$tz$uz$wDz$xDz$ZDz$RDz$SDz$z$ZDz$yDz$AEz$BEz$z$CEz$DEz$z$JCz$z$EEz$z$bDz$FEz$GEz$HEz$z$tz$uz$HDz$IEz$JEz$xz$z$yz$KEz$LEz$MEz$NEz$OEz$z$HCz$ICz$z$JCz$z$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$z$aEz$NEz$bEz$ZDz$cEz$dEz$z$eEz$z$nDz$fEz$z$tz$uz$gEz$hEz$iEz$xz$z$yz$jEz$kEz$lEz$mEz$nEz$z$hCz$rCz$z$oEz$pEz$z$JCz$z$tz$uz$qEz$rEz$sEz$tEz$vCz$z$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$vCz$z$yz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$z$oEz$pEz$z$JCz$z$JCz$z$TFz$UFz$hEz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$eFz$z$yz$KFz$LFz$fFz$gFz$hFz$iFz$jFz$kFz$lFz$mFz$nFz$z$oEz$pEz$z$JCz$z$TFz$UFz$hEz$VFz$WFz$XFz$oFz$pFz$qFz$rFz$sFz$tFz$xz$z$yz$KFz$LFz$fFz$gFz$uFz$iFz$jFz$kFz$lFz$mFz$nFz$z$oEz$pEz$z$JCz$z$PEz$vFz$qz$rz$wFz$xFz$z$yFz$AGz$ZDz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$z$yz$KFz$LFz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$oEz$pEz$RGz$z$eEz$z$tz$uz$HDz$SGz$TGz$dFz$eFz$z$UGz$VGz$WGz$XGz$YGz$bFz$ZGz$aGz$VGz$WGz$bGz$z$tz$uz$cGz$XGz$YGz$bFz$cFz$dFz$eFz$z$dGz$eGz$fGz$z$gGz$z$dGz$eGz$hGz$z$iGz$jGz$kGz$lGz$mGz$sFz$nGz$z$JCz$z$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$z$JCz$z$tz$uz$qEz$rEz$sEz$tEz$vCz$z$BHz$CHz$DHz$pGz$EHz$z$BHz$FHz$tz$GHz$HHz$ZDz$IHz$JHz$KHz$LHz$MHz$z$NHz$OHz$z$KCz$LCz$z$PHz$QHz$RHz$SHz$z$PHz$THz$z$UHz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$rCz$z$tz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$mHz$nHz$RCz$nEz$RDz$SDz$z$PHz$oHz$RHz$z$pHz$qHz$rHz$sHz$UHz$tHz$z$uHz$vHz$wHz$xHz$yHz$AIz$BIz$CIz$DIz$EIz$z$FIz$GIz$HIz$IIz$JIz$KIz$LIz$MIz$NIz$YGz$bFz$cFz$dFz$eFz$z$OCz$OIz$PIz$QIz$pGz$XHz$RIz$SIz$TIz$UIz$HCz$VIz$WIz$z$XIz$YIz$HGz$ZIz$GIz$VDz$aIz$JIz$KIz$LIz$MIz$bIz$WEz$XEz$YEz$cIz$z$LIz$dIz$eIz$fIz$gIz$hIz$hCz$iIz$z$gGz$z$OCz$OIz$PIz$QIz$pGz$XHz$jIz$eHz$kIz$lIz$z$XIz$YIz$HGz$ZIz$GIz$VDz$aIz$JIz$mIz$YGz$bFz$ZGz$nIz$z$RCz$nEz$fIz$gIz$hIz$hCz$iIz$z$JCz$z$gGz$z$yz$oIz$LEz$fCz$pIz$qIz$rIz$eHz$rCz$z$sIz$HCz$VIz$tIz$z$uIz$z$yFz$vIz$wIz$AFz$xIz$XGz$yIz$z$pHz$AJz$wDz$bGz$z$yz$jEz$BJz$CJz$DJz$EJz$FJz$GJz$HJz$nDz$IJz$nEz$JJz$KJz$LJz$z$hCz$rCz$z$oEz$pEz$z$MJz$z$gGz$z$NHz$OHz$z$uEz$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$vCz$z$NJz$OJz$PJz$QJz$RJz$SJz$TJz$z$JCz$z$tz$fHz$gHz$hHz$AFz$UJz$VJz$WJz$JHz$XJz$xz$z$YJz$z$gGz$z$yz$jEz$kEz$ZJz$aJz$bJz$cJz$dJz$eJz$fJz$gJz$hJz$iJz$jJz$kJz$z$hCz$rCz$z$oEz$pEz$z$JCz$z$JCz$z$VDz$lJz$mJz$z$nJz$AFz$oJz$pJz$qJz$z$yz$jEz$BJz$rJz$sJz$tJz$uJz$vJz$wJz$z$VDz$aIz$xJz$z$hCz$rCz$z$oEz$pEz$z$MJz$z$yJz$XGz$AKz$eCz$UGz$BKz$CKz$AFz$YGz$bFz$ZGz$aGz$BKz$CKz$AFz$yIz$z$yz$jEz$BJz$rJz$DKz$EKz$FKz$z$VDz$aIz$xJz$z$hCz$rCz$z$oEz$pEz$z$MJz$z$VDz$aIz$xJz$z$tz$uz$GKz$SGz$TGz$dFz$eFz$z$SGz$HKz$IKz$hEz$JKz$HFz$IFz$OEz$z$KKz$LKz$MKz$NKz$HJz$sEz$tEz$vCz$z$iGz$OKz$PKz$WEz$XEz$YEz$z$JCz$z$EEz$z$HCz$VIz$tIz"
+export RED='\033[0;31m'
+export GREEN='\033[0;32m'
+export YELLOW='\033[0;33m'
+export BLUE='\033[0;34m'
+export PURPLE='\033[0;35m'
+export CYAN='\033[0;36m'
+export LIGHT='\033[0;37m'
+export NC='\033[0m'
+PATH="/usr/bin:$PATH"
+x=`basename $0`
+if test $# = 0; then
+echo  "          ${PURPLE}=============================================================${NC}"
+echo  "          ${RED}#----------------------${NC}${GREEN}[MENU  ENCRYPTER]${NC}${RED}--------------------#${NC}"
+echo  "          ${CYAN}=============================================================${NC}"
+echo  "          ${RED}#${NC}            ${GREEN} USAGE : ketik enc spasi namafile${NC}             ${RED} #${NC}"
+echo  " ${YELLOW}         -------------------------------------------------------------${NC}"
+echo  "          ${RED}#${NC}          ${GREEN}   [ Copyright @ -  ARI (2024) ] ${NC}            ${RED}#${NC}"
+echo  "${BLUE}          =============================================================${NC}"
+exit 1
+fi
+set -C
+tmp=gz$$
+trap "rm -f $tmp; exit 1" HUP INT QUIT TRAP USR1 PIPE TERM
+: > $tmp || exit 1
+decomp=0
+res=0
+test "$x" = "ungzexe" && decomp=1
+if test "x$1" = "x-d"; then
+decomp=1
+shift
+fi
+echo hi > zfoo1$$ || exit 1
+echo hi > zfoo2$$ || exit 1
+if test -z "`(${CPMOD-cpmod} zfoo1$$ zfoo2$$) 2>&1`"; then
+cpmod=${CPMOD-cpmod}
+fi
+rm -f zfoo[12]$$
+tail=""
+IFS="${IFS= 	}"; saveifs="$IFS"; IFS="${IFS}:"
+for dir in $PATH; do
+test -z "$dir" && dir=.
+if test -f $dir/tail; then
+tail="$dir/tail"
+break
+fi
+done
+IFS="$saveifs"
+if test -z "$tail"; then
+echo cannot find tail
+exit 1
+fi
+case `echo foo | $tail -n +1 2>/dev/null` in
+foo) tail="$tail -n";;
+esac
+for i do
+if test ! -f "$i" ; then
+echo ${x}: $i not a file
+res=1
+continue
+fi
+if test $decomp -eq 0; then
+if sed -e 1d -e 2q "$i" | grep "^skip=[0-9]*$" >/dev/null; then
+echo "${x}: $i is already encrypted'd"
+continue
+fi
+fi
+if ls -l "$i" | grep '^...[sS]' > /dev/null; then
+echo "${x}: $i has setuid permission, unchanged"
+continue
+fi
+if ls -l "$i" | grep '^......[sS]' > /dev/null; then
+echo "${x}: $i has setgid permission, unchanged"
+continue
+fi
+case "`basename $i`" in
+bzip2 | tail | sed | chmod | ln | sleep | rm)
+echo "${x}: $i would depend on itself"; continue ;;
+esac
+if test -z "$cpmod"; then
+cp -p "$i" $tmp 2>/dev/null || cp "$i" $tmp
+if test -w $tmp 2>/dev/null; then
+writable=1
+else
+writable=0
+chmod u+w $tmp 2>/dev/null
+fi
+: >| $tmp  # truncate the file, ignoring set -C
+fi
+if test $decomp -eq 0; then
+sed 1q $0 >> $tmp
+sed "s|^if tail|if $tail|" >> $tmp <<'EOF'
+skip=23
+set -C
+umask=`umask`
+umask 77
+tmpfile=`tempfile -p gztmp -d /tmp` || exit 1
+if tail +$skip "$0" | /bin/bzip2 -cd >> $tmpfile; then
+umask $umask
+/bin/chmod 700 $tmpfile
+prog="`echo $0 | /bin/sed 's|^.*/||'`"
+if /bin/ln -T $tmpfile "/tmp/$prog" 2>/dev/null; then
+trap '/bin/rm -f $tmpfile "/tmp/$prog"; exit $res' 0
+(/bin/sleep 5; /bin/rm -f $tmpfile "/tmp/$prog") 2>/dev/null &
+/tmp/"$prog" ${1+"$@"}; res=$?
+else
+trap '/bin/rm -f $tmpfile; exit $res' 0
+(/bin/sleep 5; /bin/rm -f $tmpfile) 2>/dev/null &
+$tmpfile ${1+"$@"}; res=$?
+fi
+else
+echo Cannot decompress $0; exit 1
+fi; exit $res
+EOF
+bzip2 -cv9 "$i" >> $tmp || {
+/bin/rm -f $tmp
+echo ${x}: compression not possible for $i, file unchanged.
+res=1
+continue
+}
+else
+skip=23
+if sed -e 1d -e 2q "$i" | grep "^skip=[0-9]*$" >/dev/null; then
+eval `sed -e 1d -e 2q "$i"`
+fi
+if tail +$skip "$i" | bzip2 -cd > $tmp; then
+:
+else
+echo ${x}: $i probably not in enc format, file unchanged.
+res=1
+continue
+fi
+fi
+rm -f "$i~"
+mv "$i" "$i~" || {
+echo ${x}: cannot backup $i as $i~
+rm -f $tmp
+res=1
+continue
+}
+mv $tmp "$i" || cp -p $tmp "$i" 2>/dev/null || cp $tmp "$i" || {
+echo ${x}: cannot create $i
+rm -f $tmp
+res=1
+continue
+}
+rm -f $tmp
+if test -n "$cpmod"; then
+$cpmod "$i~" "$i" 2>/dev/null
+elif test $writable -eq 0; then
+chmod u-w $i 2>/dev/null
+fi
+done
+exit $res

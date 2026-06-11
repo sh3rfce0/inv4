@@ -1,4 +1,126 @@
-#!/bin/bash
-z="
-";PDz='dura';JDz='Scri';HDz='3[0;';xz='}';RFz='q';LDz='redi';IHz='"${y';dDz='███9';bFz=' -p ';MIz='bih ';qHz='y ${';aBz='kan ';WDz='██35';IBz='SC="';SEz=' % 7';FCz='=$((';WGz=' : $';PFz='rt |';Rz='Xark';MDz='t By';AEz=' num';qCz=' Sc_';rz=' -e ';ZGz='t Ip';YHz='ss E';vDz='for ';aHz=' for';KFz='2-3 ';bEz='ndex';gz='Be="';gBz='g di';DGz='ipli';AHz=' "$n';Mz='3[91';XCz='e "$';ICz='- le';HEz='r';YGz='Limi';lHz='fi';cGz='put ';qBz=' sed';uCz='slee';KEz='(i %';vz='033[';qz='echo';uz='———\';QFz=' uni';GGz='t "$';oFz='/lim';Gz='="\0';oBz='$tex';tGz='en';dGz='New ';xHz='$use';rDz='Load';XEz='de}m';gCz='MASC';RBz='loca';DFz='onfi';IIz='a Se';gEz='done';tz='————';EDz='akan';PBz='text';FHz='lly ';iEz='ding';yCz='akas';lEz=' "\0';KIz='gs "';kHz='s';xGz='llid';QEz='((31';JBz='ARIS';kGz='& lo';DEz=' i++';cz='32m"';rFz='${us';WCz='ho -';HFz='t -d';ABz='_Ban';AFz='"/et';hHz='r/bi';HHz='rk} ';yGz='else';mHz='asi';sDz='ing_';CIz=' Di ';nGz='es';BBz='ner(';vGz='d In';dz='Yell';Yz='3[5;';sCz='it()';CDz=' men';sBz='\x1b';bz='nBe=';hFz=' " u';VGz='name';SHz='t';QGz=' "';pDz='rati';qEz='tar_';xBz='l le';eBz='aris';fGz=':" n';PEz='de=$';cEz=']}\e';Iz=';35m';WFz='ar_A';cDz=' "██';SFz='ARI_';DBz='bari';OEz='r_co';THz=' -n ';RHz='Sc_C';Fz='ungu';PGz='ark}';GCz=' (wi';TIz='e Li';fBz=' yan';yBz='n=${';RDz='fram';iDz='{#fr';wFz='file';OGz=' ${X';OBz='ter_';Tz='Blue';pEz=' Daf';TDz='"██1';UHz='1 -s';jEz='_Suc';Sz='m"';HGz='le")';Uz='33[5';xCz='erim';kEz='ces(';CGz='ent_';hCz=' \e[';LBz='NEL ';OHz='$new';pCz='ted_';CFz='ay/c';yEz='# " ';vCz='p 1';Wz='Whit';VDz='"███';nHz='"${R';rHz='} "';FGz='$(ca';iGz='it';nBz='-e "';dCz='6m.:';OIz='lu D';mDz='atio';nz='anja';sz='36m ';lFz='le="';eGz='Ip  ';wCz='5m T';pFz='it/v';gHz=' /us';pz=' {';wz='0m"';Xz='eBe=';YBz='# Se';mCz='ext ';iFz='ser';xFz='" ];';YEz=' ${f';ZEz='rame';FIz='ohon';LFz='| co';dFz='ut U';BFz='c/xr';aFz='read';cHz='k to';LHz='ew L';EEz=')); ';qDz='on))';UGz='User';Lz='"\03';LGz='ORE ';HIz='eger';jHz='vmes';OCz='%${s';JEz='x=$(';ODz='1"';AGz='n';YCz='")"';tFz='if [';kDz='[@]}';SBz='l te';bDz='80%"';UEz=' ""';eEz='p 0.';XBz='50  ';MEz='mes)';HBz='NAMA';TEz='))';uHz=' Unt';VBz='l wi';uBz='-9;]';iBz='nkan';TBz='xt="';JIz='ttin';CEz='ons;';XDz='%" "';cFz='"Inp';vHz='uk N';NHz=' :  ';mBz='cho ';gFz='  : ';fHz='bash';wEz=' -E ';eFz='sern';pBz='t" |';KCz=' 2 )';FBz='njan';gGz='ew_i';aEz='s[$i';KHz='w} N';ECz='aces';VFz='Daft';lBz='=$(e';dHz=' Man';ADz='ih s';yFz=' the';bCz='d_te';LEz='_fra';xDz='= 0;';lDz='iter';oGz=' -z ';MHz='imit';jDz='ames';MBz='V4"';LCz=')';Kz='Red=';EGz='mit=';NEz='colo';BCz='in_t';yHz='r "';IGz='"${C';HCz='dth ';lGz='adin';sHz=' " F';XGz='user';SDz='es=(';JCz='n) /';hz='[5;3';dEz='[0m"';VIz='Xray';bGz='" In';OFz='| so';LIz='erle';FDz='- \0';UBz='$1"';wBz='g'\'')';EFz='g.js';YDz='████';rCz='Cred';BDz='udah';eHz='age"';REz=' + i';vBz='*m//';oHz='ed} ';uEz='s() ';UIz='mit ';BHz='it" ';XHz=' Pre';uDz='asi(';lz=' bar';BGz='curr';iz='4m"';tBz='\[[0';nDz='ns=$';PHz='_ipl';tHz='ile ';DHz='le"';Ez='3m"';MFz='lumn';iHz='n/m-';Cz='\033';vEz='grep';EHz='esfu';IDz='35m ';SCz='3[0m';Oz='Cyan';DIz='Temu';cBz='an p';QCz='s}s%';jCz='::."';GEz='clea';KGz=' BEF';DCz='l sp';MCz='prin';WEz='1;${';SIz='hang';aCz='atte';tDz='Anim';EIz=' " M';fDz='0%")';Jz='"';BIz='idak';rEz='Acco';mFz='/etc';bHz=' Bac';IFz=' '\'' '\''';yz=' ARI';lCz='er_t';CHz='> "$';XFz='ccou';FEz='do';WHz='-p "';IEz='inde';eCz=':.\0';DDz='ggun';mEz=';32m';WBz='dth=';iCz='36m.';RGz='"${G';Dz='[0;3';xEz='"^##';uGz='"$Re';NBz=' cen';JGz='yan}';KDz='pt C';Qz='6;1m';NIz='Dahu';az='Gree';GBz='g';jBz='l pl';RCz='s\03';GDz='xt1=';kz='tion';VEz='"\e[';NCz='tf "';UFz='er';UDz='0%" ';Bz='ow="';hBz='ingi';ZHz='nter';RIz=' " C';kFz='t_fi';JHz='ello';kBz='ain_';jz='func';tEz='Vmes';CCz='ext}';sEz='unt_';YFz='nt_V';TGz='Be} ';aDz='" "█';oz='ng()';EBz='s_pa';uFz='"$li';pGz='"$ne';dBz='ng b';jGz='p 3 ';hEz=' Loa';TCz='\n" ';TFz='Bann';rGz='t" ]';oDz='((du';ACz='#pla';ez='owBe';NGz='IMIT';aGz='mit"';vFz='mit_';QDz='=3';PCz='pace';gDz='num_';WIz='"${X';nEz='Succ';QBz='() {';hGz='plim';Vz=';36m';UCz='"" "';yDz=' i <';rBz=' '\''s/';NDz=' \03';hDz='es=$';nCz='"$fo';Hz='33[0';qFz='/ip/';ZCz='form';wDz='((i ';eDz='██10';fz=';33m';oEz='es\0';BEz='_ite';bBz='deng';GHz='${Xa';kCz='cent';VCz='$(ec';VHz=' -r ';NFz=' -t ';fFz='ame ';GIz='uk s';FFz='on" ';MGz='IP L';jFz='limi';fCz=' $NA';CBz=') {';Pz='33[9';Nz=';1m"';SGz='reen';mz='is_p';ZFz='mess';Zz='37m"';GFz='| cu';Az='yell';cCz='\e[3';fEz='5';mGz='g $!';qGz='w_ip';wHz='ama ';sGz='; th';JFz=' -f ';QIz='nu -';AIz=' " T';oCz='rmat';wGz='Inva';PIz='i Me';nFz='/kyt';QHz='w} U';KBz='CTUN';tCz='{';ZBz='suai';sFz='er}"';pHz='Sorr';ZDz='█65%';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$z$Oz$Gz$Pz$Qz$Jz$z$Rz$Gz$Hz$Sz$z$Tz$Oz$Gz$Uz$Vz$Jz$z$Wz$Xz$Lz$Yz$Zz$z$az$bz$Lz$Yz$cz$z$dz$ez$Gz$Uz$fz$Jz$z$Tz$gz$Cz$hz$iz$z$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$Lz$Yz$sz$tz$tz$tz$tz$tz$tz$tz$tz$tz$tz$tz$uz$vz$wz$z$xz$z$jz$kz$yz$ABz$BBz$CBz$z$DBz$EBz$FBz$GBz$z$HBz$IBz$JBz$KBz$LBz$MBz$z$jz$kz$NBz$OBz$PBz$QBz$z$RBz$SBz$TBz$UBz$z$RBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$nz$dBz$eBz$fBz$gBz$hBz$iBz$z$RBz$jBz$kBz$PBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$z$RBz$xBz$yBz$ACz$BCz$CCz$z$RBz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$z$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$PBz$YCz$z$xz$z$ZCz$aCz$bCz$TBz$cCz$dCz$eCz$Hz$Iz$fCz$gCz$hCz$iCz$jCz$z$kCz$lCz$mCz$nCz$oCz$pCz$PBz$Jz$z$DBz$EBz$FBz$GBz$z$xz$z$jz$kz$qCz$rCz$sCz$tCz$z$uCz$vCz$z$DBz$EBz$FBz$GBz$z$jz$kz$NBz$OBz$PBz$QBz$z$RBz$SBz$TBz$UBz$z$RBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$nz$dBz$eBz$fBz$gBz$hBz$iBz$z$RBz$jBz$kBz$PBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$z$RBz$xBz$yBz$ACz$BCz$CCz$z$RBz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$z$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$PBz$YCz$z$xz$z$ZCz$aCz$bCz$TBz$Cz$Dz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$Hz$Sz$z$ZCz$aCz$bCz$GDz$Lz$HDz$IDz$JDz$KDz$LDz$MDz$fCz$gCz$NDz$SCz$Jz$z$kCz$lCz$mCz$nCz$oCz$pCz$PBz$Jz$z$kCz$lCz$mCz$nCz$oCz$pCz$PBz$ODz$z$DBz$EBz$FBz$GBz$z$xz$z$PDz$kz$QDz$z$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$YDz$ZDz$aDz$YDz$YDz$YDz$bDz$cDz$YDz$YDz$YDz$YDz$dDz$UDz$VDz$YDz$YDz$YDz$YDz$YDz$eDz$fDz$z$gDz$RDz$hDz$iDz$jDz$kDz$z$gDz$lDz$mDz$nDz$oDz$pDz$qDz$z$rDz$sDz$tDz$uDz$CBz$z$vDz$wDz$xDz$yDz$AEz$BEz$pDz$CEz$DEz$EEz$FEz$z$GEz$HEz$z$IEz$JEz$KEz$AEz$LEz$MEz$LCz$z$NEz$OEz$PEz$QEz$REz$SEz$TEz$z$qz$UEz$z$qz$UEz$z$qz$UEz$z$qz$rz$VEz$WEz$NEz$OEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$z$uCz$eEz$fEz$z$gEz$z$xz$z$jz$kz$hEz$iEz$jEz$kEz$CBz$z$GEz$HEz$z$qz$rz$lEz$Uz$mEz$nEz$oEz$Hz$Sz$z$uCz$vCz$z$GEz$HEz$z$xz$z$jz$kz$pEz$qEz$rEz$sEz$tEz$uEz$tCz$z$vEz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$z$xz$z$SFz$TFz$UFz$z$DBz$EBz$FBz$GBz$z$VFz$WFz$XFz$YFz$ZFz$z$DBz$EBz$FBz$GBz$z$qz$UEz$z$qz$UEz$z$aFz$bFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$z$jFz$kFz$lFz$mFz$nFz$oFz$pFz$ZFz$qFz$rFz$sFz$z$tFz$rz$uFz$vFz$wFz$xFz$yFz$AGz$z$BGz$CGz$DGz$EGz$FGz$GGz$jFz$kFz$HGz$z$DBz$EBz$FBz$GBz$z$qz$rz$IGz$JGz$KGz$LGz$MGz$NGz$OGz$PGz$QGz$z$qz$UEz$z$qz$rz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$OGz$PGz$QGz$z$qz$rz$RGz$SGz$TGz$YGz$ZGz$WGz$BGz$CGz$DGz$aGz$z$qz$UEz$z$DBz$EBz$FBz$GBz$z$qz$UEz$z$qz$UEz$z$aFz$bFz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$z$DBz$EBz$FBz$GBz$z$uCz$jGz$kGz$lGz$mGz$z$rDz$sDz$nEz$nGz$z$tFz$oGz$pGz$qGz$jFz$rGz$sGz$tGz$z$qz$rz$uGz$vGz$cGz$wGz$xGz$OGz$PGz$Jz$z$yGz$z$qz$AHz$gGz$hGz$BHz$CHz$jFz$kFz$DHz$z$SFz$TFz$UFz$z$DBz$EBz$FBz$GBz$z$qz$rz$RGz$SGz$TGz$nEz$EHz$FHz$GHz$HHz$Jz$z$qz$UEz$z$qz$rz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$MHz$OGz$PGz$QGz$z$qz$rz$IHz$JHz$QHz$eFz$fFz$WGz$XGz$OGz$PGz$QGz$z$qz$UEz$z$DBz$EBz$FBz$GBz$z$RHz$LDz$SHz$z$aFz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$z$fHz$gHz$hHz$iHz$jHz$kHz$z$lHz$z$yGz$z$rDz$sDz$tDz$mHz$z$GEz$HEz$z$SFz$TFz$UFz$z$DBz$EBz$FBz$GBz$z$qz$UEz$z$qz$rz$nHz$oHz$pHz$qHz$Rz$rHz$z$qz$rz$IGz$JGz$QGz$z$qz$sHz$tHz$YGz$ZGz$uHz$vHz$wHz$xHz$yHz$z$qz$AIz$BIz$CIz$DIz$aBz$Jz$z$qz$EIz$FIz$uHz$GIz$HIz$IIz$JIz$KIz$z$qz$AIz$LIz$MIz$NIz$OIz$PIz$QIz$QGz$z$qz$RIz$SIz$TIz$UIz$VIz$QGz$z$qz$rz$WIz$PGz$QGz$z$DBz$EBz$FBz$GBz$z$RHz$LDz$SHz$z$lHz"
+yellow="\033[0;33m"
+ungu="\033[0;35m"
+Red="\033[91;1m"
+Cyan="\033[96;1m"
+Xark="\033[0m"
+BlueCyan="\033[5;36m"
+WhiteBe="\033[5;37m"
+GreenBe="\033[5;32m"
+YellowBe="\033[5;33m"
+BlueBe="\033[5;34m"
+function baris_panjang() {
+echo -e "\033[5;36m ———————————————————————————————————————————————\033[0m"
+}
+function ARI_Banner() {
+baris_panjang
+NAMASC="Si Cepat VPN"
+function center_text() {
+local text="$1"
+local width=50  # Sesuaikan dengan panjang baris yang diinginkan
+local plain_text=$(echo -e "$text" | sed 's/\x1b\[[0-9;]*m//g')
+local len=${#plain_text}
+local spaces=$(( (width - len) / 2 ))
+printf "%${spaces}s%s\033[0m\n" "" "$(echo -e "$text")"
+}
+formatted_text="\e[36m.::.\033[0;35m $NAMASC \e[36m.::."
+center_text "$formatted_text"
+baris_panjang
+}
+function Sc_Credit(){
+sleep 1
+baris_panjang
+function center_text() {
+local text="$1"
+local width=50  # Sesuaikan dengan panjang baris yang diinginkan
+local plain_text=$(echo -e "$text" | sed 's/\x1b\[[0-9;]*m//g')
+local len=${#plain_text}
+local spaces=$(( (width - len) / 2 ))
+printf "%${spaces}s%s\033[0m\n" "" "$(echo -e "$text")"
+}
+formatted_text="\033[0;35m Terimakasih sudah menggunakan- \033[0m"
+formatted_text1="\033[0;35m Script Credit By $NAMASC \033[0m"
+center_text "$formatted_text"
+center_text "$formatted_text1"
+baris_panjang
+}
+duration=3
+frames=("██10%" "█████35%" "█████████65%" "█████████████80%" "█████████████████████90%" "█████████████████████████100%")
+num_frames=${#frames[@]}
+num_iterations=$((duration))
+Loading_Animasi() {
+for ((i = 0; i < num_iterations; i++)); do
+clear
+index=$((i % num_frames))
+color_code=$((31 + i % 7))
+echo ""
+echo ""
+echo ""
+echo -e "\e[1;${color_code}m ${frames[$index]}\e[0m"
+sleep 0.5
+done
+}
+function Loading_Succes() {
+clear
+echo -e  "\033[5;32mSucces\033[0m"
+sleep 1
+clear
+}
+function Daftar_Account_Vmess() {
+grep -E "^### " "/etc/xray/config.json" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+}
+ARI_Banner
+baris_panjang
+Daftar_Account_Vmess
+baris_panjang
+echo ""
+echo ""
+read -p "Input Username   :  " user
+limit_file="/etc/kyt/limit/vmess/ip/${user}"
+if [ -e "$limit_file" ]; then
+current_iplimit=$(cat "$limit_file")
+baris_panjang
+echo -e "${Cyan} BEFORE IP LIMIT ${Xark} "
+echo ""
+echo -e "${GreenBe} Username : $user ${Xark} "
+echo -e "${GreenBe} Limit Ip : $current_iplimit"
+echo ""
+baris_panjang
+echo ""
+echo ""
+read -p " Input New Ip  :" new_iplimit
+baris_panjang
+sleep 3 & loading $!
+Loading_Succes
+if [ -z "$new_iplimit" ]; then
+echo -e "$Red Input Invallid ${Xark}"
+else
+echo "$new_iplimit" > "$limit_file"
+ARI_Banner
+baris_panjang
+echo -e "${GreenBe} Succesfully ${Xark} "
+echo ""
+echo -e "${yellow} New Limit :  $new_iplimit ${Xark} "
+echo -e "${yellow} Username  : $user ${Xark} "
+echo ""
+baris_panjang
+Sc_Credit
+read -n 1 -s -r -p " Press Enter for Back to Manage"
+bash /usr/bin/m-vmess
+fi
+else
+Loading_Animasi
+clear
+ARI_Banner
+baris_panjang
+echo ""
+echo -e "${Red} Sorry ${Xark} "
+echo -e "${Cyan} "
+echo " File Limit Ip Untuk Nama $user "
+echo " Tidak Di Temukan "
+echo " Mohon Untuk segera Settings "
+echo " Terlebih Dahulu Di Menu - "
+echo " Change Limit Xray "
+echo -e "${Xark} "
+baris_panjang
+Sc_Credit
+fi

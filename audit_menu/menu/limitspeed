@@ -1,4 +1,85 @@
-#!/bin/bash
-z="
-";oGz='ot';CEz='rate';WGz=' for';TCz='een_';xFz='st_b';xz='er b';QCz='3[31';dz='if c';yCz='r="$';pBz='rm -';TEz='burs';wCz='x}"';bEz='ffer';OBz='aiti';FCz='n_fo';mBz='l';ICz='x="\';gHz='" -e';gDz='peed';xDz='_mbp';yBz='esai';WCz='nd_p';Yz='CYAN';kGz=' -ca';YGz='k to';BFz='&& [';QEz='))';lDz=' -p ';bHz='he C';Bz=''\''\03';vBz='ersh';fCz='="\0';TGz=' Pre';MGz='/lim';ABz='al, ';rDz='d ra';qCz='x}[O';EDz='F]${';xGz='sts=';sCz='Font';kEz='ngat';SCz='& Gr';cFz='andl';iBz='per ';dDz=') {';QDz=' sho';KEz='" bu';PFz='atio';BBz='mela';nEz='tc q';SFz='p 0.';SHz='Limi';dCz='d_pr';hFz='lass';kCz='olor';sDz='te (';aCz='ed_b';BCz='fi';Tz=';34m';OEz='s * ';iCz='& Fo';QBz='.\e[';yDz='s';CBz='kuka';yHz='ber"';aFz=' add';oz='n';GHz='==="';GFz=' > /';Xz='5m'\''';UCz='back';cEz='mit ';Fz='\033';eGz='n/li';HHz='"   ';LEz='rst_';SBz='git ';AFz=' ]] ';ODz='-4 r';Zz=';36m';HDz='t /h';RGz=' -r ';GCz='nt_p';Vz='PURP';MCz='font';KBz='xit';TDz='ault';YCz='7m" ';rBz='per';WHz=' -rp';MHz=' Spe';pFz=' ${d';bFz='ot h';BGz='emct';uHz='ed T';jHz='1" ]';Rz='='\''\0';BDz='_fon';Nz='GE='\''';LHz='idth';DFz='p" ]';uCz='or_s';XGz=' Bac';NGz=' "Do';uBz='wond';PCz='"\03';MBz='3[1;';nDz=' max';YFz='n -u';gEz=' Nil';YHz='ease';EFz=']; t';qHz=' ]];';KCz=' && ';WDz='{pri';sFz='st $';xCz='Erro';PBz='ng..';gz='v wo';BHz='"${E';CGz='l en';gBz='onde';gCz='33[4';kFz=' 1: ';XBz='thub';NBz='32mw';AGz='syst';RHz='. St';wFz='cbur';mz='ull;';iEz='uffe';mCz='3[0m';ADz='{Red';lBz='e in';OCz='fix=';fFz=' 30';ZDz='func';vCz='uffi';UHz='"[2]';lFz='clas';eBz='it';CCz='clea';eEz='000)';hz='nder';dBz='er.g';qEz=' dev';fBz='cd w';DHz='}"';fz='nd -';iz='shap';tz=' ter';THz='t"';lGz='C';Gz='[0m'\''';jz='er &';rFz='kbps';VHz='op L';MFz='art ';wBz='aper';rGz='gura';tBz='asi ';YDz='5}'\'')';KDz='t)';hGz=' sto';uz='inst';yFz='r}kb';bz='T='\''\';AEz=' upl';bGz='bash';FHz='====';DDz='}[OF';FGz='ow w';LBz=' -e ';VEz='mit=';oBz='| ex';eFz=' htb';JGz=' "st';rHz='stop';VDz='wk '\''';vz='al."';Cz='3[0;';kDz='read';IDz='ome/';gGz='}';ZHz=' Ent';tEz='ot &';cHz='orre';IFz='null';Iz='N='\''\';pDz=' dow';wGz='t" ]';sHz=' " Y';jEz='r sa';ZBz='/ari';NCz='_pre';BEz='oad ';oEz='disc';JDz='limi';CFz=' "$u';qz=' "Wo';bBz='tore';VBz='tps:';aDz='tion';AHz='nfo}';hHz=' num';aBz='vpns';fHz='r : ';tHz='ou E';NFz='Conf';DCz='r';YEz='125)';LGz='home';xHz=' Num';tCz='_col';Dz='31m'\''';RDz='w to';JHz='it B';HBz='cd /';FFz='hen';Sz='33[0';dGz='r/bi';LDz='NIC=';iGz='p ()';qDz='nloa';bCz='ackg';VCz='grou';bDz=' sta';mFz='sid ';SEz='((up';PGz=' -n ';IBz='bin ';sz='udah';Uz=''\''';Az='RED=';nCz='"';DBz='n in';PDz='oute';fDz='it S';PEz='1000';FDz='cek=';dHz='ct N';wz='else';Hz='GREE';RFz='slee';GDz='$(ca';KFz='1';IHz=' Lim';cGz=' /us';rCz='N]${';lHz='elif';Oz='[0;3';cBz='s/wo';nHz='"$nu';Qz='BLUE';VFz='$NIC';WEz='$((b';lCz='_suf';ACz='."';UGz='ss E';jCz='nt_c';pHz=' "2"';XHz=' "Pl';MEz='mbps';FBz='asi.';vGz='star';nFz='1:1 ';uFz='st_l';ez='omma';EBz='stal';ECz='Gree';KHz='andw';jFz='rent';wEz='[ -z';Wz='LE='\''';nBz='cd |';PHz='   "';IGz='ice';JCz='32m"';OHz='sts ';mHz=' [[ ';oHz='m" =';pEz=' del';LFz=' "St';TFz='5';cDz='rt (';vEz='if [';jBz='sudo';nGz='op w';xBz=' sel';CDz='t_pr';WBz='//gi';hBz='rsha';Mz='ORAN';OGz='ne"';GEz='" up';yGz='"${I';eHz='umbe';oFz='htb ';oDz='imum';aEz='t_bu';oCz='Info';tFz='{bur';kz='> /d';rz='er s';iDz=' Ser';Ez='NC='\''';qGz='onfi';GBz='.."';Kz='0;32';NDz=' -o ';XDz='nt $';iHz='num"';HGz='serv';aGz='age"';mDz='"Set';DEz=' (in';eDz='"Lim';Lz='m'\''';wHz='rong';CHz='rror';fGz='mits';qBz='rf w';XFz='$dow';UFz=' -a ';Pz='3m'\''';QGz='1 -s';UBz='e ht';dEz='* 10';VGz='nter';sEz='C ro';uDz='bps)';vFz='}kb ';pGz='op C';fEz=')  #';OFz='igur';ZCz='&& R';wDz='down';mEz='ar';dFz='e 1:';UEz='t_li';KGz='art"';hEz='ai b';IEz='st l';TBz='clon';NEz='=$((';vDz=': " ';RBz='0m'\''';yz='elum';hCz='1;37';jDz='vice';lz='ev/n';mGz='l st';HEz=' bur';EEz=' Mbp';uEz='ull';REz='up=$';kHz='t';GGz='per.';HFz='dev/';uGz=' = "';cz='0;37';FEz='s): ';HCz='refi';SGz='-p "';tDz='in M';az='LIGH';YBz='.com';ZFz=' $up';yEz='own"';lEz=' bes';qFz='own}';EHz='"===';JFz=' 2>&';sGz='[ "$';Jz='033[';rEz=' $NI';ZEz=')';iFz='C pa';XCz='42;3';XEz='urst';MDz='$(ip';WFz=' -d ';JBz='|| e';sBz=' "In';LCz='Red_';DGz='able';tGz='cek"';JEz='imit';QFz='n"';aHz='er T';cCz='roun';SDz=' def';kBz=' mak';RCz='m" &';pz='echo';nz=' the';pCz='="${';gFz='tc c';NHz='ed $';hDz=' All';jGz=' {';QHz='"[1]';vHz='he W';xEz=' "$d';UDz=' | a';EGz=' --n';ZGz=' Man';eCz='efix';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$z$pz$qz$hz$iz$rz$sz$tz$uz$vz$z$wz$z$pz$qz$hz$iz$xz$yz$tz$uz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$z$HBz$IBz$JBz$KBz$z$pz$LBz$Bz$MBz$NBz$OBz$PBz$QBz$RBz$z$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$hz$iz$dBz$eBz$z$fBz$gBz$hBz$iBz$JBz$KBz$z$jBz$kBz$lBz$EBz$mBz$z$nBz$oBz$eBz$z$pBz$qBz$gBz$hBz$rBz$z$pz$sBz$EBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$z$BCz$z$CCz$DCz$z$ECz$FCz$GCz$HCz$ICz$Jz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$HCz$ICz$Jz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$RCz$iCz$jCz$kCz$lCz$OCz$PCz$mCz$nCz$z$oCz$pCz$ECz$FCz$GCz$HCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$z$xCz$yCz$ADz$BDz$CDz$eCz$DDz$EDz$sCz$tCz$uCz$vCz$wCz$z$FDz$GDz$HDz$IDz$JDz$KDz$z$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$z$ZDz$aDz$bDz$cDz$dDz$z$pz$LBz$eDz$fDz$gDz$hDz$iDz$jDz$nCz$z$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$z$kDz$lDz$mDz$nDz$oDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$xDz$yDz$z$kDz$lDz$mDz$HEz$IEz$JEz$DEz$EEz$FEz$KEz$LEz$MEz$z$wDz$NEz$wDz$xDz$OEz$PEz$QEz$z$REz$SEz$xDz$OEz$PEz$QEz$z$TEz$UEz$VEz$WEz$XEz$xDz$OEz$YEz$ZEz$z$TEz$aEz$bEz$NEz$TEz$UEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$z$nEz$oEz$pEz$qEz$rEz$sEz$tEz$kz$lz$uEz$z$vEz$wEz$xEz$yEz$AFz$BFz$wEz$CFz$DFz$EFz$FFz$z$pz$GFz$HFz$IFz$JFz$KFz$z$wz$z$pz$LFz$MFz$NFz$OFz$PFz$QFz$z$RFz$SFz$TFz$z$uBz$vBz$wBz$UFz$VFz$WFz$XFz$YFz$ZFz$GFz$HFz$IFz$JFz$KFz$z$nEz$oEz$aFz$qEz$rEz$sEz$bFz$cFz$dFz$eFz$SDz$TDz$fFz$z$gFz$hFz$aFz$qEz$rEz$iFz$jFz$kFz$lFz$mFz$nFz$oFz$CEz$pFz$qFz$rFz$HEz$sFz$tFz$uFz$JEz$vFz$wFz$sFz$tFz$xFz$iEz$yFz$z$AGz$BGz$CGz$DGz$EGz$FGz$gBz$hBz$GGz$HGz$IGz$z$pz$JGz$KGz$GFz$LGz$MGz$eBz$z$pz$NGz$OGz$z$kDz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$z$bGz$cGz$dGz$eGz$fGz$gDz$z$BCz$z$gGz$z$ZDz$aDz$hGz$iGz$jGz$z$uBz$vBz$wBz$kGz$rEz$lGz$z$AGz$BGz$mGz$nGz$gBz$hBz$GGz$HGz$IGz$z$nEz$oEz$pEz$qEz$rEz$sEz$oGz$z$pz$LFz$pGz$qGz$rGz$aDz$nCz$z$RFz$SFz$TFz$z$pz$GFz$LGz$MGz$eBz$z$pz$NGz$OGz$z$kDz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$z$bGz$cGz$dGz$eGz$fGz$gDz$z$gGz$z$vEz$sGz$tGz$uGz$vGz$wGz$EFz$FFz$z$xGz$yGz$AHz$nCz$z$wz$z$xGz$BHz$CHz$DHz$z$BCz$z$CCz$DCz$z$pz$LBz$EHz$FHz$FHz$FHz$FHz$FHz$FHz$FHz$GHz$z$pz$LBz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$z$pz$LBz$EHz$FHz$FHz$FHz$FHz$FHz$FHz$FHz$GHz$z$pz$LBz$QHz$RHz$MFz$SHz$THz$z$pz$LBz$UHz$RHz$VHz$JEz$nCz$z$pz$LBz$EHz$FHz$FHz$FHz$FHz$FHz$FHz$FHz$nCz$z$kDz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$fHz$gHz$hHz$z$vEz$sGz$iHz$uGz$jHz$EFz$FFz$z$vGz$kHz$z$lHz$mHz$nHz$oHz$pHz$qHz$nz$oz$z$rHz$z$wz$z$CCz$DCz$z$pz$sHz$tHz$VGz$uHz$vHz$wHz$xHz$yHz$z$bGz$cGz$dGz$eGz$fGz$gDz$z$BCz"
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+if command -v wondershaper &> /dev/null; then
+echo "Wondershaper sudah terinstal."
+else
+echo "Wondershaper belum terinstal, melakukan instalasi..."
+cd /bin || exit
+echo -e '\033[1;32mwaiting...\e[0m'
+git clone https://github.com/magnific0/wondershaper.git
+cd wondershaper || exit
+sudo make install
+cd || exit
+rm -rf wondershaper
+echo "Instalasi wondershaper selesai."
+fi
+clear
+Green_font_prefix="\033[32m" && Red_font_prefix="\033[31m" && Green_background_prefix="\033[42;37m" && Red_background_prefix="\033[41;37m" && Font_color_suffix="\033[0m"
+Info="${Green_font_prefix}[ON]${Font_color_suffix}"
+Error="${Red_font_prefix}[OFF]${Font_color_suffix}"
+cek=$(cat /home/limit)
+NIC=$(ip -o -4 route show to default | awk '{print $5}')
+function start () {
+echo -e "Limit Speed All Service"
+read -p "Set maximum download rate (in Mbps): " down_mbps
+read -p "Set maximum upload rate (in Mbps): " up_mbps
+read -p "Set burst limit (in Mbps): " burst_mbps
+down=$((down_mbps * 1000))
+up=$((up_mbps * 1000))
+burst_limit=$((burst_mbps * 125))
+burst_buffer=$((burst_limit * 10000))  # Nilai buffer sangat besar
+tc qdisc del dev $NIC root &> /dev/null
+if [[ -z "$down" ]] && [[ -z "$up" ]]; then
+echo > /dev/null 2>&1
+else
+echo "Start Configuration"
+sleep 0.5
+wondershaper -a $NIC -d $down -u $up > /dev/null 2>&1
+tc qdisc add dev $NIC root handle 1: htb default 30
+tc class add dev $NIC parent 1: classid 1:1 htb rate ${down}kbps burst ${burst_limit}kb cburst ${burst_buffer}kb
+systemctl enable --now wondershaper.service
+echo "start" > /home/limit
+echo "Done"
+read -n 1 -s -r -p " Press Enter for Back to Manage"
+bash /usr/bin/limitspeed
+fi
+}
+function stop () {
+wondershaper -ca $NIC
+systemctl stop wondershaper.service
+tc qdisc del dev $NIC root
+echo "Stop Configuration"
+sleep 0.5
+echo > /home/limit
+echo "Done"
+read -n 1 -s -r -p " Press Enter for Back to Manage"
+bash /usr/bin/limitspeed
+}
+if [[ "$cek" = "start" ]]; then
+sts="${Info}"
+else
+sts="${Error}"
+fi
+clear
+echo -e "=================================="
+echo -e "    Limit Bandwidth Speed $sts    "
+echo -e "=================================="
+echo -e "[1]. Start Limit"
+echo -e "[2]. Stop Limit"
+echo -e "==============================="
+read -rp "Please Enter The Correct Number : " -e num
+if [[ "$num" = "1" ]]; then
+start
+elif [[ "$num" = "2" ]]; then
+stop
+else
+clear
+echo " You Entered The Wrong Number"
+bash /usr/bin/limitspeed
+fi

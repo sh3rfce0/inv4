@@ -1,4 +1,65 @@
-#!/bin/bash
-z="
-";DCz=') {';oGz='text';EEz='& br';UEz='7m- ';dz=' ! -';RHz='=$TE';JCz=' "Me';jFz='.tel';pDz=';32m';Pz='erco';Fz='i_te';REz='Load';cEz=' cno';FHz='me $';UHz='_mod';gGz=',"ur';SDz='ease';FDz='mp/s';iCz='dak ';JHz='ATID';gz='in/m';lDz=' 18;';WHz='ml" ';gCz='eksi';DEz='te &';yEz='ID=$';bEz='m"';Kz='http';fFz='URL=';XFz='ot.d';hBz='Ada ';bFz=''\'' '\'' ';fEz='bash';FGz='E2 N';xBz='}';BEz='sele';WGz='kup=';QGz='e>Ve';DDz='touc';hDz='for ';Wz='4/ma';JFz='" | ';wFz='━━━━';ACz='nkan';Gz='rbar';tBz='rn 1';Rz='t.co';qFz='ssag';dCz=' bar';BDz='ull ';CCz='ate(';ez='f /u';cGz='[{"t';tz='bot_';TEz='[1;3';dGz='ext"';Iz='curl';IFz='t.db';aCz='si u';NGz=' Don';bDz=';33m';rz='bin/';iGz='wa.m';hGz='l":"';LFz='-d '\''';oFz='Y/se';cDz='["';UBz='= "$';GHz='"cha';YBz='rsi ';YDz=';37m';OEz='Plea';KBz='ni=$';Hz='u=$(';YFz='b" |';MFz=' '\'' -';xDz=' && ';kBz='else';yDz='rm /';xz='n no';sBz='i"';jGz='e/AR';dEz='rm';UFz='"/et';rDz='p 0.';Dz='ru()';IGz='b>';aDz='33[0';eBz='retu';tGz='":"h';LCz='anka';oz=' "1"';YCz='kan ';fCz='rdet';HCz='u; t';PBz='nubo';SGz='de>';Lz='s://';MHz='_web';nBz='-to-';TBz='u" !';FEz='eak';CHz=']]}'\''';bBz='sedi';ZBz='baru';LBz='(cat';wCz='D[0]';lFz='m.or';tDz='done';Az='cek_';AEz='tmp/';qz='usr/';pFz='ndMe';NEz=' dl1';bGz='d":[';kFz='egra';mEz='" > ';UGz='eply';yBz='jala';ZEz='033[';BFz='p -E';aGz='boar';SFz='#bot';WDz='g \0';SBz='[ "$';ZGz='_key';aEz='1;37';lEz='_ter';yGz='1327';oCz='rluk';nGz='},{"';DBz='g wi';vFz='e>◇━';RDz='3mPl';jBz='ru';KDz='tput';qEz='ubot';TDz=' Wai';tFz='="';MGz='ript';eDz='e tr';EDz='h /t';nDz=')); ';IHz='=$CH';SHz='XT&p';cBz='a: $';gDz='do';LDz=' civ';JGz='e>Au';Oz='ubus';qCz='bar(';NCz=' ke ';wDz='e ]]';KGz='to U';Bz='vers';GCz='_bar';Uz='stor';JEz='33m]';DGz='UTOU';QHz='w=1&';jz='ersi';yCz=' >/d';hz='enub';dDz='whil';IDz='e';lGz='N_ST';WBz=']]; ';xEz='CHAT';kCz='upda';OHz='e_pr';NBz='r/bi';rBz='t_in';IBz='i_sa';Jz=' -s ';UDz='t Lo';CFz=' "^#';FBz='on 1';SCz='p 3';rGz='ct",';nFz='t$KE';YGz='line';tEz='Upda';NHz='_pag';Tz='ivpn';ZHz='ate';LGz='e Sc';HBz='fi';KCz='njal';fz='sr/b';RCz='slee';QEz='ait ';fDz='ue; ';wBz='a ve';Xz='in/u';EGz='PDAT';YEz='K !\';BCz='_upd';AHz='3939';ZFz=' cut';YHz='ull';DFz='bot#';uFz='<cod';kDz=' i <';HDz='ai_u';WFz='t/.b';nEz='/usr';PGz='ode>';rCz='CMD[';FCz='ek_v';THz='arse';QBz='t_ve';FFz='/etc';mFz='g/bo';jDz='= 0;';iEz='l-bo';CGz=' ⚠️A';rEz='_ver';HFz='/.bo';UCz='bar ';oDz=' "\0';vz=' "Ve';kEz=' "$v';XHz='$URL';HEz='"\03';QFz='ep -';CEz='sai_';OGz='e</c';Vz='es/v';eEz='() {';mGz='ORE"';AFz='(gre';Nz='gith';BHz='59"}';iz='ot_v';JDz=') &';uEz='te v';iFz='/api';fGz='ᴅᴇʀ"';RGz='</co';XBz='then';uBz='Tida';VCz='res1';pGz='":"C';RFz='E "^';sGz='"url';vDz='e /t';kz='on ]';jCz='ada ';VDz='adin';sDz='1s';aBz=' ter';hFz='ps:/';XGz='{"in';QCz='"';ZCz='fung';pz=' > /';TGz='"'\''&r';oBz='date';eCz='u te';gBz='  # ';ECz='if c';cCz='ka v';CBz='atin';hEz='stal';gEz='n/in';PHz='evie';yFz='code';OCz='i te';EHz='x-ti';XCz='alan';bCz='e ji';xFz='━◇</';cz='if [';nz='echo';tCz='$1"';KEz='p 1s';fBz='rn 0';hCz=' "Ti';LHz='able';oEz='/bin';TFz='# " ';MCz='n up';uCz='(';wz='rsio';JBz='at_i';MEz='1';uDz='[[ -';OFz='KEY=';MDz='is';vEz=' lok';HHz='t_id';mBz='h up';XEz='2m O';eFz='="10';PDz='\033';aFz=' -d ';xGz='/628';Qz='nten';VFz='c/bo';ABz='und.';NFz='f 3)';NDz=' -ne';dFz='TIME';MBz=' /us';pBz=': $v';lCz='te y';LEz=' cuu';bz=')';QDz='[0;3';sCz='0]="';nCz='dipe';KHz='&dis';rFz='e"';lz='; th';EBz='th v';sFz='TEXT';VHz='e=ht';Cz='i_ba';Ez=' {';mz='en';ZDz='- \0';wEz='al';wGz='a.me';SEz='ing ';CDz='2>&1';VBz='ni" ';sEz='sion';IEz='3[0;';GDz='eles';lBz='suda';BBz=' Cre';az='-cek';qDz='#"';EFz=' " "';dBz='u"';GEz=' -e ';ODz=' "  ';vBz='k ad';Sz='m/ar';kGz='I_VP';vCz='${CM';RBz='n)';WEz='7m -';mDz=' i++';PEz='se W';GBz='."';uz='ion';Zz='ebot';eGz=':"ᴏʀ';Mz='raw.';XDz='33[1';VEz='3m["';cFz='-f 2';sz='menu';DHz='--ma';mCz='ang ';TCz='fun_';ADz='ev/n';HGz='⚠️</';qGz='onta';BGz='<b> ';GFz='/bot';KFz='cut ';pCz='an."';WCz='Menj';qBz='_saa';AGz='>';yz='t fo';iDz='((i ';xCz='} -y';VGz='_mar';PFz='$(gr';iBz='i ba';ICz='hen';gFz='"htt';GGz='OTIF';Yz='pdat';pEz='/men';PCz='u...';uGz='ttps';OBz='n/me';vGz='://w';jEz='t.sh';
-eval "$Az$Bz$Cz$Dz$Ez$z$Bz$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$z$nz$oz$pz$qz$rz$sz$tz$Bz$uz$z$nz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$jz$FBz$GBz$z$HBz$z$Bz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$wz$RBz$z$cz$SBz$Bz$Fz$Gz$TBz$UBz$Bz$IBz$JBz$VBz$WBz$XBz$z$nz$vz$YBz$ZBz$aBz$bBz$cBz$Bz$Fz$Gz$dBz$z$eBz$fBz$gBz$hBz$Bz$iBz$jBz$z$kBz$z$nz$vz$YBz$lBz$mBz$nBz$oBz$pBz$jz$qBz$rBz$sBz$z$eBz$tBz$gBz$uBz$vBz$wBz$YBz$ZBz$z$HBz$z$xBz$z$yBz$ACz$BCz$CCz$DCz$z$ECz$FCz$jz$GCz$HCz$ICz$z$nz$JCz$KCz$LCz$MCz$oBz$NCz$Bz$OCz$Gz$PCz$QCz$z$RCz$SCz$z$TCz$UCz$VCz$gBz$WCz$XCz$YCz$ZCz$aCz$Yz$bCz$cCz$jz$dCz$eCz$fCz$gCz$z$kBz$z$nz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$z$HBz$z$xBz$z$TCz$qCz$DCz$z$rCz$sCz$tCz$z$uCz$z$vCz$wCz$xCz$yCz$ADz$BDz$CDz$z$DDz$EDz$FDz$GDz$HDz$Yz$IDz$z$JDz$z$KDz$LDz$MDz$z$nz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$z$dDz$eDz$fDz$gDz$z$hDz$iDz$jDz$kDz$lDz$mDz$nDz$gDz$z$nz$NDz$oDz$aDz$pDz$qDz$z$RCz$rDz$sDz$z$tDz$z$uDz$vDz$FDz$GDz$HDz$Yz$wDz$xDz$yDz$AEz$BEz$CEz$kCz$DEz$EEz$FEz$z$nz$GEz$HEz$IEz$JEz$QCz$z$RCz$KEz$z$KDz$LEz$MEz$z$KDz$NEz$z$nz$NDz$ODz$OEz$PEz$QEz$REz$SEz$PDz$TEz$UEz$PDz$QDz$VEz$z$tDz$z$nz$GEz$HEz$IEz$JEz$PDz$TEz$WEz$PDz$TEz$XEz$YEz$ZEz$aEz$bEz$z$KDz$cEz$dEz$z$xBz$z$VCz$eEz$z$fEz$MBz$NBz$gEz$hEz$iEz$jEz$yCz$ADz$BDz$CDz$z$nz$kEz$jz$lEz$ZBz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$gBz$tEz$uEz$jz$vEz$wEz$z$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$z$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$bz$z$dFz$eFz$QCz$z$fFz$gFz$hFz$iFz$jFz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$z$sFz$tFz$z$uFz$vFz$wFz$wFz$wFz$xFz$yFz$AGz$z$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$z$uFz$vFz$wFz$wFz$wFz$xFz$yFz$AGz$z$uFz$JGz$KGz$Yz$LGz$MGz$NGz$OGz$PGz$z$uFz$QGz$YBz$pBz$jz$lEz$ZBz$RGz$SGz$z$uFz$vFz$wFz$wFz$wFz$xFz$yFz$AGz$z$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$Kz$Lz$iGz$jGz$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$z$Iz$Jz$DHz$EHz$FHz$dFz$aFz$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$OHz$PHz$QHz$oGz$RHz$SHz$THz$UHz$VHz$WHz$XHz$yCz$ADz$YHz$z$xBz$z$yBz$ACz$BCz$ZHz"
+cek_versi_baru() {
+versi_terbaru=$(curl -s $(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/updatebot-cek)
+if [ ! -f /usr/bin/menubot_version ]; then
+echo "1" > /usr/bin/menubot_version
+echo "Version not found. Creating with version 1."
+fi
+versi_saat_ini=$(cat /usr/bin/menubot_version)
+if [[ "$versi_terbaru" != "$versi_saat_ini" ]]; then
+echo "Versi baru tersedia: $versi_terbaru"
+return 0  # Ada versi baru
+else
+echo "Versi sudah up-to-date: $versi_saat_ini"
+return 1  # Tidak ada versi baru
+fi
+}
+jalankan_update() {
+if cek_versi_baru; then
+echo "Menjalankan update ke versi terbaru..."
+sleep 3
+fun_bar res1  # Menjalankan fungsi update jika versi baru terdeteksi
+else
+echo "Tidak ada update yang diperlukan."
+fi
+}
+fun_bar() {
+CMD[0]="$1"
+(
+${CMD[0]} -y >/dev/null 2>&1
+touch /tmp/selesai_update
+) &
+tput civis
+echo -ne "  \033[0;33mPlease Wait Loading \033[1;37m- \033[0;33m["
+while true; do
+for ((i = 0; i < 18; i++)); do
+echo -ne "\033[0;32m#"
+sleep 0.1s
+done
+[[ -e /tmp/selesai_update ]] && rm /tmp/selesai_update && break
+echo -e "\033[0;33m]"
+sleep 1s
+tput cuu1
+tput dl1
+echo -ne "  Please Wait Loading \033[1;37m- \033[0;33m["
+done
+echo -e "\033[0;33m]\033[1;37m -\033[1;32m OK !\033[1;37m"
+tput cnorm
+}
+res1() {
+bash /usr/bin/install-bot.sh >/dev/null 2>&1
+echo "$versi_terbaru" > /usr/bin/menubot_version  # Update versi lokal
+CHATID=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 3)
+KEY=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 2)
+TIME="10"
+URL="https://api.telegram.org/bot$KEY/sendMessage"
+TEXT="
+<code>◇━━━━━━━━━━━━━━◇</code>
+<b>  ⚠️AUTOUPDATE2 NOTIF⚠️</b>
+<code>◇━━━━━━━━━━━━━━◇</code>
+<code>Auto Update Script Done</code>
+<code>Versi : $versi_terbaru</code>
+<code>◇━━━━━━━━━━━━━━◇</code>
+"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ","url":"https://t.me/she0rif"},{"text":"Contact","url":"https://wa.me/6283865719160"}]]}'
+curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
+}
+jalankan_update

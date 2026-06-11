@@ -1,4 +1,149 @@
-#!/bin/bash
-z="
-";JFz=' [1-';JDz='t_Vl';SEz='nfig';WDz='s_pa';YBz=' Cre';hEz='Lock';ZDz='ATAS';fBz='n/ad';lz='="\0';DEz='"  4';TFz='lear';KEz='nt V';TDz=' Ban';uEz=' " "';OFz='t';RFz='t in';LCz='it_Q';sFz='7) c';lDz='User';YCz='ray(';Az='Blue';kDz='eck ';oCz='l-vl';rDz=' Mem';TCz='mess';uDz='SS';SBz=' xVM';BDz='ck-v';kCz='d-vl';rFz='enew';EBz='————';mz='33[9';DCz='new-';pCz='_Vle';NEz='Rene';BFz='s';oEz='ack ';tCz='less';Rz='eBe=';XCz='it_X';SGz='*) m';MEz='"  6';ZFz=' ; L';wDz='  Cr';KBz='{';kBz='n/tr';iCz='Vles';QGz='x) e';PFz='case';mBz='vme';eBz='r/bi';CEz='ss"';uFz='l_Co';gDz='3[0;';MBz='" ${';PBz='Y   ';Mz='yell';JBz='S() ';VBz='  XR';BBz='lueC';iBz='Tria';Lz=''\''';cCz=' Det';Nz='ow='\''';KCz='_Lim';BEz=' Vme';iFz='4) c';FDz='Vmes';HFz=' Opt';pFz='6) c';tDz='xVME';EGz='e_Ip';QFz=' $Lt';wFz='ss ;';GEz='ess"';oDz='"  2';FEz='t Vm';sBz='t_Me';xBz=' Ren';HBz='}';GCz='n/ce';YDz='g';Hz='ungu';REz='k Co';nDz='gin"';UFz=' ; C';SFz='1) c';QCz='outa';RDz='y_Vl';lEz='nt"';XBz='MESS';DDz=' Unl';XFz=' ;;';CBz='yan}';dCz='ail_';YFz='2) c';HDz='lock';wEz='er';HGz='Chan';aDz=' Men';Qz='Whit';xFz='8) c';gEz='" 11';jDz='  Ch';vCz=' Loc';ez='\033';Dz='[5;3';vDz=' 3.)';RGz='xit ';EEz='l Ac';tBz='mber';AGz='ery_';Oz='\e[3';CGz='9) c';TGz='esac';jz='U';rCz='-vle';hBz='e';qBz='l-vm';Wz='nBe=';mDz='s Lo';KFz='13 o';XDz='njan';BGz='s ;;';yBz='ew_A';Jz='33[0';bEz='t"';aCz='it-x';bFz='Memb';DGz='hang';LDz='-vl';JGz='Limi';OBz=' XRA';WCz='ip-v';wCz='k_Ac';yz=' -e ';dEz='it B';kz='GREN';FCz='ck_A';qEz='enu"';PEz='"  7';Fz='Xark';xDz='eate';eEz='andw';BCz='nt()';NGz='12) ';qz='func';Iz='='\''\0';kFz='ial ';UCz='n/ga';PDz='cove';wz=' {';UEz='Reco';qDz='List';uz='anja';lFz=';;';hz='# BG';vEz='Bann';fDz='"\03';jEz='Unlo';IFz='ions';hCz='unt_';Gz='[0m'\''';UDz='ner(';VDz='bari';fz='[44;';Sz=''\''\e[';FGz='10) ';rBz=' Lis';Xz='5;32';CDz='m';YEz=' Lim';tFz='etai';RBz='} "';MGz='11) ';aBz='Acco';MDz=' Rec';nz='2m"';nFz=' ; D';LEz='"';NDz='over';IBz=' ATA';eFz='3) c';IGz='ges_';MCz='uota';KDz='l';TBz='ESS(';dBz=' /us';gCz='eck-';ODz='y_Vm';sDz='ber"';vBz='n/me';GFz='From';ADz='n/lo';Cz='='\''\e';IDz='-vm';vz='ng()';Zz='033[';aFz='ist_';ZCz='-lim';rEz='"   ';CFz='read';FFz='ect ';vFz='_Vme';ZEz='it I';MFz=' :  ';pBz='n/de';fEz='idth';yCz='t_Vm';DBz=' ———';fCz='ig_V';gFz='e_Ac';lBz='ial-';GGz='r ; ';Uz='m'\''';oFz='elet';HEz='"  5';QBz='  ${';AEz='ount';ZBz='ate_';SCz='Ip_V';EDz='ock_';cz='BG_B';pz='r';mCz='ess(';tEz=' Exi';iDz=' 1.)';hDz='37m ';qCz='ss()';QDz='r-vm';ICz=' Cha';PGz='menu';NBz='LU} ';LGz='ota ';cFz='er ;';cEz='" 10';mFz='5) c';kEz='ck A';SDz='r-vl';tz='is_p';fFz='reat';bDz='u_Fe';eCz='Conf';bCz='ray';rz='tion';qFz=' ; R';cBz='bash';dFz=';';oz='clea';QEz='Chec';jFz='e_Tr';FBz='${Xa';uCz='k-vl';gz='1m" ';sz=' bar';wBz='-vme';oBz='ete_';xCz='coun';jBz='l() ';uBz='() {';pEz='to M';EFz='"Sel';OGz='13) ';JCz='nges';WFz='_Acc';HCz='k-vm';cDz='atur';nBz=' Del';bBz='unt(';nCz='vle';sCz='nt_V';Kz=';35m';xEz='Menu';Ez='6m'\''';eDz='""';CCz='n/re';mEz=' 13.';Bz='Cyan';OCz='ange';WBz='AY V';IEz='Dele';GBz='rk}"';ACz='ccou';sEz='x.) ';gBz='d-vm';Yz='r="\';JEz='te A';TEz='"  8';VFz='heck';iz=' BIR';nEz=')  B';yEz='_Fea';pDz='.)  ';hFz='t ;;';bz='m"';LBz='    ';Vz='Gree';az='1;91';aEz='P Ac';dDz='es()';Pz='3m'\''';XEz='Edit';VEz='very';RCz='nge_';ECz=' Che';GDz='n/un';lCz='l_Vl';Tz='5;37';iEz='" 12';DFz=' -p ';yDz=' Acc';PCz='ss-q';VCz='nti-';NCz='n/ch';dz='LU="';jCz='s() ';OEz='w Ac';UBz=') {';yFz='ecov';AFz='ture';xz='echo';ABz='"${B';KGz='t_Qu';WEz='"  9';LFz='r x]';NFz='" Lt';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Cz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Sz$Xz$Uz$z$Az$Bz$Cz$Dz$Ez$z$Fz$Cz$Gz$z$Yz$Zz$az$bz$z$cz$dz$ez$fz$gz$hz$iz$jz$z$kz$lz$mz$nz$z$oz$pz$z$qz$rz$sz$tz$uz$vz$wz$z$xz$yz$ABz$BBz$CBz$DBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$EBz$FBz$GBz$z$HBz$z$qz$rz$IBz$JBz$KBz$z$xz$yz$LBz$MBz$cz$NBz$LBz$LBz$LBz$LBz$OBz$PBz$LBz$LBz$LBz$QBz$Fz$RBz$z$HBz$z$qz$rz$SBz$TBz$UBz$z$xz$yz$LBz$MBz$cz$NBz$LBz$LBz$LBz$VBz$WBz$XBz$LBz$LBz$LBz$QBz$Fz$RBz$z$HBz$z$qz$rz$YBz$ZBz$aBz$bBz$UBz$z$cBz$dBz$eBz$fBz$gBz$hBz$z$HBz$z$qz$rz$YBz$ZBz$iBz$jBz$KBz$z$cBz$dBz$eBz$kBz$lBz$mBz$z$HBz$z$qz$rz$nBz$oBz$aBz$bBz$UBz$z$cBz$dBz$eBz$pBz$qBz$hBz$z$HBz$z$qz$rz$rBz$sBz$tBz$uBz$z$cBz$dBz$eBz$vBz$tBz$wBz$z$HBz$z$qz$rz$xBz$yBz$ACz$BCz$wz$z$cBz$dBz$eBz$CCz$DCz$mBz$z$HBz$z$qz$rz$ECz$FCz$ACz$BCz$wz$z$cBz$dBz$eBz$GCz$HCz$hBz$z$HBz$z$qz$rz$ICz$JCz$KCz$LCz$MCz$uBz$z$cBz$dBz$eBz$NCz$OCz$wBz$PCz$QCz$z$HBz$z$qz$rz$ICz$RCz$SCz$TCz$uBz$z$cBz$dBz$eBz$UCz$VCz$WCz$TCz$z$HBz$z$qz$rz$ICz$JCz$KCz$XCz$YCz$UBz$z$cBz$dBz$eBz$NCz$OCz$ZCz$aCz$bCz$z$HBz$z$qz$rz$cCz$dCz$eCz$fCz$TCz$uBz$z$cBz$dBz$eBz$NCz$gCz$mBz$z$HBz$z$qz$rz$YBz$ZBz$aBz$hCz$iCz$jCz$KBz$z$cBz$dBz$eBz$fBz$kCz$hBz$z$HBz$z$qz$rz$YBz$ZBz$iBz$lCz$mCz$UBz$z$cBz$dBz$eBz$kBz$lBz$nCz$z$HBz$z$qz$rz$nBz$oBz$aBz$hCz$iCz$jCz$KBz$z$cBz$dBz$eBz$pBz$oCz$hBz$z$HBz$z$qz$rz$rBz$sBz$tBz$pCz$qCz$wz$z$cBz$dBz$eBz$vBz$tBz$rCz$z$HBz$z$qz$rz$xBz$yBz$ACz$sCz$tCz$uBz$z$cBz$dBz$eBz$CCz$DCz$nCz$z$HBz$z$qz$rz$ECz$FCz$ACz$sCz$tCz$uBz$z$cBz$dBz$eBz$GCz$uCz$hBz$z$HBz$z$qz$rz$ICz$JCz$KCz$LCz$MCz$pCz$qCz$wz$z$cBz$dBz$eBz$NCz$OCz$rCz$PCz$QCz$z$HBz$z$qz$rz$ICz$RCz$SCz$tCz$uBz$z$cBz$dBz$eBz$UCz$VCz$WCz$tCz$z$HBz$z$qz$rz$ICz$JCz$KCz$XCz$YCz$UBz$z$cBz$dBz$eBz$NCz$OCz$ZCz$aCz$bCz$z$HBz$z$qz$rz$cCz$dCz$eCz$fCz$tCz$uBz$z$cBz$dBz$eBz$NCz$gCz$nCz$z$HBz$z$qz$rz$vCz$wCz$xCz$yCz$mCz$UBz$z$cBz$dBz$eBz$ADz$BDz$CDz$z$HBz$z$qz$rz$DDz$EDz$aBz$hCz$FDz$jCz$KBz$z$cBz$dBz$eBz$GDz$HDz$IDz$z$HBz$z$qz$rz$vCz$wCz$xCz$JDz$mCz$UBz$z$cBz$dBz$eBz$ADz$BDz$KDz$z$HBz$z$qz$rz$DDz$EDz$aBz$hCz$iCz$jCz$KBz$z$cBz$dBz$eBz$GDz$HDz$LDz$z$HBz$z$qz$rz$MDz$NDz$ODz$mCz$UBz$z$cBz$dBz$eBz$CCz$PDz$QDz$z$HBz$z$qz$rz$MDz$NDz$RDz$mCz$UBz$z$cBz$dBz$eBz$CCz$PDz$SDz$z$HBz$z$qz$rz$TDz$UDz$UBz$z$VDz$WDz$XDz$YDz$z$ZDz$z$VDz$WDz$XDz$YDz$z$HBz$z$qz$rz$aDz$bDz$cDz$dDz$wz$z$VDz$WDz$XDz$YDz$z$xz$yz$eDz$z$xz$yz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$z$xz$yz$oDz$pDz$qDz$rDz$sDz$z$VDz$WDz$XDz$YDz$z$tDz$uDz$z$VDz$WDz$XDz$YDz$z$xz$yz$fDz$gDz$hDz$vDz$wDz$xDz$yDz$AEz$BEz$CEz$z$xz$yz$DEz$pDz$iBz$EEz$xCz$FEz$GEz$z$xz$yz$HEz$pDz$IEz$JEz$ACz$KEz$TCz$LEz$z$xz$yz$MEz$pDz$NEz$OEz$xCz$FEz$GEz$z$xz$yz$PEz$pDz$QEz$REz$SEz$yDz$AEz$LEz$z$xz$yz$TEz$pDz$UEz$VEz$yDz$AEz$LEz$z$xz$yz$WEz$pDz$XEz$YEz$ZEz$aEz$xCz$bEz$z$xz$yz$cEz$pDz$XEz$YEz$dEz$eEz$fEz$yDz$AEz$LEz$z$xz$yz$gEz$pDz$hEz$yDz$AEz$LEz$z$xz$yz$iEz$pDz$jEz$kEz$ACz$lEz$z$VDz$WDz$XDz$YDz$z$xz$yz$fDz$gDz$hDz$mEz$nEz$oEz$pEz$qEz$z$xz$yz$rEz$sEz$tEz$bEz$z$xz$uEz$z$VDz$WDz$XDz$YDz$z$VDz$WDz$XDz$YDz$z$HBz$z$vEz$wEz$z$xEz$yEz$AFz$BFz$z$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$LFz$MFz$NFz$OFz$z$PFz$QFz$RFz$z$SFz$TFz$UFz$VFz$WFz$AEz$XFz$z$YFz$TFz$ZFz$aFz$bFz$cFz$dFz$z$eFz$TFz$UFz$fFz$gFz$xCz$hFz$z$iFz$TFz$UFz$fFz$jFz$kFz$lFz$z$mFz$TFz$nFz$oFz$gFz$xCz$hFz$z$pFz$TFz$qFz$rFz$WFz$AEz$XFz$z$sFz$TFz$nFz$tFz$uFz$SEz$vFz$wFz$dFz$z$xFz$TFz$qFz$yFz$AGz$FDz$BGz$z$CGz$TFz$UFz$DGz$EGz$vFz$wFz$dFz$z$FGz$oz$GGz$HGz$IGz$JGz$KGz$LGz$lFz$z$MGz$oz$GGz$hEz$WFz$AEz$vFz$wFz$dFz$z$NGz$oz$GGz$jEz$FCz$ACz$sCz$TCz$XFz$z$OGz$oz$GGz$PGz$XFz$z$QGz$RGz$lFz$z$SGz$wBz$wFz$dFz$z$TGz"
+BlueCyan='\e[5;36m'
+Xark='\e[0m'
+ungu='\033[0;35m'
+yellow='\e[33m'
+WhiteBe='\e[5;37m'
+GreenBe='\e[5;32m'
+BlueCyan='\e[5;36m'
+Xark='\e[0m'
+r="\033[1;91m"
+BG_BLU="\033[44;1m" # BG BIRU
+GREN="\033[92m"
+clear
+function baris_panjang() {
+echo -e "${BlueCyan} ———————————————————————————————————————${Xark}"
+}
+function ATAS() {
+echo -e     " ${BG_BLU}                  XRAY                 ${Xark} "
+}
+function xVMESS() {
+echo -e     " ${BG_BLU}               XRAY VMESS              ${Xark} "
+}
+function Create_Account() {
+bash /usr/bin/add-vme
+}
+function Create_Trial() {
+bash /usr/bin/trial-vme
+}
+function Delete_Account() {
+bash /usr/bin/del-vme
+}
+function List_Member() {
+bash /usr/bin/member-vme
+}
+function Renew_Account() {
+bash /usr/bin/renew-vme
+}
+function Check_Account() {
+bash /usr/bin/cek-vme
+}
+function Changes_Limit_Quota() {
+bash /usr/bin/change-vmess-qouta
+}
+function Change_Ip_Vmess() {
+bash /usr/bin/ganti-ip-vmess
+}
+function Changes_Limit_Xray() {
+bash /usr/bin/change-limit-xray
+}
+function Detail_Config_Vmess() {
+bash /usr/bin/check-vme
+}
+function Create_Account_Vless() {
+bash /usr/bin/add-vle
+}
+function Create_Trial_Vless() {
+bash /usr/bin/trial-vle
+}
+function Delete_Account_Vless() {
+bash /usr/bin/del-vle
+}
+function List_Member_Vless() {
+bash /usr/bin/member-vle
+}
+function Renew_Account_Vless() {
+bash /usr/bin/renew-vle
+}
+function Check_Account_Vless() {
+bash /usr/bin/cek-vle
+}
+function Changes_Limit_Quota_Vless() {
+bash /usr/bin/change-vless-qouta
+}
+function Change_Ip_Vless() {
+bash /usr/bin/ganti-ip-vless
+}
+function Changes_Limit_Xray() {
+bash /usr/bin/change-limit-xray
+}
+function Detail_Config_Vless() {
+bash /usr/bin/check-vle
+}
+function Lock_Account_Vmess() {
+bash /usr/bin/lock-vm
+}
+function Unlock_Account_Vmess() {
+bash /usr/bin/unlock-vm
+}
+function Lock_Account_Vless() {
+bash /usr/bin/lock-vl
+}
+function Unlock_Account_Vless() {
+bash /usr/bin/unlock-vl
+}
+function Recovery_Vmess() {
+bash /usr/bin/recover-vm
+}
+function Recovery_Vless() {
+bash /usr/bin/recover-vl
+}
+function Banner() {
+baris_panjang
+ATAS
+baris_panjang
+}
+function Menu_Features() {
+baris_panjang
+echo -e ""
+echo -e "\033[0;37m  1.)  Check Users Login"
+echo -e "  2.)  List Member"
+baris_panjang
+xVMESS
+baris_panjang
+echo -e "\033[0;37m  3.)  Create Account Vmess"
+echo -e "  4.)  Trial Account Vmess"
+echo -e "  5.)  Delete Account Vmess"
+echo -e "  6.)  Renew Account Vmess"
+echo -e "  7.)  Check Config Account"
+echo -e "  8.)  Recovery Account"
+echo -e "  9.)  Edit Limit IP Account"
+echo -e " 10.)  Edit Limit Bandwidth Account"
+echo -e " 11.)  Lock Account"
+echo -e " 12.)  Unlock Account"
+baris_panjang
+echo -e "\033[0;37m  13.)  Back to Menu"
+echo -e "   x.)  Exit"
+echo " "
+baris_panjang
+baris_panjang
+}
+Banner
+Menu_Features
+read -p "Select From Options [1-13 or x] :  " Ltt
+case $Ltt in
+1) clear ; Check_Account ;;
+2) clear ; List_Member ;;
+3) clear ; Create_Account ;;
+4) clear ; Create_Trial ;;
+5) clear ; Delete_Account ;;
+6) clear ; Renew_Account ;;
+7) clear ; Detail_Config_Vmess ;;
+8) clear ; Recovery_Vmess ;;
+9) clear ; Change_Ip_Vmess ;;
+10) clear ; Changes_Limit_Quota ;;
+11) clear ; Lock_Account_Vmess ;;
+12) clear ; Unlock_Account_Vmess ;;
+13) clear ; menu ;;
+x) exit ;;
+*) m-vmess ;;
+esac

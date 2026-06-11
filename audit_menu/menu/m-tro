@@ -1,4 +1,106 @@
-#!/bin/bash
-z="
-";UBz='_BLU';LEz='nt"';iEz=' :  ';cFz='r ; ';Gz='[0m'\''';kCz=' Unl';gDz='S';CEz='" 10';ZCz='ck_D';PCz='n';GFz='5) c';XCz='n/ce';iBz='r/bi';Dz='[5;3';Lz=''\''';wBz='t_Me';RBz='{';lz='r';NFz='er ;';bDz='"  5';SDz='te A';sBz='ete_';OEz=' to ';uEz='2) c';cBz='ate_';qz='() {';BDz='ATAS';qDz=' Acc';PBz=' ATA';xBz='mber';oBz='n/tr';ACz='-tro';wEz='e_Ac';bBz=' Cre';nFz='*) m';CCz='ew_A';wz='    ';lDz='r Tr';ICz='nges';GCz='new-';gz='GREN';pEz='lear';MEz='" 13';xDz=' Lim';ZEz=' -p ';LBz='lueC';Bz='Cyan';LDz='eck ';Nz='ow='\''';QFz='_Det';HBz='anja';TCz='-qou';yz='RAY ';SFz='8) c';HCz=' Cha';sz=' -e ';FBz=' bar';ODz='gin"';dCz='eck-';EFz=' ; D';kFz='nt ;';uDz='very';EBz='}';NCz='ip-t';oCz='-tr';Jz='33[0';wCz='bari';nCz='lock';fBz=') {';uBz='l-tr';lEz='case';RDz='Crea';Ez='6m'\''';xCz='s_pa';JFz='6) c';pDz='nfig';BCz=' Ren';dEz=' Opt';GEz='" 11';Yz='BG_B';NDz='s Lo';qFz='esac';CDz=' Men';EDz='atur';TBz='${BG';WEz='ture';oz=' xTR';VBz='}   ';uz='{BG_';mBz='Tria';jFz='12) ';yEz='3) c';UDz='n"';sEz='_Acc';DFz='4) c';nEz='t in';QBz='S() ';sCz='cove';Tz='5;37';aCz='etai';cEz='From';XEz='s';IBz='ng()';JCz='_Lim';KFz=' ; L';jCz='ck-t';JDz=' 1.)';GDz='"\03';Hz='ungu';UFz='ery_';JBz=' {';YBz='LITI';XBz=' UTI';fFz='Limi';CFz=';;';NBz=' ———';mDz='"  7';RFz='ails';vEz='reat';Rz='eBe=';hEz='r x]';TEz='Bann';mEz=' $Lt';LFz='ist_';BBz='AN  ';iz='33[9';KEz='ck A';bz='[44;';pBz='ial-';vCz='ner(';SBz='  " ';GBz='is_p';pFz='xit ';oDz='k Co';hz='="\0';tz=' " $';lBz='o';ADz='g';fz='U';gCz='coun';NEz='Back';QCz='it_Q';oFz='x) e';eEz='ions';VFz='Troj';aBz='ES  ';Iz='='\''\0';VCz=' Che';dBz='Acco';OCz='roja';pCz=' Rec';vBz=' Lis';ECz='nt()';WDz='l Ac';az='\033';JEz='Unlo';hBz=' /us';wDz='Edit';fEz=' [1-';aFz='imit';qEz=' ; C';CBz='${Xa';kEz='t';hFz='ota ';lFz='13) ';qCz='over';cz='1m" ';yDz='it I';Pz='3m'\''';UCz='ta';UEz='er';bEz='ect ';eFz='ges_';yBz='n/me';tDz='Reco';nDz='Chec';RCz='uota';ABz='TROJ';gBz='bash';LCz='n/ga';eBz='unt(';DBz='rk}"';mCz='n/un';PFz='7) c';ZFz='es_L';rBz=' Del';rEz='heck';dFz='Chan';TFz='ecov';mFz='menu';AEz='P Ac';HDz='3[0;';oEz='1) c';tBz='n/de';dz='# BG';FCz='n/re';MCz='nti-';EEz='andw';bCz='ls_A';fDz='ITIE';pz='OJAN';REz='Exit';ZBz='ES()';hCz='t() ';eCz=' Loc';xEz='t ;;';Qz='Whit';PEz='Menu';WFz='an ;';jEz='" Lt';QEz='"  x';TDz='nt T';iCz='n/lo';YEz='read';BEz='t"';IFz='enew';rDz='ount';Cz='='\''\e';MFz='Memb';FFz='elet';rCz='y_Tr';qBz='tro';tEz=' ;;';KBz='"${B';bFz='10) ';MDz='User';SEz='" "';VEz='_Fea';KDz='  Ch';xz='   X';tCz='r-tr';gEz='14 o';DEz='it B';Zz='LU="';iFz='11) ';ZDz='"  4';IEz='" 12';dDz='w Ac';aDz='Dele';mz='func';kz='clea';HEz='Lock';yCz='njan';iDz='  Li';IDz='37m ';jBz='n/ad';DDz='u_Fe';BFz='ial ';jz='2m"';Fz='Xark';OBz='————';VDz='"  3';cCz='n/ch';XFz='9) c';YFz='hang';Sz=''\''\e[';YDz='"';Vz='Gree';FDz='es()';nBz='l() ';PDz='"  2';Uz='m'\''';SCz='ojan';FEz='idth';nz='tion';Kz=';35m';fCz='k_Ac';vz='BLU}';YCz='k-tr';Az='Blue';Wz='nBe=';XDz='t Tr';WCz='ck_A';hDz=' 6.)';Xz='5;32';kDz='embe';DCz='ccou';ez=' BIR';cDz='Rene';HFz=' ; R';sDz='"  8';vDz='"  9';aEz='"Sel';QDz='.)  ';lCz='ock_';WBz='  TR';AFz='e_Tr';rz='echo';gFz='t_Qu';MBz='yan}';uCz=' Ban';OFz=';';KCz='it()';jDz='st M';kBz='d-tr';Oz='\e[3';Mz='yell';eDz='UTIL';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Cz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Sz$Xz$Uz$z$Az$Bz$Cz$Dz$Ez$z$Fz$Cz$Gz$z$Yz$Zz$az$bz$cz$dz$ez$fz$z$gz$hz$iz$jz$z$kz$lz$z$mz$nz$oz$pz$qz$z$rz$sz$tz$uz$vz$wz$wz$wz$xz$yz$ABz$BBz$wz$wz$wz$CBz$DBz$z$EBz$z$mz$nz$FBz$GBz$HBz$IBz$JBz$z$rz$sz$KBz$LBz$MBz$NBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$OBz$CBz$DBz$z$EBz$z$mz$nz$PBz$QBz$RBz$z$rz$sz$SBz$TBz$UBz$VBz$wz$wz$wz$WBz$pz$wz$wz$wz$wz$CBz$DBz$z$EBz$z$mz$nz$XBz$YBz$ZBz$JBz$z$rz$sz$SBz$TBz$UBz$VBz$wz$wz$wz$XBz$YBz$aBz$wz$wz$wz$CBz$DBz$z$EBz$z$mz$nz$bBz$cBz$dBz$eBz$fBz$z$gBz$hBz$iBz$jBz$kBz$lBz$z$EBz$z$mz$nz$bBz$cBz$mBz$nBz$RBz$z$gBz$hBz$iBz$oBz$pBz$qBz$z$EBz$z$mz$nz$rBz$sBz$dBz$eBz$fBz$z$gBz$hBz$iBz$tBz$uBz$lBz$z$EBz$z$mz$nz$vBz$wBz$xBz$qz$z$gBz$hBz$iBz$yBz$xBz$ACz$z$EBz$z$mz$nz$BCz$CCz$DCz$ECz$JBz$z$gBz$hBz$iBz$FCz$GCz$qBz$z$EBz$z$mz$nz$HCz$ICz$JCz$KCz$JBz$z$gBz$hBz$iBz$LCz$MCz$NCz$OCz$PCz$z$EBz$z$mz$nz$HCz$ICz$JCz$QCz$RCz$qz$z$gBz$hBz$iBz$oBz$SCz$TCz$UCz$z$EBz$z$mz$nz$VCz$WCz$DCz$ECz$JBz$z$gBz$hBz$iBz$XCz$YCz$lBz$z$EBz$z$mz$nz$VCz$ZCz$aCz$bCz$DCz$ECz$JBz$z$gBz$hBz$iBz$cCz$dCz$qBz$z$EBz$z$mz$nz$eCz$fCz$gCz$hCz$RBz$z$gBz$hBz$iBz$iCz$jCz$lz$z$EBz$z$mz$nz$kCz$lCz$dBz$eBz$fBz$z$gBz$hBz$iBz$mCz$nCz$oCz$z$EBz$z$mz$nz$pCz$qCz$rCz$SCz$qz$z$gBz$hBz$iBz$FCz$sCz$tCz$z$EBz$z$mz$nz$uCz$vCz$fBz$z$wCz$xCz$yCz$ADz$z$BDz$z$wCz$xCz$yCz$ADz$z$EBz$z$mz$nz$CDz$DDz$EDz$FDz$JBz$z$rz$sz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$z$rz$sz$PDz$QDz$RDz$SDz$DCz$TDz$OCz$UDz$z$rz$sz$VDz$QDz$mBz$WDz$gCz$XDz$SCz$YDz$z$rz$sz$ZDz$QDz$aDz$SDz$DCz$TDz$OCz$UDz$z$rz$sz$bDz$QDz$cDz$dDz$gCz$XDz$SCz$YDz$z$wCz$xCz$yCz$ADz$z$eDz$fDz$gDz$z$wCz$xCz$yCz$ADz$z$rz$sz$GDz$HDz$IDz$hDz$iDz$jDz$kDz$lDz$SCz$YDz$z$rz$sz$mDz$QDz$nDz$oDz$pDz$qDz$rDz$YDz$z$rz$sz$sDz$QDz$tDz$uDz$qDz$rDz$YDz$z$rz$sz$vDz$QDz$wDz$xDz$yDz$AEz$gCz$BEz$z$rz$sz$CEz$QDz$wDz$xDz$DEz$EEz$FEz$qDz$rDz$YDz$z$rz$sz$GEz$QDz$HEz$qDz$rDz$YDz$z$rz$sz$IEz$QDz$JEz$KEz$DCz$LEz$z$rz$sz$MEz$QDz$NEz$OEz$PEz$YDz$z$rz$sz$QEz$QDz$REz$YDz$z$rz$sz$SEz$z$wCz$xCz$yCz$ADz$z$wCz$xCz$yCz$ADz$z$EBz$z$TEz$UEz$z$PEz$VEz$WEz$XEz$z$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$z$lEz$mEz$nEz$z$oEz$pEz$qEz$rEz$sEz$rDz$tEz$z$uEz$pEz$qEz$vEz$wEz$gCz$xEz$z$yEz$pEz$qEz$vEz$AFz$BFz$CFz$z$DFz$pEz$EFz$FFz$wEz$gCz$xEz$z$GFz$pEz$HFz$IFz$sEz$rDz$tEz$z$JFz$pEz$KFz$LFz$MFz$NFz$OFz$z$PFz$pEz$qEz$rEz$QFz$RFz$sEz$rDz$tEz$z$SFz$pEz$HFz$TFz$UFz$VFz$WFz$OFz$z$XFz$pEz$qEz$YFz$ZFz$aFz$tEz$z$bFz$kz$cFz$dFz$eFz$fFz$gFz$hFz$CFz$z$iFz$kz$cFz$HEz$sEz$rDz$tEz$z$jFz$kz$cFz$JEz$WCz$DCz$kFz$OFz$z$lFz$kz$cFz$mFz$tEz$z$nFz$ACz$tEz$z$oFz$pFz$CFz$z$qFz"
+BlueCyan='\e[5;36m'
+Xark='\e[0m'
+ungu='\033[0;35m'
+yellow='\e[33m'
+WhiteBe='\e[5;37m'
+GreenBe='\e[5;32m'
+BlueCyan='\e[5;36m'
+Xark='\e[0m'
+BG_BLU="\033[44;1m" # BG BIRU
+GREN="\033[92m"
+clear
+function xTROJAN() {
+echo -e  " ${BG_BLU}               XRAY TROJAN              ${Xark}"
+}
+function baris_panjang() {
+echo -e "${BlueCyan} ———————————————————————————————————————${Xark}"
+}
+function ATAS() {
+echo -e   " ${BG_BLU}                 TROJAN                ${Xark}"
+}
+function UTILITIES() {
+echo -e   " ${BG_BLU}                UTILITIES              ${Xark}"
+}
+function Create_Account() {
+bash /usr/bin/add-tro
+}
+function Create_Trial() {
+bash /usr/bin/trial-tro
+}
+function Delete_Account() {
+bash /usr/bin/del-tro
+}
+function List_Member() {
+bash /usr/bin/member-tro
+}
+function Renew_Account() {
+bash /usr/bin/renew-tro
+}
+function Changes_Limit() {
+bash /usr/bin/ganti-ip-trojan
+}
+function Changes_Limit_Quota() {
+bash /usr/bin/trojan-qouta
+}
+function Check_Account() {
+bash /usr/bin/cek-tro
+}
+function Check_Details_Account() {
+bash /usr/bin/check-tro
+}
+function Lock_Account() {
+bash /usr/bin/lock-tr
+}
+function Unlock_Account() {
+bash /usr/bin/unlock-tr
+}
+function Recovery_Trojan() {
+bash /usr/bin/recover-tr
+}
+function Banner() {
+baris_panjang
+ATAS
+baris_panjang
+}
+function Menu_Features() {
+echo -e "\033[0;37m  1.)  Check Users Login"
+echo -e "  2.)  Create Account Trojan"
+echo -e "  3.)  Trial Account Trojan"
+echo -e "  4.)  Delete Account Trojan"
+echo -e "  5.)  Renew Account Trojan"
+baris_panjang
+UTILITIES
+baris_panjang
+echo -e "\033[0;37m  6.)  List Member Trojan"
+echo -e "  7.)  Check Config Account"
+echo -e "  8.)  Recovery Account"
+echo -e "  9.)  Edit Limit IP Account"
+echo -e " 10.)  Edit Limit Bandwidth Account"
+echo -e " 11.)  Lock Account"
+echo -e " 12.)  Unlock Account"
+echo -e " 13.)  Back to Menu"
+echo -e "  x.)  Exit"
+echo -e " "
+baris_panjang
+baris_panjang
+}
+Banner
+Menu_Features
+read -p "Select From Options [1-14 or x] :  " Ltt
+case $Ltt in
+1) clear ; Check_Account ;;
+2) clear ; Create_Account ;;
+3) clear ; Create_Trial ;;
+4) clear ; Delete_Account ;;
+5) clear ; Renew_Account ;;
+6) clear ; List_Member ;;
+7) clear ; Check_Details_Account ;;
+8) clear ; Recovery_Trojan ;;
+9) clear ; Changes_Limit ;;
+10) clear ; Changes_Limit_Quota ;;
+11) clear ; Lock_Account ;;
+12) clear ; Unlock_Account ;;
+13) clear ; menu ;;
+*) m-tro ;;
+x) exit ;;
+esac

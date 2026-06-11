@@ -1,4 +1,98 @@
-#!/bin/bash
-z="
-";nGz='func';jFz='SH  ';qz='36m━';ADz='wd';ez='=$(c';gBz='| gr';ZEz='$(da';FEz=' --d';fCz='s %-';iDz='+%s`';rFz=' Day';GFz='e/" ';ODz='egre';wBz='coun';TIz='  "';vHz='ml" ';ABz='embe';KDz='rnam';nFz=' : $';pGz=' not';vFz='ay"';LDz='e : ';CDz='kan ';xCz='etc/';hBz='ep -';eEz='"%d"';tEz='wE "';XGz='expo';AEz='iled';QIz='ak D';lBz='ut -';kBz=' | c';xGz='="$T';rDz='Expi';kCz='UN" ';Mz='ORAN';iz='ipsa';CEz='on=$';SGz='t/.b';dDz='end ';DHz='TEXT';nHz='evie';rCz='"UNL';gCz='17s ';FGz='/.bo';AHz='URL=';hFz=' Akt';dBz='ho $';YEz='tgl=';gz='usr/';ECz='int ';YHz='ay</';uFz='s on';mDz='( $D';RBz='ed';FCz='$2}'\''';hDz='ate ';aDz='n';qDz='))';SEz='on_D';xBz='t ex';PCz='[ $I';oHz='w=1&';IHz='==</';OEz='MT" ';JGz=' '\'' -';bFz='v/nu';XBz='d | ';UIz=' Pre';QEz='%m/%';Iz='N='\''\';TDz='/dev';cHz='x-ti';nBz='f3)"';ICz='us="';GHz='e>==';IIz='Pres';Xz='5m'\''';VIz='ss E';tHz='_mod';oFz='" Da';THz='</co';VBz=' $ex';qHz='=$TE';Ez='NC='\''';BHz='"$UR';cz='0;37';HHz='====';DDz='User';HCz='stat';YIz=' Bac';uHz='e=ht';gEz='bln=';BGz=' "^#';vz='"   ';sGz='$CHA';Nz='GE='\''';VEz=''\''+%d';oBz='exp=';lz='r';dGz='http';pBz='"$(c';bHz='--ma';kGz='/sen';BBz='r SS';eBz='expi';kHz='_web';CHz='L"';eFz='panj';GIz=' -r ';tGz='TID"';iEz='thn=';ZFz='r &>';SFz='ion ';fBz='red ';bCz='prin';VDz='l';XDz='-eq ';fDz='Toda';FFz='$exp';OCz='if [';EBz=' "US';FHz='<cod';xEz='" " ';IDz=' -p ';HGz='" | ';UEz='ay=$';uz='"';SCz='00 ]';HEz='"197';vCz='done';NGz='E "^';QGz='"/et';GDz=' "';IBz='DATE';mz='echo';jDz='_Det';sCz='OCKE';AFz='8)';jHz='able';gDz='y=`d';BEz='rati';nz=' -e ';vDz='day ';jCz='"$AK';hCz='%2s ';OBz='e re';GBz='ME  ';ZHz='curl';iGz='.org';pDz='400 ';yEz='-f6-';LFz='wd -';dFz=' Per';eDz='Days';iBz='v no';FBz='ERNA';LHz='e>⚠️';VCz='[ "$';REz='d)';cIz='bash';oCz='"LOC';DIz='f';WIz='nter';eIz='r/bi';XCz='= "L';pCz='KED"';oGz='tion';UGz='b" |';Fz='\033';rGz=' {';JFz='/.ss';dz='MYIP';KHz='>';iHz='&dis';lHz='_pag';Lz='m'\''';uCz='fi';PEz='+%Y/';cBz='$(ec';YCz='" ]]';YBz='cut ';mBz='d: -';oz='"\03';aGz='"10"';gIz='ssh';RFz='irat';TCz=']; t';WBz='pire';JIz='s an';PIz=' Tid';WHz='s</c';WGz='-f 2';fEz=')';xFz='ID=$';bz='T='\''\';DCz=''\''{pr';OHz='H NO';bDz='"Day';BCz=' -F"';jGz='$KEY';wz='    ';yFz='(gre';EFz='xpi/';mFz='me  ';KEz='$Exp';UBz='="$(';XIz=' for';dIz=' /us';wFz='CHAT';hz='bin/';VFz='$Pas';WFz='s\n"';LCz=' -S ';EHz='="';cFz='ll';dHz='me $';hEz='"%b"';sz='━\03';yHz='ev/n';rBz=' -l ';lCz='"$ex';GEz='ate=';EDz='name';MFz='u $U';ZCz='; th';MCz='awk ';IGz='-d '\''';YDz='0 ];';oDz='* 86';aEz='te -';wEz=' -d ';hHz='ATID';HDz='read';wDz='+ $D';HBz='EXP ';NBz='whil';ZBz='-d: ';Rz='='\''\0';XEz='%Y'\'')';nEz='bln,';cGz='RL="';Qz='BLUE';xz='  Li';tBz='N | ';PFz='mod ';sEz='.db ';VGz=''\'' '\'' ';ZDz=' the';FIz='1 -s';eHz='"cha';RCz='e 10';PDz='p "^';aHz=' -s ';qBz='hage';MHz='RENE';DBz='   "';NDz='er';NIz='k"';WCz='us" ';qCz='else';fGz='api.';sDz='re_O';vEz=' cut';Cz='3[0;';xHz=' >/d';CFz='-i "';RHz='ode>';RIz='item';iFz='if S';WEz=' %b ';lDz='d=$(';BDz='Masu';TFz='"$Pa';QBz='xpir';OGz='#bot';fFz='ang ';YFz='swd ';Gz='[0m'\''';RGz='c/bo';rEz='.ssh';QHz='️</c';DEz='(dat';UDz='/nul';VHz='e>Da';tFz='" Ex';PHz='TIF⚠';Vz='PURP';aFz=' /de';eCz='s %2';NEz='ec G';fHz='t_id';Kz='0;32';MGz='$(gr';LGz='KEY=';kEz='expe';jEz='"%Y"';gGz='tele';QCz='D -g';BFz='sed ';NFz='ser';KBz='ATUS';eGz='s://';nCz='  " ';yBz='s" |';gFz='Masa';Wz='LE='\''';YGz='rt T';KIz='y ke';xDz='ays_';Dz='31m'\''';KFz='h.db';lFz='erna';ACz=' awk';QDz='$Use';Tz=';34m';GGz='t.db';TBz='AKUN';iCz='\n" ';uBz='grep';KCz='sswd';qEz='ssh/';sHz='arse';dCz='%-17';TEz='ispl';Oz='[0;3';CBz='H   ';qFz='dded';ZIz='k to';Az='RED=';DFz='s/$e';QFz='-e  ';MDz='" Us';vBz=' "Ac';UFz='ss\n';mCz='p   ';fz='at /';ZGz='IME=';LIz='y to';uGz='"$KE';pHz='text';bEz='d "$';uEz='r" |';nDz='ays ';RDz='r" /';mGz='sage';Pz='3m'\''';SHz='e>US';fIz='n/m-';uDz='($To';JHz='code';OIz='menu';bBz='ID="';Hz='GREE';EIz=' -n ';pEz='n"';XHz='e>Ex';HIz='-p "';yCz='pass';SDz='wd >';sBz='$AKU';yDz='Deta';wGz='TIME';pz='3[5;';MBz='ED}━';JBz='  ST';AGz='p -E';yGz='IME"';PGz='# " ';BIz='}';Sz='33[0';aCz='en';kz='clea';Jz='033[';qGz='if()';bGz='rt U';tDz='n=$(';kDz='aile';IFz='/ssh';NHz='W SS';lEz='="$t';aBz='-f1)';gHz='=$CH';vGz='Y"';UCz='hen';pFz='ys A';jz='ve);';wHz='$URL';JCz='$(pa';GCz=')"';FDz='nya ';NCz=' )"';Yz='CYAN';EGz='/bot';hGz='gram';mEz='gl $';Uz=''\''';rHz='XT&p';dEz='s" +';CGz='bot#';PBz='ad e';Bz=''\''\03';tCz='D"';XFz='|pas';SIz='ukan';cCz='tf "';jBz='body';JEz='-01 ';MIz=' bac';bIz='age"';LEz='ire_';yz='st M';EEz='e -u';AIz='ull';IEz='0-01';oEz=' $th';HFz='/etc';CCz=': " ';Zz=';36m';cDz=' Ext';tz='3[0m';kFz='""';TGz='ot.d';LBz='"${R';az='LIGH';UHz='de>';aIz=' Man';mHz='e_pr';cEz=' day';sFz='s"';lGz='dMes';WDz=' $? ';rz='━━━━';JDz='"Use';OFz='user';CIz='noti';DGz=' " "';SBz='do';wCz=' < /';MEz='On s';KGz='f 3)';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$fz$gz$hz$iz$jz$z$kz$lz$z$mz$nz$oz$pz$qz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$mz$nz$vz$wz$wz$xz$yz$ABz$BBz$CBz$wz$wz$wz$DBz$z$mz$nz$oz$pz$qz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$mz$EBz$FBz$GBz$wz$wz$HBz$IBz$wz$wz$JBz$KBz$uz$z$mz$nz$LBz$MBz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$NBz$OBz$PBz$QBz$RBz$z$SBz$z$TBz$UBz$mz$VBz$WBz$XBz$YBz$ZBz$aBz$uz$z$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$z$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$WBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$z$HCz$ICz$JCz$KCz$LCz$sBz$tBz$MCz$DCz$ECz$FCz$NCz$z$OCz$PCz$QCz$RCz$SCz$TCz$UCz$z$OCz$VCz$HCz$WCz$XCz$YCz$ZCz$aCz$z$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$z$qCz$z$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$rCz$sCz$tCz$z$uCz$z$uCz$z$vCz$wCz$xCz$yCz$ADz$z$mz$nz$LBz$MBz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$mz$nz$vz$wz$wz$BDz$CDz$DDz$EDz$FDz$wz$wz$wz$GDz$z$mz$nz$oz$pz$qz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$HDz$IDz$JDz$KDz$LDz$MDz$NDz$z$ODz$PDz$QDz$RDz$xCz$yCz$SDz$TDz$UDz$VDz$z$OCz$WDz$XDz$YDz$ZDz$aDz$z$HDz$IDz$bDz$cDz$dDz$CCz$eDz$z$fDz$gDz$hDz$iDz$z$eDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$z$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$qDz$z$rDz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$z$rDz$BEz$SEz$TEz$UEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$VEz$WEz$XEz$z$YEz$ZEz$aEz$bEz$eDz$cEz$dEz$eEz$fEz$z$gEz$ZEz$aEz$bEz$eDz$cEz$dEz$hEz$fEz$z$iEz$ZEz$aEz$bEz$eDz$cEz$dEz$jEz$fEz$z$kEz$lEz$mEz$nEz$oEz$pEz$z$eBz$ez$fz$xCz$qEz$rEz$sEz$gBz$hBz$tEz$QDz$uEz$vEz$wEz$xEz$yEz$AFz$z$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$z$yCz$LFz$MFz$NFz$z$OFz$PFz$QFz$KEz$RFz$SFz$QDz$lz$z$ODz$PDz$QDz$RDz$xCz$yCz$SDz$TDz$UDz$VDz$z$mz$nz$TFz$UFz$VFz$WFz$XFz$YFz$QDz$ZFz$aFz$bFz$cFz$z$kz$lz$z$mz$nz$oz$pz$qz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$mz$nz$vz$wz$dFz$eFz$fFz$gFz$hFz$iFz$jFz$wz$wz$DBz$z$mz$nz$oz$pz$qz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$mz$nz$kFz$z$mz$nz$MDz$lFz$mFz$nFz$DDz$uz$z$mz$nz$oFz$pFz$qFz$nFz$eDz$rFz$sFz$z$mz$nz$tFz$WBz$uFz$nFz$rDz$BEz$SEz$TEz$vFz$z$mz$nz$kFz$z$mz$nz$oz$pz$qz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$mz$nz$kFz$z$wFz$xFz$yFz$AGz$BGz$CGz$DGz$HFz$EGz$FGz$GGz$HGz$YBz$IGz$JGz$KGz$z$LGz$MGz$hBz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$vEz$wEz$VGz$WGz$fEz$z$XGz$YGz$ZGz$aGz$z$XGz$bGz$cGz$dGz$eGz$fGz$gGz$hGz$iGz$EGz$jGz$kGz$lGz$mGz$uz$z$nGz$oGz$pGz$qGz$rGz$z$wFz$bBz$sGz$tGz$z$LGz$uGz$vGz$z$wGz$xGz$yGz$z$AHz$BHz$CHz$z$DHz$EHz$z$FHz$GHz$HHz$HHz$HHz$HHz$IHz$JHz$KHz$z$FHz$LHz$MHz$NHz$OHz$PHz$QHz$RHz$z$FHz$GHz$HHz$HHz$HHz$HHz$IHz$JHz$KHz$z$FHz$SHz$FBz$GBz$nFz$DDz$THz$UHz$z$FHz$VHz$pFz$qFz$nFz$eDz$rFz$WHz$RHz$z$FHz$XHz$WBz$uFz$nFz$rDz$BEz$SEz$TEz$YHz$JHz$KHz$z$FHz$GHz$HHz$HHz$HHz$HHz$IHz$JHz$KHz$z$uz$z$ZHz$aHz$bHz$cHz$dHz$wGz$wEz$eHz$fHz$gHz$hHz$iHz$jHz$kHz$lHz$mHz$nHz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$xHz$yHz$AIz$z$BIz$z$CIz$DIz$z$HDz$EIz$FIz$GIz$HIz$IIz$JIz$KIz$LIz$MIz$NIz$z$OIz$z$qCz$z$kz$lz$z$mz$nz$oz$pz$qz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$mz$nz$vz$wz$dFz$eFz$fFz$gFz$hFz$iFz$jFz$wz$wz$DBz$z$mz$nz$oz$pz$qz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$mz$nz$kFz$z$mz$nz$vz$DDz$EDz$PIz$QIz$RIz$SIz$wz$TIz$z$mz$nz$kFz$z$mz$nz$oz$pz$qz$rz$rz$rz$rz$rz$rz$rz$rz$rz$rz$sz$tz$uz$z$mz$nz$kFz$z$HDz$EIz$FIz$GIz$HIz$UIz$VIz$WIz$XIz$YIz$ZIz$aIz$bIz$z$cIz$dIz$eIz$fIz$gIz$z$uCz"
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+MYIP=$(cat /usr/bin/ipsave);
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "             List Member SSH                  "
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo "USERNAME          EXP DATE          STATUS"
+echo -e "${RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+while read expired
+do
+AKUN="$(echo $expired | cut -d: -f1)"
+ID="$(echo $expired | grep -v nobody | cut -d: -f3)"
+exp="$(chage -l $AKUN | grep "Account expires" | awk -F": " '{print $2}')"
+status="$(passwd -S $AKUN | awk '{print $2}' )"
+if [[ $ID -ge 1000 ]]; then
+if [[ "$status" = "L" ]]; then
+printf "%-17s %2s %-17s %2s \n" "$AKUN" "$exp     " "LOCKED"
+else
+printf "%-17s %2s %-17s %2s \n" "$AKUN" "$exp     " "UNLOCKED"
+fi
+fi
+done < /etc/passwd
+echo -e "${RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "           Masukan Usernamenya              "
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+read -p "Username : " User
+egrep "^$User" /etc/passwd >/dev/null
+if [ $? -eq 0 ]; then
+read -p "Day Extend : " Days
+Today=`date +%s`
+Days_Detailed=$(( $Days * 86400 ))
+Expire_On=$(($Today + $Days_Detailed))
+Expiration=$(date -u --date="1970-01-01 $Expire_On sec GMT" +%Y/%m/%d)
+Expiration_Display=$(date -u --date="1970-01-01 $Expire_On sec GMT" '+%d %b %Y')
+tgl=$(date -d "$Days days" +"%d")
+bln=$(date -d "$Days days" +"%b")
+thn=$(date -d "$Days days" +"%Y")
+expe="$tgl $bln, $thn"
+expi=$(cat /etc/ssh/.ssh.db | grep -wE "$User" | cut -d " " -f6-8)
+sed -i "s/$expi/$expe/" /etc/ssh/.ssh.db
+passwd -u $User
+usermod -e  $Expiration $User
+egrep "^$User" /etc/passwd >/dev/null
+echo -e "$Pass\n$Pass\n"|passwd $User &> /dev/null
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "        Perpanjang Masa Aktif SSH             "
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e " Username   : $User"
+echo -e " Days Added : $Days Days"
+echo -e " Expires on : $Expiration_Display"
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+CHATID=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 3)
+KEY=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 2)
+export TIME="10"
+export URL="https://api.telegram.org/bot$KEY/sendMessage"
+function notif() {
+CHATID="$CHATID"
+KEY="$KEY"
+TIME="$TIME"
+URL="$URL"
+TEXT="
+<code>====================</code>
+<code>⚠️RENEW SSH NOTIF⚠️</code>
+<code>====================</code>
+<code>USERNAME   : $User</code>
+<code>Days Added : $Days Days</code>
+<code>Expires on : $Expiration_Display</code>
+<code>====================</code>
+"
+curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
+}
+notif
+read -n 1 -s -r -p "Press any key to back"
+menu
+else
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "        Perpanjang Masa Aktif SSH             "
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "   Username Tidak Ditemukan      "
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p " Press Enter for Back to Manage"
+bash /usr/bin/m-ssh
+fi

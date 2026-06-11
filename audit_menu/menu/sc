@@ -1,4 +1,74 @@
-#!/bin/bash
-z="
-";Kz='='\''\0';FDz=' Kam';UBz='/ 2 ';kDz='_Men';rDz=' or ';dBz='100.';kCz='Edit';AEz='in';FBz='EWA ';DEz=' ; L';HEz=';';gBz='ark}';GBz='SCRI';cz='0;32';lCz=' / C';MDz='i no';QEz='Menu';JCz=' "';ZCz='ak M';BEz='1) c';YCz='di h';jz='6;1m';rBz='k to';kz='func';yDz='dux ';Qz='\e[3';YBz='ime ';MCz='Be}"';WDz='3959';TCz=' Sou';qDz='[1\2';CDz='at d';eDz='ipt ';MEz='enu ';BDz=' Min';OEz='esac';iBz=' -n ';LCz='hite';cCz='% "';OBz='/ 1 ';Mz=';35m';Rz='3m'\''';wDz='case';wCz='reen';NBz='an  ';vCz='"${G';nDz=' -p ';hCz='n "';IBz='  ${';nz='t_Sc';Oz='yell';ACz='t_So';CCz='"${C';NDz='mor ';ez='YELL';Bz='r';NEz=';;';fz='="\0';OCz='e un';VBz='20.0';QDz=' " W';CBz='    ';RBz='10.0';hBz='read';eCz='sa d';lz='tion';CEz='lear';EEz='ist_';Zz='5;32';RCz='eli ';Iz='[0m'\''';sBz=' Man';DBz='DAFT';rCz='k} "';Tz='eBe=';iDz='it "';HDz=' " B';yz='k}"';nCz='m "';XBz='ifet';bz='033[';KEz='ce ;';uBz='bash';oBz='nter';hDz='. Ex';ABz='"${u';lBz='-p "';qz='echo';jCz='bas ';Wz='m'\''';LEz='*) m';SDz='app ';tBz='age"';PCz='tung';mBz=' Pre';YDz='"${Y';JBz='}"';DDz='enga';uCz=' ${X';oCz=' Tha';gz='33[9';JEz='Sour';EBz='AR S';IDz='oleh';uz='yan}';Jz='ungu';ICz='.000';qBz=' Bac';vBz=' /us';iz='"';Uz=''\''\e[';FCz='SOUR';mz=' Lis';VDz='2739';ZBz='30.0';dDz=' Scr';DCz=' " O';tCz='OUT ';cBz='p : ';UCz='rce ';EDz='n Sc';aBz='/ Un';GEz='pt ;';pBz=' for';IEz='2) c';mDz='{';yBz='}';PDz='awah';wBz='r/bi';WCz='crip';HCz=' 300';jDz=' Exe';LBz=' " 1';Az='clea';bDz='rga ';xBz='n/sc';KBz=' ""';TBz=' " 2';kBz=' -r ';fDz='Open';cDz='sewa';JDz=' and';VCz=' " S';vz='────';iCz='t Be';vDz='x';Yz='nBe=';Gz='6m'\''';ODz='di b';az='n="\';gCz='waka';PBz='ip  ';LDz='bung';sCz='  AB';KDz='a Hu';fBz='"${X';QCz='an b';Ez='='\''\e';Cz='Blue';UDz='2813';ECz='PEN ';pDz='ect ';hz='3;1m';SCz='open';jBz='1 -s';SBz='00 "';mCz='usto';WBz=' " L';nBz='ss E';aDz='. Ha';GDz='i "';Dz='Cyan';Hz='Xark';fCz='i se';xz='{Xar';QBz='  : ';uDz='wadu';HBz='PT  ';qCz='ou $';pz='() {';bCz=' 100';XCz='t ja';PEz='Exe_';Lz='33[0';dz='m"';Xz='Gree';Nz=''\''';sDz='x]  ';bBz='li i';sz='"${B';BBz='ngu}';ADz='Anda';Sz='Whit';tDz=': " ';oz='ript';MBz=' bul';RDz='hats';Vz='5;37';xDz=' $wa';NCz=' " K';eBz='000 ';xCz=' " J';BCz='urce';Fz='[5;3';rz=' -e ';aCz='ilik';gDz=' " x';lDz='u() ';tz='lueC';FEz='Scri';XDz='  "';KCz='"${W';GCz='CE :';ZDz='ELL}';wz='───$';yCz='ika ';pCz='nk Y';dCz='t Bi';Pz='ow='\''';TDz=': +6';oDz='"Sel';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$z$Hz$Ez$Iz$z$Jz$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$Uz$Zz$Wz$z$Xz$az$bz$cz$dz$z$Cz$Dz$Ez$Fz$Gz$z$ez$fz$gz$hz$iz$z$Dz$fz$gz$jz$iz$z$Hz$Ez$Iz$z$kz$lz$mz$nz$oz$pz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$qz$rz$ABz$BBz$CBz$CBz$CBz$DBz$EBz$FBz$GBz$HBz$CBz$CBz$IBz$Hz$JBz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$qz$KBz$z$qz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$z$qz$TBz$MBz$NBz$UBz$PBz$QBz$VBz$SBz$z$qz$WBz$XBz$YBz$OBz$PBz$QBz$ZBz$SBz$z$qz$WBz$XBz$YBz$aBz$bBz$cBz$dBz$eBz$iz$z$qz$KBz$z$qz$rz$fBz$gBz$iz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$z$uBz$vBz$wBz$xBz$z$yBz$z$kz$lz$mz$ACz$BCz$pz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$qz$rz$CCz$uz$iz$z$qz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$z$qz$rz$fBz$gBz$iz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$qz$KBz$z$qz$rz$KCz$LCz$MCz$z$qz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$iz$z$qz$KBz$z$qz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$z$qz$VCz$WCz$dCz$eCz$fCz$gCz$hCz$z$qz$VCz$WCz$iCz$jCz$kCz$lCz$mCz$nCz$z$qz$rz$fBz$gBz$iz$z$qz$rz$sz$tz$uz$oCz$pCz$qCz$xz$rCz$z$qz$KBz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$hBz$iBz$jBz$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$z$uBz$vBz$wBz$xBz$z$yBz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$qz$rz$sz$tz$uz$CBz$CBz$CBz$CBz$sCz$tCz$CBz$CBz$CBz$CBz$uCz$gBz$iz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$qz$KBz$z$qz$rz$vCz$wCz$JBz$z$qz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$z$qz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$JCz$z$qz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$z$qz$KBz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$qz$rz$YDz$ZDz$iz$z$qz$LBz$aDz$bDz$cDz$dDz$eDz$iz$z$qz$TBz$aDz$bDz$fDz$TCz$UCz$iz$z$qz$gDz$hDz$iDz$z$qz$rz$fBz$gBz$iz$z$qz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$vz$vz$wz$xz$yz$z$kz$lz$jDz$kDz$lDz$mDz$z$qz$KBz$z$qz$KBz$z$hBz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$z$wDz$xDz$yDz$AEz$z$BEz$CEz$DEz$EEz$FEz$GEz$HEz$z$IEz$CEz$DEz$EEz$JEz$KEz$HEz$z$LEz$MEz$NEz$z$OEz$z$yBz$z$PEz$QEz"
+clear
+BlueCyan='\e[5;36m'
+Xark='\e[0m'
+ungu='\033[0;35m'
+yellow='\e[33m'
+WhiteBe='\e[5;37m'
+GreenBe='\e[5;32m'
+Green="\033[0;32m"
+BlueCyan='\e[5;36m'
+YELL="\033[93;1m"
+Cyan="\033[96;1m"
+Xark='\e[0m'
+function List_Script() {
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+echo -e "${ungu}            DAFTAR SEWA SCRIPT            ${Xark}"
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+echo ""
+echo " 1 bulan  / 1 ip    : 10.000 "
+echo " 2 bulan  / 2 ip    : 20.000 "
+echo " Lifetime / 1 ip    : 30.000 "
+echo " Lifetime / Unli ip : 100.000 "
+echo ""
+echo -e "${Xark}"
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+read -n 1 -s -r -p " Press Enter for Back to Manage"
+bash /usr/bin/sc
+}
+function List_Source() {
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+echo -e "${Cyan}"
+echo " OPEN SOURCE : 300.000 "
+echo -e "${Xark}"
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+echo ""
+echo -e "${WhiteBe}"
+echo " Ke untungan beli open Source "
+echo ""
+echo " Script jadi hak Milik 100% "
+echo " Script Bisa di sewakan "
+echo " Script Bebas Edit / Custom "
+echo -e "${Xark}"
+echo -e "${BlueCyan} Thank You ${Xark} "
+echo ""
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+read -n 1 -s -r -p " Press Enter for Back to Manage"
+bash /usr/bin/sc
+}
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+echo -e "${BlueCyan}                  ABOUT                  ${Xark}"
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+echo ""
+echo -e "${Green}"
+echo " Jika Anda Minat dengan Sc Kami "
+echo " Boleh anda Hubungi nomor di bawah "
+echo " Whatsapp : +6283865719160  "
+echo ""
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+echo -e "${YELL}"
+echo " 1. Harga sewa Script "
+echo " 2. Harga Open Source "
+echo " x. Exit "
+echo -e "${Xark}"
+echo -e "${BlueCyan}───────────────────────────────────────────${Xark}"
+function Exe_Menu() {
+echo ""
+echo ""
+read -p "Select [1\2 or x]  : " wadux
+case $wadux in
+1) clear ; List_Script ;;
+2) clear ; List_Source ;;
+*) menu ;;
+esac
+}
+Exe_Menu

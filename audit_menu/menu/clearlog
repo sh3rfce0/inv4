@@ -1,4 +1,33 @@
-#!/bin/bash
-z="
-";qz='ta[@';RBz=' -e ';fz='ind ';QBz='g';BBz='done';Az='RED=';Uz=''\''';Wz='LE='\''';Kz='0;32';IBz='var/';bz='T='\''\';PBz='debu';hz='/log';iz='/ -n';kz='*.lo';Pz='3m'\''';nz='log ';SBz='""';GBz=';';rz=']}"';FBz='.*`)';NBz='mess';MBz='btmp';Nz='GE='\''';YBz='l ${';Vz='PURP';xz='"';Dz='31m'\''';mz='for ';VBz=' Log';lz='g`);';az='LIGH';Lz='m'\''';Ez='NC='\''';Mz='ORAN';KBz='sysl';cz='0;37';wz='lear';Hz='GREE';Rz='='\''\0';tz='echo';uz=' "$l';ez='=(`f';OBz='ages';jz='ame ';aBz=' ""';JBz='log/';ZBz='NC}"';oz='in "';CBz='*.er';sz='do';TBz='" ${';Fz='\033';yz=' > $';Iz='N='\''\';LBz='og';Qz='BLUE';Sz='33[0';vz='og c';UBz='N} C';WBz=' Ber';Zz=';36m';Yz='CYAN';Cz='3[0;';gz='/var';pz='${da';Bz=''\''\03';Xz='5m'\''';DBz='r`);';HBz=' > /';EBz='mail';dz='data';Gz='[0m'\''';ABz='log';Jz='033[';Oz='[0;3';Tz=';34m';XBz='hasi';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$z$mz$nz$oz$pz$qz$rz$z$sz$z$tz$uz$vz$wz$xz$z$tz$yz$ABz$z$BBz$z$dz$ez$fz$gz$hz$iz$jz$CBz$DBz$z$mz$nz$oz$pz$qz$rz$z$sz$z$tz$uz$vz$wz$xz$z$tz$yz$ABz$z$BBz$z$dz$ez$fz$gz$hz$iz$jz$EBz$FBz$GBz$z$mz$nz$oz$pz$qz$rz$z$sz$z$tz$uz$vz$wz$xz$z$tz$yz$ABz$z$BBz$z$tz$HBz$IBz$JBz$KBz$LBz$z$tz$HBz$IBz$JBz$MBz$z$tz$HBz$IBz$JBz$NBz$OBz$z$tz$HBz$IBz$JBz$PBz$QBz$z$tz$RBz$SBz$z$tz$RBz$TBz$Hz$UBz$wz$VBz$WBz$XBz$YBz$ZBz$z$tz$aBz"
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+data=(`find /var/log/ -name *.log`);
+for log in "${data[@]}"
+do
+echo "$log clear"
+echo > $log
+done
+data=(`find /var/log/ -name *.err`);
+for log in "${data[@]}"
+do
+echo "$log clear"
+echo > $log
+done
+data=(`find /var/log/ -name mail.*`);
+for log in "${data[@]}"
+do
+echo "$log clear"
+echo > $log
+done
+echo > /var/log/syslog
+echo > /var/log/btmp
+echo > /var/log/messages
+echo > /var/log/debug
+echo -e ""
+echo -e " ${GREEN} Clear Log Berhasil ${NC}"
+echo ""

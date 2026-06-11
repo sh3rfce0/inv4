@@ -1,4 +1,36 @@
-#!/bin/bash
-z="
-";Bz='ing(';cBz='ent.';hCz='.con';RCz='.cfg';MCz='wget';uCz='oxy/';WBz='tps:';UBz='REPO';rBz=' >/d';tz='func';qCz='x/${';Mz=''\''';JDz='/ini';LCz='conf';Uz='; do';Hz='lay=';PCz='/hap';MBz='menu';LDz='x re';UDz='inx ';vz=' Loa';xBz='l st';FBz='33[5';ODz='l en';vBz='syst';NCz=' -O ';VCz=' 2>&';gz='temp';kz='p"}';SDz='l re';PDz='able';ADz='ll 2';BDz='>&1';Pz=' -p ';aCz='d/xr';hz='${sp';ez='n"';Qz='$pid';aDz='ing_';OCz='/etc';kCz='/nul';az='tf "';dz='$spi';OBz='(cat';uz='tion';hBz='/v4/';pCz='s/xx';BBz='r';QDz=' --n';YBz='w.gi';nz='elay';oz='\b\b';bz='[%c]';yBz='op n';iCz='f" >';qBz='ginx';pBz='ll n';Lz='-\|/';VDz='p 3 ';nBz='-y i';rCz='in}/';jBz='/"';ICz='nf';Jz='l sp';DDz=' ${R';FDz='nf -';IDz='nx.c';eCz='EPO}';dCz='"${R';fz='in=$';GCz='/xra';Ez='l pi';RBz='ay/d';kBz='ing.';TBz='n)';TDz='t ng';oBz='nsta';fBz='pnst';CCz='etc/';mz='p $d';gCz='xray';Kz='in='\''';tBz='ull ';yCz='v/nu';QBz='c/xr';oCz='-i "';xCz='>/de';SBz='omai';EDz='x.co';jCz='/dev';ABz='clea';IBz='es\0';GBz=';32m';GDz='O /e';wCz='cfg ';Wz='mp=$';Oz='e ps';CDz='nf >';sBz='ev/n';Zz='prin';sz='}';tCz='hapr';DBz=' -e ';ECz='x/co';aBz='user';KDz='t.d/';yz='ces(';ACz='rm -';YCz='nx/c';NDz='t >/';NBz='doma';xz='_Suc';Rz=' > /';pz='"';lz='slee';CBz='echo';DCz='ngin';dBz='com/';Yz='n#?}';SCz=' "${';nCz='sed ';Nz='whil';WDz='& lo';QCz='roxy';BCz='rf /';KBz='m"';Dz='loca';bBz='cont';ZBz='thub';FCz='nf.d';UCz='" >/';Vz='l te';sCz='g" /';wz='ding';LBz='p 1';cz=' " "';HDz='tc/n';YDz='g $!';jz='$tem';Xz='{spi';ZCz='onf.';KCz='inx.';XDz='adin';rz='    ';XBz='//ra';lCz='l 2>';uBz='2>&1';Az='load';fCz='Cfg/';EBz=' "\0';Fz='d=$1';Iz='0.1';wBz='emct';PBz=' /et';HBz='Succ';ZDz='Load';vCz='oxy.';mCz='&1';Sz='dev/';qz='done';HCz='y.co';VBz='="ht';Gz='l de';mBz='apt ';bDz='es';cCz='onf ';eBz='ariv';iz='in%"';iBz='main';Cz=') {';WCz='1';JBz='33[0';gBz='ores';TCz='}Cfg';JCz='x/ng';lBz='..\0';RDz='ow n';XCz='/ngi';bCz='ay.c';MDz='star';Tz='null';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$z$Dz$Gz$Hz$Iz$z$Dz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Dz$Vz$Wz$Xz$Yz$z$Zz$az$bz$cz$dz$ez$z$Dz$Jz$fz$gz$hz$iz$jz$kz$z$lz$mz$nz$z$Zz$az$oz$oz$oz$pz$z$qz$z$Zz$az$rz$oz$oz$pz$z$sz$z$tz$uz$vz$wz$xz$yz$Cz$z$ABz$BBz$z$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$z$lz$LBz$z$MBz$z$sz$z$NBz$fz$OBz$PBz$QBz$RBz$SBz$TBz$z$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$jBz$z$CBz$DBz$EBz$FBz$GBz$Az$kBz$lBz$JBz$KBz$z$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$z$vBz$wBz$xBz$yBz$qBz$rBz$sBz$tBz$uBz$z$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$z$ACz$BCz$CCz$DCz$JCz$KCz$LCz$z$MCz$NCz$OCz$PCz$QCz$PCz$QCz$RCz$SCz$UBz$TCz$PCz$QCz$RCz$UCz$Sz$Tz$VCz$WCz$z$MCz$NCz$OCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$z$nCz$oCz$pCz$qCz$NBz$rCz$sCz$CCz$tCz$uCz$tCz$vCz$wCz$xCz$yCz$ADz$BDz$z$nCz$oCz$pCz$qCz$NBz$rCz$sCz$CCz$DCz$ECz$FCz$GCz$HCz$CDz$jCz$kCz$lCz$mCz$z$MCz$DDz$eCz$fCz$DCz$EDz$FDz$GDz$HDz$qBz$XCz$IDz$cCz$xCz$yCz$ADz$BDz$z$OCz$JDz$KDz$DCz$LDz$MDz$NDz$Sz$Tz$VCz$WCz$z$vBz$wBz$ODz$PDz$QDz$RDz$qBz$rBz$sBz$tBz$uBz$z$vBz$wBz$SDz$MDz$TDz$UDz$xCz$yCz$ADz$BDz$z$lz$VDz$WDz$XDz$YDz$z$ZDz$aDz$HBz$bDz"
+loading() {
+local pid=$1
+local delay=0.1
+local spin='-\|/'
+while ps -p $pid > /dev/null; do
+local temp=${spin#?}
+printf "[%c] " "$spin"
+local spin=$temp${spin%"$temp"}
+sleep $delay
+printf "\b\b\b\b\b\b"
+done
+printf "    \b\b\b\b"
+}
+function Loading_Succes() {
+clear
+echo -e  "\033[5;32mSucces\033[0m"
+sleep 1
+menu
+}
+domain=$(cat /etc/xray/domain)
+REPO="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/"
+echo -e  "\033[5;32mloading...\033[0m"
+apt -y install nginx >/dev/null 2>&1
+systemctl stop nginx >/dev/null 2>&1
+rm -rf /etc/nginx/conf.d/xray.conf
+rm -rf /etc/nginx/nginx.conf
+wget -O /etc/haproxy/haproxy.cfg "${REPO}Cfg/haproxy.cfg" >/dev/null 2>&1
+wget -O /etc/nginx/conf.d/xray.conf "${REPO}Cfg/xray.conf" >/dev/null 2>&1
+sed -i "s/xxx/${domain}/g" /etc/haproxy/haproxy.cfg >/dev/null 2>&1
+sed -i "s/xxx/${domain}/g" /etc/nginx/conf.d/xray.conf >/dev/null 2>&1
+wget ${REPO}Cfg/nginx.conf -O /etc/nginx/nginx.conf >/dev/null 2>&1
+/etc/init.d/nginx restart >/dev/null 2>&1
+systemctl enable --now nginx >/dev/null 2>&1
+systemctl restart nginx >/dev/null 2>&1
+sleep 3 & loading $!
+Loading_Succes

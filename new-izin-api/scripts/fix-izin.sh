@@ -1,4 +1,9 @@
-IZIN_URL="http://64.235.61.22/ip"
+if [ -f /etc/xray/license_server ]; then
+    LICENSE_SERVER=$(cat /etc/xray/license_server)
+else
+    LICENSE_SERVER="http://64.235.61.22:7888"
+fi
+IZIN_URL="${LICENSE_SERVER}/ip"
 CACHE_DIR="/tmp/izin_cache"
 CACHE_FILE="$CACHE_DIR/iplist.txt"
 IPSAVE_FILE="/usr/bin/ipsave"
@@ -17,7 +22,13 @@ curl -s --max-time 8 "$IZIN_URL" -o "$CACHE_FILE"
 fi
 DATA=$(grep -w "$MYIP" "$CACHE_FILE")
 if [ -z "$DATA" ]; then
-echo "❌ IP TIDAK TERDAFTAR"
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "        404 NOT FOUND AUTOSCRIPT            "
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+echo "          PERMISSION DENIED !               "
+echo "   Your VPS $MYIP is not whitelisted.        "
+echo "   Please contact Admin for authorization.  "
+echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 rm -f "$USER_FILE" "$EXP_FILE"
 exit 1
 fi
@@ -33,13 +44,13 @@ isp="$(curl -fsS --max-time 5 ipinfo.io/org 2>/dev/null | tr -d '\r' | cut -d' '
 [ -n "$isp" ] && echo "$isp" > /etc/xray/isp
 clear
 printf '%s\n' \
-"━━━━━━━━━━━━━━━━━━━━━━" \
-" IZIN SCRIPT AKTIF ✅" \
+"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" \
+"       SHERIF VPN SICEPAT AKTIF ✅" \
 " USER   : $USERNAME" \
 " EXP    : $EXPIRED" \
 " IP     : $MYIP" \
 " CITY   : $city" \
 " ISP    : $isp" \
-"━━━━━━━━━━━━━━━━━━━━━━"
+"━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 sleep 2
 clear

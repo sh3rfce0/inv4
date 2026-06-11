@@ -1,4 +1,43 @@
-#!/bin/bash
-z="
-";Ez='"\\0';SBz='do';Tz='1]="';mz='D[1]';nz='touc';jCz='m re';cz=' $HO';RBz='ue; ';Gz='2;1m';nBz='"';nCz='e\03';IBz='g \0';uCz='1 -s';uBz='2m O';dCz='ICE ';Lz='clea';vBz='K !\';TCz='━\03';wBz='033[';OBz='["';xBz='1;37';FCz='syst';QCz='3[1;';VBz='= 0;';Az='red(';Uz='$2"';dz='ME/f';Hz='${*}';CBz='[0;3';TBz='for ';lBz='3[0;';cBz='#"';ICz='star';KBz=';37m';BBz='\033';Vz='(';KCz='t';ABz=' "  ';QBz='e tr';Fz='33[3';fz='${CM';DDz='k to';vCz=' -r ';eBz='p 0.';qCz=''\''res';dBz='slee';rBz=' dl1';xz='is';cCz='SERV';iz=' >/d';Nz='fun_';Zz='fim ';Dz=' -e ';gz='D[0]';iBz='& br';pCz='bar ';ADz='nter';KDz='bot';Kz='"; }';hBz='im &';yz=' -ne';ZBz=')); ';kCz='t bo';YBz=' i++';DBz='3mPl';HBz='adin';UCz='" \e';IDz='r/bi';MCz='ilte';lz='2>&1';Rz='0]="';HCz='l re';wz=' civ';oz='h $H';gBz='done';Wz='[[ -';wCz='-p "';uz='1 &';ECz='() {';PBz='whil';az=']] &';LCz='netf';LBz='- \0';PCz='tent';BDz=' for';gCz='""';EDz=' Man';tBz='7m -';fCz='0m"';sCz='read';HDz=' /us';bBz=';32m';Jz='3[0m';mBz='33m]';bCz='BOT ';sz='null';mCz='rvic';jz='ev/n';vz='tput';Iz='\\03';bz='& rm';aBz=' "\0';MBz='33[0';yBz='m"';rz='dev/';Bz=') { ';OCz='rsis';pz='fim';GCz='emct';DCz='res1';xCz=' Pre';hCz='"  \';NBz=';33m';NCz='r-pe';ez='im';eCz=' \e[';kBz='"\03';oCz='37m"';oBz='p 1s';EBz='ease';RCz='36m━';pBz=' cuu';Sz='$1"';hz='} -y';sBz='[1;3';GBz='t Lo';tz=' 2>&';UBz='((i ';CDz=' Bac';Pz=') {';Cz='echo';tCz=' -n ';GDz='bash';Yz='OME/';WBz=' i <';yCz='ss E';Qz='CMD[';SCz='━━━━';fBz='1s';lCz='t se';JBz='33[1';FDz='age"';FBz=' Wai';ACz=' cno';jBz='eak';JDz='n/m-';BCz='rm';kz='ull ';CCz='}';YCz='    ';JCz='t ky';aCz='ART ';XBz=' 18;';qBz='1';Oz='bar(';Mz='r';XCz='1m  ';ZCz='REST';WCz='7;10';qz=') >/';VCz='[1;9';rCz='1'\''';Xz='e $H';iCz='1;91';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$z$Lz$Mz$z$Nz$Oz$Pz$z$Qz$Rz$Sz$z$Qz$Tz$Uz$z$Vz$z$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$z$fz$gz$hz$iz$jz$kz$lz$z$fz$mz$hz$iz$jz$kz$lz$z$nz$oz$Yz$pz$z$qz$rz$sz$tz$uz$z$vz$wz$xz$z$Cz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$z$PBz$QBz$RBz$SBz$z$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$SBz$z$Cz$yz$aBz$MBz$bBz$cBz$z$dBz$eBz$fBz$z$gBz$z$Wz$Xz$Yz$Zz$az$bz$cz$dz$hBz$iBz$jBz$z$Cz$Dz$kBz$lBz$mBz$nBz$z$dBz$oBz$z$vz$pBz$qBz$z$vz$rBz$z$Cz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$z$gBz$z$Cz$Dz$kBz$lBz$mBz$BBz$sBz$tBz$BBz$sBz$uBz$vBz$wBz$xBz$yBz$z$vz$ACz$BCz$z$CCz$z$DCz$ECz$z$FCz$GCz$HCz$ICz$JCz$KCz$z$CCz$z$LCz$MCz$NCz$OCz$PCz$z$Lz$Mz$z$Cz$Dz$kBz$QCz$RCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$TCz$Jz$nBz$z$Cz$Dz$UCz$VCz$WCz$XCz$YCz$YCz$ZCz$aCz$bCz$cCz$dCz$YCz$YCz$eCz$fCz$z$Cz$Dz$kBz$QCz$RCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$TCz$Jz$nBz$z$Cz$Dz$gCz$z$Cz$Dz$hCz$wBz$iCz$jCz$ICz$kCz$lCz$mCz$nCz$QCz$oCz$z$Nz$pCz$qCz$rCz$z$Cz$Dz$kBz$QCz$RCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$SCz$TCz$Jz$nBz$z$Cz$Dz$gCz$z$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$z$GDz$HDz$IDz$JDz$KDz"
+red() { echo -e "\\033[32;1m${*}\\033[0m"; }
+clear
+fun_bar() {
+CMD[0]="$1"
+CMD[1]="$2"
+(
+[[ -e $HOME/fim ]] && rm $HOME/fim
+${CMD[0]} -y >/dev/null 2>&1
+${CMD[1]} -y >/dev/null 2>&1
+touch $HOME/fim
+) >/dev/null 2>&1 &
+tput civis
+echo -ne "  \033[0;33mPlease Wait Loading \033[1;37m- \033[0;33m["
+while true; do
+for ((i = 0; i < 18; i++)); do
+echo -ne "\033[0;32m#"
+sleep 0.1s
+done
+[[ -e $HOME/fim ]] && rm $HOME/fim && break
+echo -e "\033[0;33m]"
+sleep 1s
+tput cuu1
+tput dl1
+echo -ne "  \033[0;33mPlease Wait Loading \033[1;37m- \033[0;33m["
+done
+echo -e "\033[0;33m]\033[1;37m -\033[1;32m OK !\033[1;37m"
+tput cnorm
+}
+res1() {
+systemctl restart kyt
+}
+netfilter-persistent
+clear
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " \e[1;97;101m          RESTART BOT SERVICE          \e[0m"
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "  \033[1;91m restart bot service\033[1;37m"
+fun_bar 'res1'
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p " Press Enter for Back to Manage"
+bash /usr/bin/m-bot

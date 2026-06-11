@@ -1,4 +1,410 @@
-#!/bin/bash
-z="
-";KWz='" Po';hWz='terI';BBz='c/bo';Wz='LE='\''';QNz='"v":';aEz='2;32';tLz='$(da';EVz='ull';DVz='ev/n';tNz='e",';QQz='${vm';XUz='ttps';oNz='"/vm';nTz='ws o';JCz='e: /';RVz='-» R';THz='it()';rBz='cure';QCz='-%d"';ORz=' > /';ODz='ate_';kQz=' $tn';yHz=' Man';dTz='81-9';nIz='= 0;';PGz='=$(e';Dz='31m'\''';eTz='999';NGz='l pl';XJz='_Suc';ADz='| aw';nLz='s an';ZOz='slin';VJz=' Loa';HEz='Has ';lMz='/a\#';tCz='t -q';fWz='SP"';vCz=' | g';bDz='───\';OCz=' +"%';pNz='ess"';aFz='36m ';xz='#bot';mz='/.bo';EQz='-opt';sKz='   :';XFz='ng()';PUz=' gRP';FJz=' + i';NVz='RODU';vFz='l te';YLz='3)';tIz=')); ';tKz=' " m';KMz='bln,';nQz='khir';NXz='nk G';HHz='MASC';wUz='arse';XNz='": "';EKz='bin/';GIz='=6';nCz='king';SIz=' "██';GGz='an p';rJz=' '\'' '\''';VSz='} ${';FEz='a \0';kNz='"net';KQz='-grp';IFz='xray';JFz='/cit';NIz='%" "';dBz='ipsa';DGz='suai';rNz='e": ';pOz='r/ww';NEz='acce';nKz='r ];';BWz='" Re';gz='p -E';NSz='/\b$';bGz='n=${';VKz='ED}━';dz='CHAT';KRz='limi';wVz='_Acc';OJz='s[$i';vNz='"${d';kUz='t_id';VUz='lash';kPz='pts:';jTz='0';BEz='ur V';bKz='User';OQz=' TLS';cUz='ser.';STz='ota ';aDz='────';SCz='ta_s';SJz='p 0.';GJz=' % 7';gLz='iled';fMz='%m-%';qCz='usee';RCz='"$da';jNz='0",';pHz='1 -s';cKz='name';iGz=' (wi';IJz=' ""';aNz='}",';LUz='ESS ';LMz=' $th';WFz='anja';mSz='Y"';IOz='"vme';TQz=' non';FMz='thn=';qUz='_pag';dWz='P   ';Zz=';36m';HCz=''\''s/<';VTz='Port';HPz='WS T';hFz='s_pa';YIz='{#fr';cGz='#pla';nUz='&dis';iVz='-» H';wCz='rep ';BHz='d_te';FBz=' cut';IHz=' \e[';nSz='TIME';dEz='p\03';FFz='=$(c';aSz='ipli';nNz='h": ';IEz='been';XTz='900';XXz='xt"';nEz='m\03';XMz='2"';CKz='MYIP';GOz='t<<E';VHz='slee';bWz='ITY"';PWz='" po';TBz='tele';CFz='ray/';oXz='Expi';LJz='de}m';YOz='3=$(';HUz='TLS<';KPz=': vm';DMz='bln=';yOz='====';qEz='I_VP';wBz='//go';jCz='in/i';tMz=' "'\''"';kBz='data';nHz='read';Vz='PURP';ez='ID=$';bVz=': $u';EOz='grpc';Cz='3[0;';BQz='I)';mLz='Pres';NTz='Doma';jSz='$CHA';qHz=' -r ';DOz='none';YCz='w.gi';fRz='} * ';xMz='alte';CTz='e>  ';pUz='_web';SVz='EGIO';sOz='mess';hHz='35m ';vDz='N DE';EPz='me: ';JJz='"\e[';SSz='s.db';aIz='[@]}';MFz='in=$';GQz='-ser';kDz=' AUT';nVz='f HA';BUz='Name';nDz=' \03';gJz='tar_';ZMz='`dat';bXz='m Da';IKz='━\03';OGz='ain_';wHz=' Bac';lGz='n) /';MNz='asu=';lVz='KTIF';FDz='if [';MPz='serv';ZDz='93m─';kKz='ser';SKz='UUID';pXz='ry';KGz='g di';VGz='\x1b';oLz='y ke';XIz='es=$';sSz='L"';YJz='ces(';BCz='&1 |';LRz='t" >';oFz='NEL ';cNz='t": ';Xz='5m'\''';cEz='tsAp';GXz=' Lin';cCz='ent.';pDz='""';CJz='r_co';eSz='# $u';UWz='082"';OHz='"$fo';FOz='=`ca';Az='RED=';DIz='vmes';FQz='s:';GMz='+"%Y';TIz='███9';xJz='| so';PBz='RL="';uBz='t ht';CRz='[ $i';SXz='ash ';gHz='xt1=';fLz='t Fa';qWz='twor';GPz='ser-';RUz='k3}<';VIz='0%")';qSz='URL=';UTz='B';RTz='t Qu';CMz='")';JOz='ss-g';VEz='Cont';lQz='ggl';AUz='th';oHz=' -n ';dJz='es\0';AKz=' uni';aUz='ain}';lOz='4 -w';hVz=' IP';vz='ep -';PSz='/d" ';wLz='masa';kMz='ess$';iDz='OT F';YHz='erim';oBz='rl -';ETz='/VME';AWz='" VM';qDz='"   ';DBz='ot.d';BMz='+"%d';XQz=' GRP';XPz=' tru';oPz='ers:';cOz='asu ';YFz=' {';cPz='t-ve';KJz='1;${';pIz=' num';cz='0;37';qQz=' $ex';wPz=': fa';YWz='calt';yJz='rt |';lz='/bot';EGz='kan ';DHz='6m.:';OXz='RPC ';iBz='n/ip';aHz='ih s';fSz='ser ';ATz='e>';UNz=': "$';JNz='.jso';dGz='in_t';COz='"80"';XWz='" Lo';WKz='Daft';iOz='k3="';iPz=' ws';xTz='u.co';JMz='gl $';ZNz='main';LPz='ess';eJz='1';RIz='80%"';oEz='/t.m';DEz='m $i';kIz='asi(';AQz=' (SN';qLz=' bac';jPz='ws-o';QWz='rt W';rTz='/Mul';OFz='c/xr';WCz='="ht';xSz='━━◇<';eEz=' htt';WBz='$KEY';aCz='user';vSz='ode>';GLz='it';eOz=' -w ';Mz='ORAN';yKz=' (GB';BNz='0"'\'',';mCz='chec';mVz=' : $';RWz=',888';KKz='ist ';xQz='then';LIz='"███';VLz='E "$';uDz='SSIO';JKz='   L';MIz='██35';MSz='-i "';Gz='[0m'\''';LVz='_*';Ez='NC='\''';NLz='=$(g';yMz='rId"';hOz='ask ';fFz='ner(';XDz='"\03';JEz=' Ban';JPz='type';RFz='n)';tPz=': 80';dDz='3[42';sPz='on T';KHz='::."';ZFz='3[5;';jMz='/#vm';hKz='erna';uQz='e /e';kRz='24))';WNz='"add';sQz='END';cHz=' men';PKz=' "US';TEz='crip';mQz='Bera';sFz='text';lHz='t By';ePz=': tr';ZJz=' "\0';iQz='at P';hTz='id}';FIz='dura';WUz=' : h';KIz='0%" ';TFz='tion';sBz=' --s';FWz='er Q';OIz='████';WHz='p 1';pKz='pire';MEz='Buy ';gSz='d/d"';vJz='lumn';UHz='{';UFz=' bar';LNz='rpc$';yBz='.com';oMz='er $';PPz=': 44';nPz='head';bBz='clea';NHz='ext ';APz='==';ASz='ss.d';bEz='mWha';TUz='at O';XKz='ar_A';RKz='ME  ';ESz='w "$';rHz='-p "';BKz='q';kLz='item';LEz='  \0';ZUz='{dom';fHz='- \0';yFz='l wi';pPz='Host';ZIz='ames';iTz='rId ';cQz='lama';GHz=' $NA';YUz='://$';oSz='="$T';QVz='S';dNz='"443';UVz='$CIT';vTz='mic ';gUz='--ma';BRz='c/vm';xHz='k to';HRz='mit/';cBz='r';DQz='c';oCz='_sc(';sNz='"non';INz='nfig';sIz=' i++';qFz=' cen';HVz='MBEL';fOz='0)"';UOz='json';GRz='t/li';HFz='etc/';QXz='" Op';xDz=' !\0';rKz='ay) ';nRz='= "0';qMz=''\''\';XLz='r}" ';RBz='s://';uLz='te -';iJz='unt(';KDz=' the';oOz='>/va';JVz='BERH';wWz='nami';VRz='c=$(';FKz='ve);';aTz='80, ';vRz='er}';PXz='k3}"';UQz='e TL';oUz='able';vPz='se';yz='# " ';BTz='<cod';lRz='[ ${';cFz='———\';pQz='a  :';hBz='r/bi';PJz='ndex';dXz='n   ';iSz='ID="';pGz='pace';PDz='list';MRz='/$us';uWz='th  ';kSz='TID"';WJz='ding';IMz='="$t';cLz='over';Jz='033[';CSz='##" ';SOz=' $vm';sUz='evie';oRz='" ]]';SGz='$tex';WRz=' "${';MWz=': 40';WSz='exp}';aMz='e -d';BLz=' " Q';lUz='=$CH';PCz='Y-%m';mHz='1"';gVz='imit';AFz='t /e';gBz=' /us';rDz='3[91';AVz='ml" ';uKz='asaa';qIz='_ite';OBz='rt U';tEz='exit';sLz='tgl=';XVz='ONFI';bCz='cont';iXz='ARI_';WWz='y   ';oVz='RI';JIz='"██1';NFz=' /et';CGz='# Se';YGz='*m//';fIz='rati';BJz='colo';wOz='<-EN';BDz='k '\''{';eMz='"%Y-';PNz='F';hLz='!   ';OVz='K : ';sVz='a </';hCz='/izi';VBz='.org';MLz='uuid';XGz='-9;]';HSz='{DAT';MJz=' ${f';mNz='"pat';hEz='me/6';MMz='n"';eWz=': $I';CIz='n/m-';gKz='" Us';UKz='"${R';nFz='CTUN';VQz='S   ';hz=' "^#';FXz='ess-';vLz='d "$';tz='KEY=';VMz='n2, ';kFz='NAMA';hPz='ork:';OEz='ss p';KUz='e>VM';oz='" | ';IXz='on()';Pz='3m'\''';oIz=' i <';aBz='"';HTz='>';lFz='SC="';NJz='rame';CVz=' >/d';iNz='"aid';FSz='t $2';CUz='s-gr';QFz='omai';vEz='_sc';Uz=''\''';YPz='e';IGz='aris';xIz='(i %';fGz='l sp';jIz='Anim';RJz='[0m"';rGz='s\03';OWz='43"';EMz='+"%b';gRz='1024';eLz='coun';ZQz='ink3';qGz='s}s%';aRz='/[^0';kXz='Deta';vUz='XT&p';hGz='=$((';pVz='-» T';JLz='adin';hUz='x-ti';HJz='))';nz='t.db';OKz='ed  ';lJz='"^##';kVz='-» A';LGz='ingi';VFz='is_p';tBz='ilen';ECz='te |';KOz='rpc"';XCz='//ra';vHz=' for';AMz='ys" ';iHz='Scri';uJz='| co';gCz='ores';tVz='>"';MVz='-» P';wIz='x=$(';fCz='pnst';tFz='() {';FLz='plim';SMz='tngg';xUz='_mod';cRz='//g'\''';tOz='-$us';fEz='ps:/';cDz='0m"';qKz='d (d';ICz=' Dat';QEz='ssio';XOz='2)';kGz='- le';VCz='_ip1';DJz='de=$';tQz=' ! -';UGz=' '\''s/';xOz='D';ZHz='akas';YBz='dMes';rQz='pe';sRz='>/et';gIz='on))';AEz='3mYo';gMz='d"`';MHz='er_t';DWz='" Do';wFz='xt="';sJz=' -f ';jQz='ada ';nWz=': au';PFz='ay/d';YNz='${do';BSz='b | ';rIz='ons;';nOz='cat ';eIz='((du';fPz='ue';NWz='0,84';yVz='3[37';ZRz='d '\''s';BIz='bash';UDz='echo';QRz='null';nJz='all.';PIz='█65%';vQz='tc/v';hIz='Load';cXz='ys i';bLz=' Rec';GWz='B"';vWz='" Dy';IUz='e>${';MTz='s   ';rEz='N_ST';IQz='-nam';cMz=' day';HBz=''\'' '\'' ';gWz='" Al';KBz='expo';dLz='y Ac';mEz='egra';xPz='lse';sEz='ORE"';pEz='e/AR';ISz='ADB}';sGz='\n" ';FVz='━━◇';mOz=' 0)"';LTz='mark';HQz='vice';KTz='e>Re';CNz='"ema';rVz='XP :';ERz='gt 0';AIz='age"';REz='ns f';qVz='GL E';NRz='er';PMz='ate ';rMz='},{"';Bz=''\''\03';Lz='m'\''';jVz='ARGA';SNz=',';UBz='gram';uVz=' Det';iUz='me $';CDz='prin';sDz=';1mP';JXz='nk T';Nz='GE='\''';UEz='ts\0';fVz='$ipl';WXz='81/v';UMz=' $bl';bQz='f Se';eQz='saak';DLz=' (IP';TKz='  "';YRz='| se';TTz='a} G';TGz='t" |';TXz=': ht';oDz='3[0m';QJz=']}\e';TCz='erve';rUz='e_pr';yWz=': yo';ROz=' <<<';LBz='rt T';lEz='mTel';az='LIGH';fQz='tif ';PLz='^###';WLz='{use';ACz='/ 2>';NBz='"10"';pMz='exp"';NNz='`cat';RLz='/.us';oKz='" Ex';qz='-d '\''';gFz='bari';eRz='(${c';uOz='er.t';iIz='ing_';wRz='DATA';iLz=' Tid';qBz='inse';LFz='doma';SEz='or s';PHz='rmat';xKz='mit ';wMz=''\''","';RPz=': ${';eUz='curl';WMz='$thn';XRz='a}" ';lXz='ils_';LXz='nk W';gNz='{uui';ZCz='thub';QIz='" "█';cWz='" IS';vGz='ho -';TPz=' 0';kTz='Secu';MXz='k2}"';DFz='isp)';QPz='3';hMz='sed ';ITz='e>◇━';IIz='es=(';jGz='dth ';Qz='BLUE';fUz=' -s ';lTz='rity';JGz=' yan';YDz='3[1;';ANz=': '\''"';fDz='    ';QTz='Limi';EEz='psay';EHz=':.\0';MQz=' Aku';wGz='e "$';TDz='hen';iMz='-i '\''';XBz='/sen';NQz='n Vm';BPz='$nam';AOz='EOF`';EUz='e> V';TNz='"ps"';KCz='/'\'')';DNz='il":';jDz='OUND';TRz='Quot';bTz='8080';XSz=' ${u';bHz='udah';GSz='[ "$';hRz=' * 1';MUz='O TL';kJz=' -E ';FUz='MESS';eCz='ariv';pJz='| cu';bSz='mit}';EDz='}'\'')';HLz='p 3 ';vVz='ails';CEz='PS\0';yIz='_fra';uFz='loca';MCz='_lis';DSz='| gr';KLz='g $!';wEz='IP=$';AGz='dth=';RRz='${Qu';xLz='akti';fBz='(cat';Fz='\033';UXz='//${';JUz='k1}<';uEz='}';jKz=' " u';jFz='g';KNz='essg';ENz='er""';EBz='b" |';NOz='1=$(';UJz='done';HKz='━━━━';RQz='essl';eKz=' "';jBz='save';Sz='33[0';cVz='-» D';YXz='_Exp';rz=' '\'' -';mDz='IPT ';yLz='f da';WIz='num_';jOz=' | b';dHz='ggun';iKz='me :';gGz='aces';kHz='redi';SQz='ink1';oQz=' Pad';CPz='a';dOz='| ba';dRz='d=$(';ABz='"/et';LQz='Link';mTz='ork ';FNz=''\''"'\'' ';kWz='" Se';xWz='c Pa';LWz='LS  ';TVz='N : ';oGz='%${s';mFz='ARIS';UIz='██10';GNz='/xra';LCz='date';GVz='*_PE';bFz='————';lCz='_ip2';mWz='ty  ';tUz='w=1&';wz='E "^';CLz='uota';BVz='$URL';SHz='Cred';dVz='EVIC';iz='bot#';ZEz='   \';SDz=']; t';PEz='ermi';YVz='G :';nGz='tf "';ELz=' " i';mMz='## '\''';RGz='-e "';uUz='=$TE';JQz='e: v';qXz='Sc_C';mXz='unt';wJz=' -t ';gDz='   4';DXz='eNam';IVz='IAN ';eVz='E : ';QGz='cho ';WQz='ink2';yEz='$(ca';ySz='/cod';IRz='s/ip';mPz=': /v';qTz='Path';vOz='xt <';aLz='d ];';IBz='-f 2';OLz='-E "';ILz='& lo';lLz='ukan';KVz='ASIL';mBz='ver=';hDz='04 N';BGz='50  ';OTz='in  ';YEz='n :\';OMz='=$(d';mKz='$use';CCz=' gre';dIz='ns=$';cJz='Succ';cSz='" >>';gTz='${uu';jUz='"cha';pBz='v --';YKz='ccou';GTz='code';mGz=' 2 )';LHz='cent';TJz='5';pTz='pc';FTz='SS</';CBz='t/.b';PTz='  : ';bNz='"por';KEz='ned\';VNz='r}",';kOz='ase6';cTz=', 80';uNz='"hos';uSz='="<c';gQz='Hari';aPz='skip';lPz='path';ZSz=' ${Q';gPz='netw';OOz=' bas';EFz='CITY';pFz='V4"';VOz='1)';qPz='in}';IWz='p   ';TLz='l.db';XHz='5m T';YSz='uid}';UPz='ciph';RHz=' Sc_';HMz='expe';dQz=' $ma';kz='/etc';uCz='O- $';Rz='='\''\0';YMz='exp=';PQz=' :';KFz='y)';AXz='urbu';LLz='es';gOz='k2="';dPz='rify';LDz='n';UCz='r")';PRz='dev/';rXz='t';fXz='y \0';yNz='tls"';Hz='GREE';tWz='" Pa';qOz='w/ht';hQz='Dibu';fz='(gre';OUz='k2}<';TWz='80,2';YTz=' NTL';NPz='er: ';uMz='"$uu';ALz=')  :';ARz='r -p';mJz='ay/.';SRz='ota}';tSz='TEXT';yQz='mkdi';WTz='400-';oWz='to"';pSz='IME"';sHz=' Pre';IDz='eexp';oTz='r gr';eNz='",';JTz='◇</c';JHz='36m.';uIz='do';ULz='p -w';VVz='Y';DDz='t $3';JDz=' ]];';FRz='c/ky';TMz='l="$';sz='f 3)';uHz='nter';mRz='c} !';GCz=' -e ';lKz=' -z ';aQz='Akti';DCz='p Da';yRz='.vme';HOz='OF';VWz='" Ke';MOz='se64';SWz='0,80';uz='$(gr';bz='T='\''\';QDz=' < $';SUz='Form';uGz='$(ec';RDz='xp ]';RNz=' "2"';jEz='2739';lBz='_ser';Tz=';34m';rOz='ml/v';dSz='/^##';LKz='Vmes';ZVz='EQ N';jJz='grep';rLz='k"';oJz='db" ';MDz='fi';jXz='Bann';dFz=' ARI';NUz='S</c';MBz='IME=';wNz='n}",';pWz='" Ne';lDz='OSCR';wQz=' ]; ';fTz='id  ';JRz='"$ip';dKz='nya ';IPz='LS';rRz='d}" ';bUz=':81/';lIz='for ';HNz='y/co';EXz='e   ';bJz=';32m';xGz='")"';rFz='ter_';aGz='l le';mIz='((i ';aWz=': $C';pLz='y to';QOz='-w 0';VPz='auto';bMz=' "$m';qJz='t -d';DPz='- na';BOz='ask=';xCz='$ips';PVz='VMES';mUz='ATID';eGz='ext}';uRz='${us';YQz='C   ';yPz='gRPC';CWz='}"';tTz='ath';RSz='ss/.';hJz='Acco';TOz='ess_';dMz='s" +';ZXz='iry(';hSz='db';HWz='er I';GEz=';33m';AJz='mes)';SBz='api.';JWz=' IP"';sCz='(wge';KXz='k1}"';fNz='"id"';QUz='C</c';qRz='en';sWz=': ws';ZTz='S : ';wDz='NIED';EWz='in}"';xVz='ount';ZPz='tls:';eXz='f Da';BFz='tc/x';ZGz='g'\'')';gEz='/wa.';CHz='\e[3';uPz=' fal';xNz='"tls';NKz='pair';wKz='" Li';sTz='ti-P';nXz='_Jso';lNz='ws",';CQz=' grp';eHz='akan';CXz='rvic';EJz='((31';QLz='" "/';xEz='ISP=';iFz='njan';bRz='-9]*';GFz='at /';jHz='pt C';MKz='s Ex';aJz='33[5';HDz=' $us';sMz='id":';fKz=' -p ';ZWz='ions';QHz='ted_';iEz='2813';USz='# ${';VXz='in}:';WVz='EQ C';NMz='tgl2';OPz='port';FCz=' sed';iWz='d   ';XEz='Admi';bOz='ho $';Kz='0;32';FGz='deng';aKz='Masu';URz='a="0';DUz='pc</';uTz='Dyna';lWz='curi';TSz=' "##';QSz='/vme';aXz='3[33';QKz='ERNA';eDz='m   ';wSz='◇━━━';OSz='r}\b';wTz='bugm';yGz='form';nMz='"$us';kCz='p"';WOz='2=$(';JSz='" !=';LSz=']]; ';WDz='else';DKz='usr/';BXz='g/vm';FPz='s-$u';SPz='rId:';jz=' " "';GUz=' WS ';aOz='k1="';EIz='s';kEz='3959';vMz='id""';aVz='AMA ';GBz=' -d ';WGz='\[[0';RMz='thn2';QBz='http';DRz='it -';Yz='CYAN';QMz='bln2';xFz='$1"';rWz='k   ';vIz='inde';eBz='ya=$';nBz='$(cu';bIz='iter';tGz='"" "';WPz='udp:';hXz='d in';NCz='t=$(';ZBz='sage';iRz='024 ';lSz='"$KE';jWz=': 0"';fJz=' Daf';rCz='xp=$';tDz='ERMI';ZLz='$uui';pCz=') {';iCz='n/ma';yCz='aya ';dCz='com/';MGz='nkan';tRz='ess/';jLz='ak D';FHz=';35m';qNz='"typ';dUz='txt';SLz='eral';GDz='[ -z';ONz='<<EO';bPz='-cer';tJz='2-3 ';Iz='N='\''\';yUz='e=ht';POz='e64 ';WEz='act ';ZKz='nt';DTz='XRAY';gXz='m Ex';SFz='func';HXz='k_Js';KSz=' '\'''\'' ';JBz=')';tHz='ss E';yTz='m/pa';AHz='atte';HIz='fram';GKz='36m━';vKz='ktif';xBz='ogle';pz='cut ';Oz='[0;3';RXz='enCl';HGz='ng b';vBz='tps:';hNz='d}",';rSz='"$UR';xRz='DB=$';LOz='s_ba';VDz=' -ne';eFz='_Ban';pRz='; th';jRz='* 10';UUz='penC';cIz='atio';NDz='[ $d';rPz='WS N';yDz='m"';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Fz$Oz$Pz$z$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Fz$Oz$Xz$z$Yz$Rz$Sz$Zz$Uz$z$az$bz$Jz$cz$Lz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$z$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$z$KBz$LBz$MBz$NBz$z$KBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$lz$WBz$XBz$YBz$ZBz$aBz$z$bBz$cBz$z$dBz$eBz$fBz$gBz$hBz$iBz$jBz$JBz$z$kBz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$z$LCz$MCz$NCz$LCz$OCz$PCz$QCz$GBz$RCz$SCz$TCz$UCz$z$kBz$VCz$WCz$vBz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$z$kBz$lCz$WCz$vBz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$z$mCz$nCz$oCz$pCz$z$qCz$rCz$sCz$tCz$uCz$kBz$VCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$z$FDz$GDz$HDz$IDz$JDz$KDz$LDz$z$qCz$rCz$sCz$tCz$uCz$kBz$lCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$z$MDz$z$FDz$NDz$ODz$PDz$QDz$qCz$RDz$SDz$TDz$z$UDz$VDz$z$WDz$z$UDz$GCz$XDz$YDz$ZDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$bDz$Jz$cDz$z$UDz$GCz$XDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$fDz$fDz$nDz$oDz$aBz$z$UDz$GCz$XDz$YDz$ZDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$bDz$Jz$cDz$z$UDz$GCz$pDz$z$UDz$GCz$qDz$fDz$fDz$nDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$Sz$yDz$z$UDz$GCz$qDz$Fz$Oz$AEz$BEz$CEz$Sz$DEz$EEz$FEz$Sz$GEz$HEz$IEz$JEz$KEz$Jz$cDz$z$UDz$GCz$qDz$LEz$Sz$GEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$Sz$yDz$z$UDz$GCz$qDz$fDz$fDz$LEz$Sz$GEz$VEz$WEz$XEz$YEz$Jz$cDz$z$UDz$GCz$qDz$ZEz$Jz$aEz$bEz$cEz$dEz$oDz$eEz$fEz$gEz$hEz$iEz$jEz$kEz$aBz$z$UDz$GCz$qDz$ZEz$Jz$aEz$lEz$mEz$nEz$oDz$eEz$fEz$oEz$pEz$qEz$rEz$sEz$z$UDz$GCz$XDz$YDz$ZDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$aDz$bDz$Jz$cDz$z$tEz$z$MDz$z$uEz$z$mCz$nCz$vEz$z$bBz$cBz$z$KBz$LBz$MBz$NBz$z$wEz$fBz$gBz$hBz$iBz$jBz$JBz$z$xEz$yEz$AFz$BFz$CFz$DFz$z$EFz$FFz$GFz$HFz$IFz$JFz$KFz$z$LFz$MFz$fBz$NFz$OFz$PFz$QFz$RFz$z$bBz$cBz$z$SFz$TFz$UFz$VFz$WFz$XFz$YFz$z$UDz$GCz$XDz$ZFz$aFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$bFz$cFz$Jz$cDz$z$uEz$z$SFz$TFz$dFz$eFz$fFz$pCz$z$gFz$hFz$iFz$jFz$z$kFz$lFz$mFz$nFz$oFz$pFz$z$SFz$TFz$qFz$rFz$sFz$tFz$z$uFz$vFz$wFz$xFz$z$uFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$WFz$HGz$IGz$JGz$KGz$LGz$MGz$z$uFz$NGz$OGz$sFz$PGz$QGz$RGz$SGz$TGz$FCz$UGz$VGz$WGz$XGz$YGz$ZGz$z$uFz$aGz$bGz$cGz$dGz$eGz$z$uFz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$mGz$JBz$z$CDz$nGz$oGz$pGz$qGz$rGz$oDz$sGz$tGz$uGz$vGz$wGz$sFz$xGz$z$uEz$z$yGz$AHz$BHz$wFz$CHz$DHz$EHz$Sz$FHz$GHz$HHz$IHz$JHz$KHz$z$LHz$MHz$NHz$OHz$PHz$QHz$sFz$aBz$z$gFz$hFz$iFz$jFz$z$uEz$z$SFz$TFz$RHz$SHz$THz$UHz$z$VHz$WHz$z$gFz$hFz$iFz$jFz$z$SFz$TFz$qFz$rFz$sFz$tFz$z$uFz$vFz$wFz$xFz$z$uFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$WFz$HGz$IGz$JGz$KGz$LGz$MGz$z$uFz$NGz$OGz$sFz$PGz$QGz$RGz$SGz$TGz$FCz$UGz$VGz$WGz$XGz$YGz$ZGz$z$uFz$aGz$bGz$cGz$dGz$eGz$z$uFz$fGz$gGz$hGz$iGz$jGz$kGz$lGz$mGz$JBz$z$CDz$nGz$oGz$pGz$qGz$rGz$oDz$sGz$tGz$uGz$vGz$wGz$sFz$xGz$z$uEz$z$yGz$AHz$BHz$wFz$Fz$Oz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$fHz$Sz$yDz$z$yGz$AHz$BHz$gHz$XDz$Cz$hHz$iHz$jHz$kHz$lHz$GHz$HHz$nDz$oDz$aBz$z$LHz$MHz$NHz$OHz$PHz$QHz$sFz$aBz$z$LHz$MHz$NHz$OHz$PHz$QHz$sFz$mHz$z$gFz$hFz$iFz$jFz$z$nHz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$wHz$xHz$yHz$AIz$z$BIz$gBz$hBz$CIz$DIz$EIz$z$uEz$z$FIz$TFz$GIz$z$HIz$IIz$JIz$KIz$LIz$MIz$NIz$OIz$OIz$PIz$QIz$OIz$OIz$OIz$RIz$SIz$OIz$OIz$OIz$OIz$TIz$KIz$LIz$OIz$OIz$OIz$OIz$OIz$UIz$VIz$z$WIz$HIz$XIz$YIz$ZIz$aIz$z$WIz$bIz$cIz$dIz$eIz$fIz$gIz$z$hIz$iIz$jIz$kIz$pCz$z$lIz$mIz$nIz$oIz$pIz$qIz$fIz$rIz$sIz$tIz$uIz$z$bBz$cBz$z$vIz$wIz$xIz$pIz$yIz$AJz$JBz$z$BJz$CJz$DJz$EJz$FJz$GJz$HJz$z$UDz$IJz$z$UDz$IJz$z$UDz$IJz$z$UDz$GCz$JJz$KJz$BJz$CJz$LJz$MJz$NJz$OJz$PJz$QJz$RJz$z$VHz$SJz$TJz$z$UJz$z$uEz$z$SFz$TFz$VJz$WJz$XJz$YJz$pCz$z$bBz$cBz$z$UDz$GCz$ZJz$aJz$bJz$cJz$dJz$Sz$yDz$z$VHz$SJz$eJz$z$bBz$cBz$z$uEz$z$SFz$TFz$fJz$gJz$hJz$iJz$pCz$z$jJz$kJz$lJz$yz$ABz$OFz$mJz$aCz$nJz$oJz$pJz$qJz$rJz$sJz$tJz$uJz$vJz$wJz$xJz$yJz$AKz$BKz$z$uEz$z$CKz$FFz$GFz$DKz$EKz$dBz$FKz$z$bBz$cBz$z$UDz$GCz$XDz$ZFz$GKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$IKz$oDz$aBz$z$UDz$GCz$qDz$fDz$JKz$KKz$LKz$MKz$NKz$OKz$fDz$fDz$fDz$fDz$aBz$z$UDz$GCz$XDz$ZFz$GKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$IKz$oDz$aBz$z$UDz$PKz$QKz$RKz$fDz$fDz$SKz$fDz$fDz$TKz$z$UDz$GCz$UKz$VKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$IKz$oDz$aBz$z$WKz$XKz$YKz$ZKz$z$UDz$GCz$UKz$VKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$IKz$oDz$aBz$z$UDz$GCz$qDz$fDz$fDz$aKz$EGz$bKz$cKz$dKz$fDz$fDz$fDz$eKz$z$UDz$GCz$XDz$ZFz$GKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$IKz$oDz$aBz$z$UDz$IJz$z$nHz$fKz$gKz$hKz$iKz$jKz$kKz$z$FDz$lKz$mKz$nKz$KDz$LDz$z$tEz$z$WDz$z$gFz$hFz$iFz$jFz$z$nHz$fKz$oKz$pKz$qKz$rKz$sKz$tKz$uKz$vKz$z$gFz$hFz$iFz$jFz$z$nHz$fKz$wKz$xKz$bKz$yKz$ALz$BLz$CLz$z$gFz$hFz$iFz$jFz$z$nHz$fKz$wKz$xKz$bKz$DLz$ALz$ELz$FLz$GLz$z$gFz$hFz$iFz$jFz$z$UDz$IJz$z$MDz$z$VHz$HLz$ILz$JLz$KLz$z$hIz$iIz$cJz$LLz$z$bBz$cBz$z$MLz$NLz$wCz$OLz$PLz$QLz$HFz$IFz$RLz$SLz$TLz$oz$CCz$ULz$VLz$WLz$XLz$pJz$qJz$jz$sJz$YLz$z$FDz$lKz$ZLz$aLz$KDz$LDz$z$UDz$GCz$XDz$ZFz$GKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$IKz$oDz$aBz$z$UDz$GCz$qDz$fDz$bLz$cLz$dLz$eLz$fLz$gLz$hLz$fDz$fDz$TKz$z$UDz$GCz$XDz$ZFz$GKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$IKz$oDz$aBz$z$UDz$GCz$pDz$z$UDz$GCz$qDz$bKz$cKz$iLz$jLz$kLz$lLz$fDz$TKz$z$UDz$GCz$pDz$z$UDz$GCz$XDz$ZFz$GKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$HKz$IKz$oDz$aBz$z$UDz$GCz$pDz$z$nHz$oHz$pHz$qHz$rHz$mLz$nLz$oLz$pLz$qLz$rLz$z$WDz$z$sLz$tLz$uLz$vLz$wLz$xLz$yLz$AMz$BMz$CMz$z$DMz$tLz$uLz$vLz$wLz$xLz$yLz$AMz$EMz$CMz$z$FMz$tLz$uLz$vLz$wLz$xLz$yLz$AMz$GMz$CMz$z$HMz$IMz$JMz$KMz$LMz$MMz$z$NMz$OMz$PMz$BMz$CMz$z$QMz$OMz$PMz$EMz$CMz$z$RMz$OMz$PMz$GMz$CMz$z$SMz$TMz$NMz$UMz$VMz$WMz$XMz$z$YMz$ZMz$aMz$bMz$uKz$vKz$cMz$dMz$eMz$fMz$gMz$z$hMz$iMz$jMz$kMz$lMz$mMz$nMz$oMz$pMz$qMz$z$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$DNz$tMz$nMz$ENz$FNz$kz$GNz$HNz$INz$JNz$LDz$z$YMz$ZMz$aMz$bMz$uKz$vKz$cMz$dMz$eMz$fMz$gMz$z$hMz$iMz$jMz$KNz$LNz$lMz$mMz$nMz$oMz$pMz$qMz$z$rMz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$DNz$tMz$nMz$ENz$FNz$kz$GNz$HNz$INz$JNz$LDz$z$MNz$NNz$ONz$PNz$z$UHz$z$QNz$RNz$SNz$z$TNz$UNz$WLz$VNz$z$WNz$XNz$YNz$ZNz$aNz$z$bNz$cNz$dNz$eNz$z$fNz$UNz$gNz$hNz$z$iNz$XNz$jNz$z$kNz$XNz$lNz$z$mNz$nNz$oNz$pNz$SNz$z$qNz$rNz$sNz$tNz$z$uNz$cNz$vNz$QFz$wNz$z$xNz$XNz$yNz$z$uEz$z$AOz$z$BOz$NNz$ONz$PNz$z$UHz$z$QNz$RNz$SNz$z$TNz$UNz$WLz$VNz$z$WNz$XNz$YNz$ZNz$aNz$z$bNz$cNz$COz$SNz$z$fNz$UNz$gNz$hNz$z$iNz$XNz$jNz$z$kNz$XNz$lNz$z$mNz$nNz$oNz$pNz$SNz$z$qNz$rNz$sNz$tNz$z$uNz$cNz$vNz$QFz$wNz$z$xNz$XNz$DOz$aBz$z$uEz$z$AOz$z$EOz$FOz$GOz$HOz$z$UHz$z$QNz$RNz$SNz$z$TNz$UNz$WLz$VNz$z$WNz$XNz$YNz$ZNz$aNz$z$bNz$cNz$dNz$eNz$z$fNz$UNz$gNz$hNz$z$iNz$XNz$jNz$z$kNz$XNz$EOz$eNz$z$mNz$nNz$IOz$JOz$KOz$SNz$z$qNz$rNz$sNz$tNz$z$uNz$cNz$vNz$QFz$wNz$z$xNz$XNz$yNz$z$uEz$z$AOz$z$DIz$LOz$MOz$NOz$OOz$POz$QOz$ROz$SOz$TOz$UOz$VOz$z$DIz$LOz$MOz$WOz$OOz$POz$QOz$ROz$SOz$TOz$UOz$XOz$z$DIz$LOz$MOz$YOz$OOz$POz$QOz$ROz$SOz$TOz$UOz$YLz$z$DIz$ZOz$aOz$DIz$RBz$uGz$bOz$cOz$dOz$MOz$eOz$fOz$z$DIz$ZOz$gOz$DIz$RBz$uGz$bOz$hOz$dOz$MOz$eOz$fOz$z$DIz$ZOz$iOz$DIz$RBz$uGz$bOz$EOz$jOz$kOz$lOz$mOz$z$nOz$oOz$pOz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$xOz$z$yOz$yOz$yOz$yOz$yOz$APz$z$BPz$CPz$z$yOz$yOz$yOz$yOz$yOz$APz$z$DPz$EPz$LKz$FPz$GPz$HPz$IPz$z$JPz$KPz$LPz$z$MPz$NPz$YNz$ZNz$uEz$z$OPz$PPz$QPz$z$MLz$RPz$MLz$uEz$z$xMz$SPz$TPz$z$UPz$NPz$VPz$z$WPz$XPz$YPz$z$ZPz$XPz$YPz$z$aPz$bPz$cPz$dPz$ePz$fPz$z$MPz$hKz$EPz$YNz$ZNz$uEz$z$gPz$hPz$iPz$z$jPz$kPz$z$lPz$mPz$sOz$z$nPz$oPz$z$pPz$RPz$LFz$qPz$z$DPz$EPz$LKz$FPz$GPz$rPz$sPz$IPz$z$JPz$KPz$LPz$z$MPz$NPz$YNz$ZNz$uEz$z$OPz$tPz$z$MLz$RPz$MLz$uEz$z$xMz$SPz$TPz$z$UPz$NPz$VPz$z$WPz$XPz$YPz$z$ZPz$uPz$vPz$z$aPz$bPz$cPz$dPz$wPz$xPz$z$MPz$hKz$EPz$YNz$ZNz$uEz$z$gPz$hPz$iPz$z$jPz$kPz$z$lPz$mPz$sOz$z$nPz$oPz$z$pPz$RPz$LFz$qPz$z$DPz$EPz$LKz$FPz$GPz$yPz$AQz$BQz$z$MPz$NPz$YNz$ZNz$uEz$z$OPz$PPz$QPz$z$JPz$KPz$LPz$z$MLz$RPz$MLz$uEz$z$xMz$SPz$TPz$z$UPz$NPz$VPz$z$gPz$hPz$CQz$DQz$z$ZPz$XPz$YPz$z$MPz$hKz$EPz$YNz$ZNz$uEz$z$aPz$bPz$cPz$dPz$ePz$fPz$z$EOz$EQz$FQz$z$EOz$GQz$HQz$IQz$JQz$sOz$KQz$DQz$z$yOz$yOz$yOz$yOz$yOz$APz$z$LQz$MQz$NQz$LPz$z$yOz$yOz$yOz$yOz$yOz$APz$z$LQz$OQz$fDz$fDz$PQz$z$QQz$RQz$SQz$uEz$z$yOz$yOz$yOz$yOz$yOz$APz$z$LQz$TQz$UQz$VQz$PQz$z$QQz$RQz$WQz$uEz$z$yOz$yOz$yOz$yOz$yOz$APz$z$LQz$XQz$YQz$fDz$PQz$z$QQz$RQz$ZQz$uEz$z$yOz$yOz$yOz$yOz$yOz$APz$z$aQz$bQz$cQz$sKz$dQz$eQz$fQz$gQz$z$hQz$iQz$jQz$sKz$kQz$lQz$z$mQz$nQz$oQz$pQz$qQz$rQz$z$yOz$yOz$yOz$yOz$yOz$APz$z$sQz$z$FDz$tQz$uQz$vQz$sOz$wQz$xQz$z$yQz$ARz$NFz$BRz$LPz$z$MDz$z$FDz$CRz$FLz$DRz$ERz$JDz$KDz$LDz$z$yQz$ARz$NFz$FRz$GRz$HRz$DIz$IRz$z$UDz$GCz$JRz$KRz$LRz$NFz$FRz$GRz$HRz$DIz$IRz$MRz$NRz$z$WDz$z$UDz$ORz$PRz$QRz$z$MDz$z$FDz$lKz$RRz$SRz$wQz$xQz$z$TRz$URz$aBz$z$MDz$z$VRz$UDz$WRz$TRz$XRz$YRz$ZRz$aRz$bRz$cRz$JBz$z$dRz$eRz$fRz$gRz$hRz$iRz$jRz$kRz$z$FDz$lRz$mRz$nRz$oRz$pRz$qRz$z$UDz$WRz$rRz$sRz$BRz$tRz$uRz$vRz$z$MDz$z$wRz$xRz$fBz$NFz$BRz$tRz$yRz$ASz$BSz$jJz$hz$CSz$DSz$vz$ESz$WLz$XLz$ADz$BDz$CDz$FSz$EDz$z$FDz$GSz$HSz$ISz$JSz$KSz$LSz$xQz$z$hMz$MSz$NSz$WLz$OSz$PSz$kz$QSz$RSz$DIz$SSz$z$UDz$TSz$USz$aCz$VSz$WSz$XSz$YSz$ZSz$CLz$VSz$aSz$bSz$cSz$kz$QSz$RSz$DIz$SSz$z$hMz$MSz$dSz$eSz$fSz$ZLz$gSz$NFz$OFz$mJz$aCz$nJz$hSz$z$WDz$z$UDz$TSz$USz$aCz$VSz$WSz$XSz$YSz$ZSz$CLz$VSz$aSz$bSz$cSz$kz$QSz$RSz$DIz$SSz$z$hMz$MSz$dSz$eSz$fSz$ZLz$gSz$NFz$OFz$mJz$aCz$nJz$hSz$z$MDz$z$bBz$cBz$z$dz$iSz$jSz$kSz$z$tz$lSz$mSz$z$nSz$oSz$pSz$z$qSz$rSz$sSz$z$tSz$uSz$vSz$wSz$HKz$HKz$HKz$xSz$ySz$ATz$z$BTz$CTz$fDz$DTz$ETz$FTz$GTz$HTz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$BTz$KTz$LTz$MTz$RPz$aCz$uEz$z$NTz$OTz$PTz$YNz$ZNz$uEz$z$QTz$RTz$STz$RPz$TRz$TTz$UTz$z$VTz$OQz$PTz$WTz$XTz$z$VTz$YTz$ZTz$aTz$bTz$cTz$dTz$eTz$z$fTz$fDz$PTz$gTz$hTz$z$xMz$iTz$PTz$jTz$z$kTz$lTz$PTz$VPz$z$gPz$mTz$PTz$nTz$oTz$pTz$z$qTz$fDz$PTz$rTz$sTz$tTz$z$uTz$vTz$PTz$QBz$RBz$wTz$xTz$yTz$AUz$z$BUz$fDz$PTz$DIz$CUz$DUz$GTz$HTz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$BTz$EUz$FUz$GUz$HUz$ySz$ATz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$BTz$IUz$DIz$ZOz$JUz$ySz$ATz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$BTz$KUz$LUz$rPz$MUz$NUz$vSz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$BTz$IUz$DIz$ZOz$OUz$ySz$ATz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$BTz$EUz$FUz$PUz$QUz$vSz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$BTz$IUz$DIz$ZOz$RUz$ySz$ATz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$SUz$TUz$UUz$VUz$WUz$XUz$YUz$ZUz$aUz$bUz$DIz$FPz$cUz$dUz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$aQz$bQz$cQz$sKz$dQz$eQz$fQz$gQz$z$hQz$iQz$jQz$sKz$kQz$lQz$z$mQz$nQz$oQz$pQz$qQz$rQz$z$BTz$ITz$HKz$HKz$HKz$HKz$JTz$vSz$z$aBz$z$eUz$fUz$gUz$hUz$iUz$nSz$GBz$jUz$kUz$lUz$mUz$nUz$oUz$pUz$qUz$rUz$sUz$tUz$sFz$uUz$vUz$wUz$xUz$yUz$AVz$BVz$CVz$DVz$EVz$z$dz$iSz$jSz$kSz$z$tz$lSz$mSz$z$nSz$oSz$pSz$z$qSz$rSz$sSz$z$tSz$uSz$vSz$wSz$HKz$HKz$HKz$FVz$z$GVz$HVz$IVz$JVz$KVz$LVz$z$wSz$HKz$HKz$HKz$FVz$z$MVz$NVz$OVz$PVz$QVz$z$RVz$SVz$TVz$UVz$VVz$z$RVz$WVz$XVz$YVz$z$RVz$ZVz$aVz$bVz$kKz$z$cVz$dVz$eVz$fVz$gVz$hVz$z$iVz$jVz$PQz$z$kVz$lVz$mVz$wLz$xLz$nVz$oVz$z$pVz$qVz$rVz$qQz$rQz$z$wSz$HKz$HKz$HKz$FVz$z$BPz$sVz$GTz$tVz$z$eUz$fUz$gUz$hUz$iUz$nSz$GBz$jUz$kUz$lUz$mUz$nUz$oUz$pUz$qUz$rUz$sUz$tUz$sFz$uUz$vUz$wUz$xUz$yUz$AVz$BVz$CVz$DVz$EVz$z$MDz$z$bBz$cBz$z$SFz$TFz$uVz$vVz$wVz$xVz$tFz$z$UDz$GCz$XDz$yVz$yDz$z$UDz$GCz$AWz$LUz$DTz$eKz$z$UDz$GCz$pDz$z$UDz$GCz$BWz$LTz$MTz$fDz$RPz$aCz$CWz$z$UDz$GCz$DWz$ZNz$fDz$fDz$RPz$LFz$EWz$z$UDz$GCz$gKz$FWz$CLz$fDz$RPz$TRz$TTz$GWz$z$UDz$GCz$gKz$HWz$IWz$fDz$RPz$aSz$bSz$JWz$z$UDz$GCz$KWz$LBz$LWz$fDz$MWz$NWz$OWz$z$UDz$GCz$PWz$QWz$VQz$fDz$tPz$RWz$SWz$TWz$UWz$z$UDz$GCz$VWz$WWz$fDz$fDz$RPz$MLz$CWz$z$UDz$GCz$XWz$YWz$ZWz$fDz$aWz$bWz$z$UDz$GCz$cWz$dWz$fDz$fDz$eWz$fWz$z$UDz$GCz$gWz$hWz$iWz$fDz$jWz$z$UDz$GCz$kWz$lWz$mWz$fDz$nWz$oWz$z$UDz$GCz$pWz$qWz$rWz$fDz$sWz$aBz$z$UDz$GCz$tWz$uWz$fDz$fDz$mPz$sOz$aBz$z$UDz$GCz$vWz$wWz$xWz$uWz$yWz$AXz$BXz$pNz$z$UDz$GCz$kWz$CXz$DXz$EXz$KPz$FXz$EOz$aBz$z$UDz$GCz$XDz$oDz$aBz$z$uEz$z$SFz$TFz$GXz$HXz$IXz$YFz$z$gFz$hFz$iFz$jFz$z$UDz$GCz$wKz$JXz$LWz$fDz$RPz$DIz$ZOz$KXz$z$gFz$hFz$iFz$jFz$z$UDz$GCz$wKz$LXz$VQz$fDz$RPz$DIz$ZOz$MXz$z$gFz$hFz$iFz$jFz$z$UDz$GCz$wKz$NXz$OXz$fDz$RPz$DIz$ZOz$PXz$z$gFz$hFz$iFz$jFz$z$UDz$GCz$QXz$RXz$SXz$fDz$TXz$vBz$UXz$LFz$VXz$WXz$sOz$tOz$uOz$XXz$z$gFz$hFz$iFz$jFz$z$uEz$z$SFz$TFz$uVz$vVz$YXz$ZXz$pCz$z$UDz$GCz$XDz$aXz$bXz$cXz$dXz$fDz$mVz$wLz$xLz$eXz$fXz$Sz$yDz$z$UDz$GCz$XDz$aXz$gXz$pKz$hXz$fDz$mVz$HMz$nDz$oDz$aBz$z$gFz$hFz$iFz$jFz$z$uEz$z$iXz$jXz$NRz$z$kXz$lXz$hJz$mXz$z$LQz$nXz$LDz$z$kXz$lXz$oXz$pXz$z$qXz$kHz$rXz"
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+CHATID=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 3)
+KEY=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 2)
+export TIME="10"
+export URL="https://api.telegram.org/bot$KEY/sendMessage"
+clear
+ipsaya=$(cat /usr/bin/ipsave)
+data_server=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+date_list=$(date +"%Y-%m-%d" -d "$data_server")
+data_ip1="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip"
+data_ip2="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip"
+checking_sc() {
+useexp=$(wget -qO- $data_ip1 | grep $ipsaya | awk '{print $3}')
+if [[ -z $useexp ]]; then
+useexp=$(wget -qO- $data_ip2 | grep $ipsaya | awk '{print $3}')
+fi
+if [[ $date_list < $useexp ]]; then
+echo -ne
+else
+echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
+echo -e "\033[42m          404 NOT FOUND AUTOSCRIPT          \033[0m"
+echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
+echo -e ""
+echo -e "            \033[91;1mPERMISSION DENIED !\033[0m"
+echo -e "   \033[0;33mYour VPS\033[0m $ipsaya \033[0;33mHas been Banned\033[0m"
+echo -e "     \033[0;33mBuy access permissions for scripts\033[0m"
+echo -e "             \033[0;33mContact Admin :\033[0m"
+echo -e "      \033[2;32mWhatsApp\033[0m https://wa.me/6283865719160"
+echo -e "      \033[2;32mTelegram\033[0m https://t.me/she0rif"
+echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
+exit
+fi
+}
+checking_sc
+clear
+export TIME="10"
+IP=$(cat /usr/bin/ipsave)
+ISP=$(cat /etc/xray/isp)
+CITY=$(cat /etc/xray/city)
+domain=$(cat /etc/xray/domain)
+clear
+function baris_panjang() {
+echo -e "\033[5;36m ———————————————————————————————————————————————\033[0m"
+}
+function ARI_Banner() {
+baris_panjang
+NAMASC="Si Cepat VPN"
+function center_text() {
+local text="$1"
+local width=50  # Sesuaikan dengan panjang baris yang diinginkan
+local plain_text=$(echo -e "$text" | sed 's/\x1b\[[0-9;]*m//g')
+local len=${#plain_text}
+local spaces=$(( (width - len) / 2 ))
+printf "%${spaces}s%s\033[0m\n" "" "$(echo -e "$text")"
+}
+formatted_text="\e[36m.::.\033[0;35m $NAMASC \e[36m.::."
+center_text "$formatted_text"
+baris_panjang
+}
+function Sc_Credit(){
+sleep 1
+baris_panjang
+function center_text() {
+local text="$1"
+local width=50  # Sesuaikan dengan panjang baris yang diinginkan
+local plain_text=$(echo -e "$text" | sed 's/\x1b\[[0-9;]*m//g')
+local len=${#plain_text}
+local spaces=$(( (width - len) / 2 ))
+printf "%${spaces}s%s\033[0m\n" "" "$(echo -e "$text")"
+}
+formatted_text="\033[0;35m Terimakasih sudah menggunakan- \033[0m"
+formatted_text1="\033[0;35m Script Credit By $NAMASC \033[0m"
+center_text "$formatted_text"
+center_text "$formatted_text1"
+baris_panjang
+read -n 1 -s -r -p " Press Enter for Back to Manage"
+bash /usr/bin/m-vmess
+}
+duration=6
+frames=("██10%" "█████35%" "█████████65%" "█████████████80%" "█████████████████████90%" "█████████████████████████100%")
+num_frames=${#frames[@]}
+num_iterations=$((duration))
+Loading_Animasi() {
+for ((i = 0; i < num_iterations; i++)); do
+clear
+index=$((i % num_frames))
+color_code=$((31 + i % 7))
+echo ""
+echo ""
+echo ""
+echo -e "\e[1;${color_code}m ${frames[$index]}\e[0m"
+sleep 0.5
+done
+}
+function Loading_Succes() {
+clear
+echo -e  "\033[5;32mSucces\033[0m"
+sleep 0.1
+clear
+}
+function Daftar_Account() {
+grep -E "^### " "/etc/xray/.userall.db" | cut -d ' ' -f 2-3 | column -t | sort | uniq
+}
+MYIP=$(cat /usr/bin/ipsave);
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "          List Vmess Expaired                  "
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo "USERNAME          UUID          "
+echo -e "${RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+Daftar_Account
+echo -e "${RED}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "           Masukan Usernamenya              "
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -p " Username : " user
+if [ -z $user ]; then
+exit
+else
+baris_panjang
+read -p " Expired (day)    : " masaaktif
+baris_panjang
+read -p " Limit User (GB)  : " Quota
+baris_panjang
+read -p " Limit User (IP)  : " iplimit
+baris_panjang
+echo ""
+fi
+sleep 3 & loading $!
+Loading_Succes
+clear
+uuid=$(grep -E "^###" "/etc/xray/.userall.db" |  grep -wE "${user}" | cut -d " " -f 3)
+if [ -z $uuid ]; then
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "        Recovery Account Failed!             "
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e "   Username Tidak Ditemukan      "
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back"
+else
+tgl=$(date -d "$masaaktif days" +"%d")
+bln=$(date -d "$masaaktif days" +"%b")
+thn=$(date -d "$masaaktif days" +"%Y")
+expe="$tgl $bln, $thn"
+tgl2=$(date +"%d")
+bln2=$(date +"%b")
+thn2=$(date +"%Y")
+tnggl="$tgl2 $bln2, $thn2"
+exp=`date -d "$masaaktif days" +"%Y-%m-%d"`
+sed -i '/#vmess$/a\### '"$user $exp"'\
+},{"id": "'""$uuid""'","alterId": '"0"',"email": "'""$user""'"' /etc/xray/config.json
+exp=`date -d "$masaaktif days" +"%Y-%m-%d"`
+sed -i '/#vmessgrpc$/a\### '"$user $exp"'\
+},{"id": "'""$uuid""'","alterId": '"0"',"email": "'""$user""'"' /etc/xray/config.json
+asu=`cat<<EOF
+{
+"v": "2",
+"ps": "${user}",
+"add": "${domain}",
+"port": "443",
+"id": "${uuid}",
+"aid": "0",
+"net": "ws",
+"path": "/vmess",
+"type": "none",
+"host": "${domain}",
+"tls": "tls"
+}
+EOF`
+ask=`cat<<EOF
+{
+"v": "2",
+"ps": "${user}",
+"add": "${domain}",
+"port": "80",
+"id": "${uuid}",
+"aid": "0",
+"net": "ws",
+"path": "/vmess",
+"type": "none",
+"host": "${domain}",
+"tls": "none"
+}
+EOF`
+grpc=`cat<<EOF
+{
+"v": "2",
+"ps": "${user}",
+"add": "${domain}",
+"port": "443",
+"id": "${uuid}",
+"aid": "0",
+"net": "grpc",
+"path": "vmess-grpc",
+"type": "none",
+"host": "${domain}",
+"tls": "tls"
+}
+EOF`
+vmess_base641=$( base64 -w 0 <<< $vmess_json1)
+vmess_base642=$( base64 -w 0 <<< $vmess_json2)
+vmess_base643=$( base64 -w 0 <<< $vmess_json3)
+vmesslink1="vmess://$(echo $asu | base64 -w 0)"
+vmesslink2="vmess://$(echo $ask | base64 -w 0)"
+vmesslink3="vmess://$(echo $grpc | base64 -w 0)"
+cat >/var/www/html/vmess-$user.txt <<-END
+======================
+$nama
+======================
+- name: Vmess-$user-WS TLS
+type: vmess
+server: ${domain}
+port: 443
+uuid: ${uuid}
+alterId: 0
+cipher: auto
+udp: true
+tls: true
+skip-cert-verify: true
+servername: ${domain}
+network: ws
+ws-opts:
+path: /vmess
+headers:
+Host: ${domain}
+- name: Vmess-$user-WS Non TLS
+type: vmess
+server: ${domain}
+port: 80
+uuid: ${uuid}
+alterId: 0
+cipher: auto
+udp: true
+tls: false
+skip-cert-verify: false
+servername: ${domain}
+network: ws
+ws-opts:
+path: /vmess
+headers:
+Host: ${domain}
+- name: Vmess-$user-gRPC (SNI)
+server: ${domain}
+port: 443
+type: vmess
+uuid: ${uuid}
+alterId: 0
+cipher: auto
+network: grpc
+tls: true
+servername: ${domain}
+skip-cert-verify: true
+grpc-opts:
+grpc-service-name: vmess-grpc
+======================
+Link Akun Vmess
+======================
+Link TLS         :
+${vmesslink1}
+======================
+Link none TLS    :
+${vmesslink2}
+======================
+Link GRPC        :
+${vmesslink3}
+======================
+Aktif Selama   : $masaaktif Hari
+Dibuat Pada    : $tnggl
+Berakhir Pada  : $expe
+======================
+END
+if [ ! -e /etc/vmess ]; then
+mkdir -p /etc/vmess
+fi
+if [[ $iplimit -gt 0 ]]; then
+mkdir -p /etc/kyt/limit/vmess/ip
+echo -e "$iplimit" > /etc/kyt/limit/vmess/ip/$user
+else
+echo > /dev/null
+fi
+if [ -z ${Quota} ]; then
+Quota="0"
+fi
+c=$(echo "${Quota}" | sed 's/[^0-9]*//g')
+d=$((${c} * 1024 * 1024 * 1024))
+if [[ ${c} != "0" ]]; then
+echo "${d}" >/etc/vmess/${user}
+fi
+DATADB=$(cat /etc/vmess/.vmess.db | grep "^###" | grep -w "${user}" | awk '{print $2}')
+if [[ "${DATADB}" != '' ]]; then
+sed -i "/\b${user}\b/d" /etc/vmess/.vmess.db
+echo "### ${user} ${exp} ${uuid} ${Quota} ${iplimit}" >>/etc/vmess/.vmess.db
+sed -i "/^### $user $uuid/d" /etc/xray/.userall.db
+else
+echo "### ${user} ${exp} ${uuid} ${Quota} ${iplimit}" >>/etc/vmess/.vmess.db
+sed -i "/^### $user $uuid/d" /etc/xray/.userall.db
+fi
+clear
+CHATID="$CHATID"
+KEY="$KEY"
+TIME="$TIME"
+URL="$URL"
+TEXT="<code>◇━━━━━━━━━━━━━━━━━◇</code>
+<code>      XRAY/VMESS</code>
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+<code>Remarks   : ${user}
+Domain    : ${domain}
+Limit Quota : ${Quota} GB
+Port TLS  : 400-900
+Port NTLS : 80, 8080, 8081-9999
+id        : ${uuid}
+alterId   : 0
+Security  : auto
+network   : ws or grpc
+Path      : /Multi-Path
+Dynamic   : https://bugmu.com/path
+Name      : vmess-grpc</code>
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+<code> VMESS WS TLS</code>
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+<code>${vmesslink1}</code>
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+<code>VMESS WS NO TLS</code>
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+<code>${vmesslink2}</code>
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+<code> VMESS gRPC</code>
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+<code>${vmesslink3}</code>
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+Format OpenClash : https://${domain}:81/vmess-$user.txt
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+Aktif Selama   : $masaaktif Hari
+Dibuat Pada    : $tnggl
+Berakhir Pada  : $expe
+<code>◇━━━━━━━━━━━━━━━━━◇</code>
+"
+curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
+CHATID="$CHATID"
+KEY="$KEY"
+TIME="$TIME"
+URL="$URL"
+TEXT="<code>◇━━━━━━━━━━━━━━━━━◇
+*_PEMBELIAN BERHASIL_*
+◇━━━━━━━━━━━━━━━━━◇
+-» PRODUK : VMESS
+-» REGION : $CITY
+-» REQ CONFIG :
+-» REQ NAMA : $user
+-» DEVICE : $iplimit IP
+-» HARGA :
+-» AKTIF : $masaaktif HARI
+-» TGL EXP : $expe
+◇━━━━━━━━━━━━━━━━━◇
+$nama </code>"
+curl -s --max-time $TIME -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
+fi
+clear
+function Details_Account() {
+echo -e "\033[37m"
+echo -e " VMESS XRAY "
+echo -e ""
+echo -e " Remarks       : ${user}"
+echo -e " Domain        : ${domain}"
+echo -e " User Quota    : ${Quota} GB"
+echo -e " User Ip       : ${iplimit} IP"
+echo -e " Port TLS      : 400,8443"
+echo -e " port WS       : 80,8880,8080,2082"
+echo -e " Key           : ${uuid}"
+echo -e " Localtions    : $CITY"
+echo -e " ISP           : $ISP"
+echo -e " AlterId       : 0"
+echo -e " Security      : auto"
+echo -e " Network       : ws"
+echo -e " Path          : /vmess"
+echo -e " Dynamic Path  : yourbug/vmess"
+echo -e " ServiceName   : vmess-grpc"
+echo -e "\033[0m"
+}
+function Link_Json() {
+baris_panjang
+echo -e " Link TLS      : ${vmesslink1}"
+baris_panjang
+echo -e " Link WS       : ${vmesslink2}"
+baris_panjang
+echo -e " Link GRPC     : ${vmesslink3}"
+baris_panjang
+echo -e " OpenClash     : https://${domain}:81/vmess-$user.txt"
+baris_panjang
+}
+function Details_Expiry() {
+echo -e "\033[33m Days in        : $masaaktif Day \033[0m"
+echo -e "\033[33m Expired in     : $expe \033[0m"
+baris_panjang
+}
+ARI_Banner
+Details_Account
+Link_Json
+Details_Expiry
+Sc_Credit

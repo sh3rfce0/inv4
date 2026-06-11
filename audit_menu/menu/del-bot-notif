@@ -1,4 +1,53 @@
-#!/bin/bash
-z="
-";FEz='OTIF';OBz='nt.c';mBz=' $3}';lCz='en B';bDz='F_CL';LEz=' "Yo';Hz='33[3';ZCz=' !${';tz='/'\'')';Oz='ya=$';PBz='om/a';JBz='/raw';Vz='data';JEz='e[0m';EBz='erve';PEz='isti';hCz='$ips';REz='lien';xBz='else';vCz='ermi';nEz=' " "';wCz='ssio';kCz='s be';lFz='oken';jBz=' awk';TBz='izin';AFz='ep -';lDz='ot/b';LFz='sed ';fFz='TIFI';oFz=' " I';GBz='_ip=';Yz='$(cu';rz=' Dat';YEz='Pres';tEz='cut ';yDz='[1;9';TCz=' ${R';uFz='D"';TEz='read';pz=' sed';CDz='Cont';dz=' --s';UCz='ED}P';xEz='KEY=';HBz='"htt';oz='te |';LBz='hubu';iCz='aya ';BDz='ts${';gDz='-E "';MFz='-i "';iDz='t# "';IEz='   \';MCz='OUND';AEz='7;10';wDz='━\03';VFz='bot/';yz='Y-%m';SDz='3263';VBz='"';Iz='2;1m';EDz='Admi';LDz='App$';SCz='"   ';Mz='"; }';YCz='NIED';QFz='tken';ODz='2813';pBz='[ $d';aCz='NC}"';MDz=' wa.';qEz='/.bo';fDz=' -c ';uEz='-d '\''';OCz='OSCR';FFz='c/bo';cFz='ELET';GEz='IKAS';XDz='}';rBz='list';fBz='_ip ';ACz='3[1;';Nz='ipsa';Kz='\\03';OEz='o ex';GFz='t/.b';BEz='1m  ';vBz='hen';Fz=' -e ';YFz='rm -';gBz='| gr';oCz='C}"';QCz=' \03';CEz='DELE';NDz='me/6';vDz='━━━━';aEz='Ente';cBz='(wge';EEz='OT N';iEz='ID=$';KEz=' ""';ZBz=') {';NBz='onte';Ez='echo';cCz='[0;3';cz='cure';KCz='04 N';gEz='menu';VCz='ERMI';NCz=' AUT';cEz='to b';sz='e: /';GDz='{NC}';DEz='TE B';Cz='red(';kEz='p -E';iz='ogle';MEz='u ha';wBz=' -ne';mz=' gre';jDz=' "/e';nFz='EY"';IFz=' cut';RBz='nsto';qFz='legr';xDz='" \e';bEz='r ] ';jFz=' " B';pEz='/bot';sDz='; th';gFz='KASI';Bz='r';fEz='enu"';Tz='save';uCz='ss p';QEz='ng c';JCz='   4';ICz='    ';iBz='ya |';qBz='ate_';cDz='IENT';az='v --';fCz='PS${';NEz='ve n';bBz='xp=$';uz='date';qDz='= '\''0';JDz='EN}W';dBz='t -q';uDz='36m━';KDz='hats';JFz=''\'' '\'' ';UBz='/mai';DCz='───\';DFz='# " ';Sz='n/ip';tFz='HATI';VEz='1 -s';CBz='"$da';lEz=' "^#';BCz='93m─';HDz='   $';WCz='SSIO';PDz='2739';iFz='[0m"';oEz='/etc';kz='/ 2>';RCz='""';FCz='0m"';FDz='n :$';dEz='ack ';oBz='if [';SBz='res/';ABz='-%d"';dDz='S=$(';Uz=')';XEz='-p "';mDz='ot.d';bFz='ES D';XCz='N DE';qz=''\''s/<';BBz=' -d ';aBz='usee';ZEz='s [ ';yEz='$(gr';rFz='am  ';rDz=''\'' ]]';XBz='king';HFz='b" |';eCz='ur V';mCz='anne';HCz='m   ';ez='ilen';ZDz='NUMB';gCz='NC} ';DDz='act ';KBz='.git';OFz='ot# ';wEz='f 3)';LCz='OT F';CCz='────';yBz='"\03';Wz='_ser';xz=' +"%';hEz='CHAT';kDz='tc/b';Qz=' /us';IDz='{GRE';QDz='3959';XFz='.db';uBz=']; t';YBz='_sc(';hDz='^#bo';jCz='3mHa';WBz='chec';sBz=' < $';kFz='ot T';kBz=' '\''{p';nDz='b")';pFz='D Te';PFz='$bot';WEz=' -r ';sFz=': $C';QBz='rivp';eFz='T NO';RDz='6282';Jz='${*}';nBz=''\'')';mEz='bot#';Pz='(cat';BFz='E "^';WFz='.bot';tDz='en';gz='tps:';tBz='xp ]';GCz='3[42';eDz='grep';lBz='rint';Xz='ver=';jz='.com';yCz='or s';UEz=' -n ';ADz='crip';wz='t=$(';WDz='fi';bz='inse';jEz='(gre';dFz='E BO';tCz='acce';dCz='3mYo';fz='t ht';rEz='t.db';lz='&1 |';SFz='min/';NFz='/^#b';TFz='d" /';PCz='IPT ';HEz='I   ';nz='p Da';KFz='-f 2';vEz=' '\'' -';sEz='" | ';IBz='ps:/';qCz='33[0';MBz='serc';YDz='_sc';rCz=';33m';vz='_lis';oDz='[ ${';bCz='\033';nCz='d${N';pCz='  \0';eEz='on m';ECz='033[';Rz='r/bi';xCz='ns f';eBz='O- $';Dz=') { ';CFz='#bot';UDz='0"';aFz='SUCC';EFz='"/et';sCz='Buy ';SEz='ts!"';Zz='rl -';UFz='etc/';TDz='2230';ZFz='rf /';Gz='"\\0';aDz='ER_O';RFz=' $ad';FBz='r")';hBz='ep $';VDz='exit';mFz=': $K';hFz='  \e';hz='//go';Lz='3[0m';pDz='S} =';DBz='ta_s';Az='clea';
-eval "$Az$Bz$z$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$z$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$Fz$qz$rz$sz$tz$z$uz$vz$wz$uz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$Vz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$Sz$VBz$z$WBz$XBz$YBz$ZBz$z$aBz$bBz$cBz$dBz$eBz$Vz$fBz$gBz$hBz$Nz$iBz$jBz$kBz$lBz$mBz$nBz$z$oBz$pBz$qBz$rBz$sBz$aBz$tBz$uBz$vBz$z$Ez$wBz$z$xBz$z$Ez$Fz$yBz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$ECz$FCz$z$Ez$Fz$yBz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$ICz$ICz$QCz$Lz$VBz$z$Ez$Fz$yBz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$ECz$FCz$z$Ez$Fz$RCz$z$Ez$Fz$SCz$ICz$ICz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$z$Ez$Fz$SCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$bCz$cCz$jCz$kCz$lCz$mCz$nCz$oCz$z$Ez$Fz$SCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$aCz$z$Ez$Fz$SCz$ICz$ICz$pCz$qCz$rCz$CDz$DDz$EDz$FDz$GDz$VBz$z$Ez$Fz$SCz$HDz$IDz$JDz$KDz$LDz$GDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$z$Ez$Fz$yBz$ACz$BCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$CCz$DCz$ECz$FCz$z$VDz$z$WDz$z$XDz$z$WBz$XBz$YDz$z$Az$Bz$z$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$z$oBz$oDz$ZDz$aDz$bDz$cDz$pDz$qDz$rDz$sDz$tDz$z$Ez$Fz$yBz$ACz$uDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$wDz$Lz$VBz$z$Ez$Fz$xDz$yDz$AEz$BEz$ICz$ICz$CEz$DEz$EEz$FEz$GEz$HEz$ICz$IEz$JEz$VBz$z$Ez$Fz$yBz$ACz$uDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$wDz$Lz$VBz$z$Ez$KEz$z$Ez$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$z$Ez$KEz$z$Ez$Fz$yBz$ACz$uDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$wDz$Lz$VBz$z$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$z$gEz$z$WDz$z$Az$Bz$z$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$wEz$z$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$mDz$HFz$IFz$BBz$JFz$KFz$Uz$z$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$WFz$XFz$z$YFz$ZFz$UFz$VFz$WFz$XFz$z$Az$Bz$z$Ez$Fz$yBz$ACz$uDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$wDz$Lz$VBz$z$Ez$Fz$xDz$yDz$AEz$BEz$ICz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$ICz$hFz$iFz$z$Ez$Fz$yBz$ACz$uDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$wDz$Lz$VBz$z$Ez$jFz$kFz$lFz$ICz$mFz$nFz$z$Ez$oFz$pFz$qFz$rFz$sFz$tFz$uFz$z$Ez$Fz$yBz$ACz$uDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$vDz$wDz$Lz$VBz$z$Ez$KEz$z$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$z$gEz"
+clear
+red() { echo -e "\\033[32;1m${*}\\033[0m"; }
+ipsaya=$(cat /usr/bin/ipsave)
+data_server=$(curl -v --insecure --silent https://google.com/ 2>&1 | grep Date | sed -e 's/< Date: //')
+date_list=$(date +"%Y-%m-%d" -d "$data_server")
+data_ip="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/ip"
+checking_sc() {
+useexp=$(wget -qO- $data_ip | grep $ipsaya | awk '{print $3}')
+if [[ $date_list < $useexp ]]; then
+echo -ne
+else
+echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
+echo -e "\033[42m          404 NOT FOUND AUTOSCRIPT          \033[0m"
+echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
+echo -e ""
+echo -e "            ${RED}PERMISSION DENIED !${NC}"
+echo -e "   \033[0;33mYour VPS${NC} $ipsaya \033[0;33mHas been Banned${NC}"
+echo -e "     \033[0;33mBuy access permissions for scripts${NC}"
+echo -e "             \033[0;33mContact Admin :${NC}"
+echo -e "      ${GREEN}WhatsApp${NC} wa.me/62838657191606282326322300"
+echo -e "\033[1;93m────────────────────────────────────────────\033[0m"
+exit
+fi
+}
+checking_sc
+clear
+NUMBER_OF_CLIENTS=$(grep -c -E "^#bot# " "/etc/bot/bot.db")
+if [[ ${NUMBER_OF_CLIENTS} == '0' ]]; then
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " \e[1;97;101m          DELETE BOT NOTIFIKASI          \e[0m"
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+echo "You have no existing clients!"
+echo ""
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+read -n 1 -s -r -p "Press [ Enter ] to back on menu"
+menu
+fi
+clear
+CHATID=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 3)
+KEY=$(grep -E "^#bot# " "/etc/bot/.bot.db" | cut -d ' ' -f 2)
+sed -i "/^#bot# $bottken $admin/d" /etc/bot/.bot.db
+rm -rf /etc/bot/.bot.db
+clear
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e " \e[1;97;101m      SUCCES DELETE BOT NOTIFIKASI      \e[0m"
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo " Bot Token    : $KEY"
+echo " ID Telegram  : $CHATID"
+echo -e "\033[1;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo ""
+read -n 1 -s -r -p "Press [ Enter ] to back on menu"
+menu

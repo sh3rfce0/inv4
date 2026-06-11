@@ -1,4 +1,58 @@
-#!/bin/bash
-z="
-";wCz='"   ';gEz='cek}';SCz='l sp';Hz='NC='\''';eDz=''\'' /e';aDz='body';RCz='t}';YEz='   $';vCz='SH"';AEz='k -g';uDz='er |';KDz='g=$(';FDz='P   ';mBz='tion';OCz='l le';oz='obod';Xz='clea';Yz='r';Tz='="\0';NEz=' awk';Vz=';35m';lEz='root';cDz='rint';KFz='ne"';CBz='ata1';cEz='  ${';CCz='# Se';BDz='RNAM';tBz='lor=';HCz='anja';WEz='s\n"';KBz='limi';fEz='{cek';az='h /r';GFz='$akt';pCz='ext ';Ez='"\03';Sz='ungu';HFz='if U';HDz='P ${';hz=' -F:';BCz='50  ';qDz='" | ';nBz=' cen';Nz='m'\''';IDz='NC}"';PCz='n=${';dEz='mit}';iDz='ata[';TEz='%-7s';IBz='at /';UBz=' ]];';yCz='ngu}';qz='prin';rz='t $1';rCz='}" "';JCz='aris';GBz='mit1';Az='g="\';MFz='-i "';XCz='- le';pz='y" {';xDz='[ $c';dBz='fi';Fz='3[31';oCz='er_t';sz='}'\'' /';pEz='null';eEz=' IP ';jDz='@]}"';xBz='$2"';UEz=' %-8';Pz='\e[1';FCz='deng';eCz='pace';wBz='xt="';FFz='l)';xz='for ';KEz='sh/.';bBz='else';RDz='=( `';kBz='0m"';nz='= "n';bz='oot/';QEz=''\'')';HEz='w "$';cBz=' -ne';iCz='\n" ';sBz='l co';YDz='1 !=';fBz=' -e ';sEz='g > ';bCz='${co';aCz='tf "';WCz='dth ';kCz='$tex';tEz='/dev';wDz='-l)';BEz='t 0 ';dz='tem';gz='`awk';Uz='33[0';vBz='l te';Iz='\033';Gz='m"';EFz='wc -';yBz='l wi';ADz=' USE';NFz='d" /';TDz='-F: ';XDz='&& $';ZBz=' > /';Jz='[0m'\''';PDz='k-ss';uBz='"$1"';mz='$1 !';EDz='IT I';xCz=' ${u';TCz='aces';AFz='/roo';UCz='=$((';kDz='cekc';XEz=' "  ';EBz='do';GCz='an p';kEz='>> /';dDz=' $1}';mCz='}';MDz=' /us';aBz='er';BBz='"${d';NBz='/$us';PEz=' $5}';lDz='ek=$';JFz='Onli';VEz='s %2';qCz='"${g';uCz='IN S';DFz='m | ';yEz='cat ';mDz='(ech';iBz='————';pDz='ulog';WDz='000 ';lCz='t"';jEz='ot" ';aEz='r}  ';vz='wd `';ZCz=' 2 )';iz=' '\''$3';XBz='echo';RBz='plim';jz=' >= ';gCz='s\03';nDz='o -e';tCz=' LOG';ECz='kan ';oBz='ter_';OBz='er)';NCz='nkan';ez='data';eBz='done';LCz='g di';ABz=' in ';yz='user';ICz='ng b';LFz='sed ';wEz='akti';Qz=';77m';Oz='gg='\''';kz='1000';gDz='assw';DCz='suai';hCz='3[0m';JEz='tc/s';LDz='bash';MEz='db |';bEz='    ';NDz='r/bi';WBz='n';TBz='= ""';bDz='" {p';ODz='n/ce';rBz='loca';nCz='cent';Zz='touc';fCz='s}s%';Lz='033[';Mz='1;93';DDz=' LIM';jBz='———\';REz='  %-';CFz='yste';iEz=' "sl';GEz='ep -';EEz='mit=';IFz='ser ';hBz='36m ';FBz='ipli';MBz='h/ip';hDz='d`)';wz=')';mEz='/.sy';yDz='ekce';UDz=''\''$3 ';Wz='"';qBz='() {';cz='.sys';GDz='IN I';jCz='"" "';lBz='func';LBz='t/ss';YCz='n) /';SBz='it1 ';LEz='ssh.';fDz='tc/p';lz=' && ';DBz='[@]}';qEz=' sen';BFz='t/.s';Cz=';1m"';nEz='stem';ZDz=' "no';SEz='13s ';tDz=' $us';Rz=''\''';VCz=' (wi';IEz='" /e';HBz='=$(c';xEz='f=$(';YBz=' "2"';vEz='l';ZEz='{use';Bz='e[92';oDz=' "$m';CDz='E   ';KCz=' yan';pBz='text';MCz='ingi';sDz=' -wE';gBz='3[5;';VDz='>= 1';oEz='dev/';uz='pass';hEz=' IP"';rEz='d_lo';VBz=' the';DEz='then';JBz='kyt/';uEz='/nul';QCz='#tex';ACz='dth=';Kz='y='\''\';OEz=' '\''{p';FEz='$(gr';dCz='%${s';vDz=' wc ';rDz='grep';SDz='awk ';JDz='mulo';fz='1=( ';QDz='h)';tz='etc/';cCz='lor}';QBz='[ $i';sCz='USER';CEz=']]; ';PBz='if [';Dz='RED=';
-eval "$Az$Bz$Cz$z$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$z$Kz$Lz$Mz$Nz$z$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$z$Zz$az$bz$cz$dz$z$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$z$xz$yz$ABz$BBz$CBz$DBz$Wz$z$EBz$z$FBz$GBz$HBz$IBz$tz$JBz$KBz$LBz$MBz$NBz$OBz$z$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$z$XBz$YBz$ZBz$tz$JBz$KBz$LBz$MBz$NBz$aBz$z$bBz$z$XBz$cBz$z$dBz$z$eBz$z$Xz$Yz$z$XBz$fBz$Ez$gBz$hBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$jBz$Lz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$z$rBz$sBz$tBz$uBz$z$rBz$vBz$wBz$xBz$z$rBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$z$rBz$OCz$PCz$QCz$RCz$z$rBz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$wz$z$qz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$z$mCz$z$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$vCz$z$XBz$fBz$Ez$gBz$hBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$jBz$Lz$kBz$z$XBz$fBz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$tCz$GDz$HDz$IDz$z$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$z$ez$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$z$xz$yz$ABz$BBz$iDz$jDz$z$EBz$z$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$z$PBz$xDz$yDz$AEz$BEz$CEz$DEz$z$FBz$EEz$FEz$GEz$HEz$yz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$cDz$PEz$QEz$z$qz$aCz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$FBz$dEz$eEz$bEz$YEz$fEz$gEz$hEz$z$XBz$iEz$jEz$kEz$lEz$mEz$nEz$z$bBz$z$XBz$ZBz$oEz$pEz$z$dBz$z$XBz$qEz$rEz$sEz$tEz$uEz$vEz$z$eBz$z$wEz$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$z$XBz$fBz$Ez$gBz$hBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$jBz$Lz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$z$rBz$sBz$tBz$uBz$z$rBz$vBz$wBz$xBz$z$rBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$z$rBz$OCz$PCz$QCz$RCz$z$rBz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$wz$z$qz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$z$mCz$z$nCz$oCz$pCz$qCz$rCz$GFz$HFz$IFz$JFz$KFz$z$XBz$fBz$Ez$gBz$hBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$iBz$jBz$Lz$kBz$z$LFz$MFz$NFz$lEz$mEz$nEz"
+g="\e[92;1m"
+RED="\033[31m"
+NC='\033[0m'
+y='\033[1;93m'
+gg='\e[1;77m'
+ungu="\033[0;35m"
+clear
+touch /root/.system
+data1=( `awk -F: '$3 >= 1000 && $1 != "nobody" {print $1}' /etc/passwd `)
+for user in "${data1[@]}"
+do
+iplimit1=$(cat /etc/kyt/limit/ssh/ip/$user)
+if [[ $iplimit1 = "" ]]; then
+echo "2" > /etc/kyt/limit/ssh/ip/$user
+else
+echo -ne
+fi
+done
+clear
+echo -e "\033[5;36m ———————————————————————————————————————————————\033[0m"
+function center_text() {
+local color="$1"
+local text="$2"
+local width=50  # Sesuaikan dengan panjang baris yang diinginkan
+local len=${#text}
+local spaces=$(( (width - len) / 2 ))
+printf "${color}%${spaces}s%s\033[0m\n" "" "$text"
+}
+center_text "${g}" "USER LOGIN SSH"
+echo -e "\033[5;36m ———————————————————————————————————————————————\033[0m"
+echo -e "    ${ungu} USERNAME    LIMIT IP    LOGIN IP ${NC}"
+mulog=$(bash /usr/bin/cek-ssh)
+data=( `awk -F: '$3 >= 1000 && $1 != "nobody" {print $1}' /etc/passwd`)
+for user in "${data[@]}"
+do
+cekcek=$(echo -e "$mulog" | grep -wE $user | wc -l)
+if [[ $cekcek -gt 0 ]]; then
+iplimit=$(grep -w "$user" /etc/ssh/.ssh.db | awk '{print $5}')
+printf "  %-13s %-7s %-8s %2s\n" "     ${user}        ${iplimit} IP        ${cekcek} IP"
+echo "slot" >> /root/.system
+else
+echo > /dev/null
+fi
+echo send_log > /dev/null
+done
+aktif=$(cat /root/.system | wc -l)
+echo -e "\033[5;36m ———————————————————————————————————————————————\033[0m"
+function center_text() {
+local color="$1"
+local text="$2"
+local width=50  # Sesuaikan dengan panjang baris yang diinginkan
+local len=${#text}
+local spaces=$(( (width - len) / 2 ))
+printf "${color}%${spaces}s%s\033[0m\n" "" "$text"
+}
+center_text "${g}" "$aktif User Online"
+echo -e "\033[5;36m ———————————————————————————————————————————————\033[0m"
+sed -i "d" /root/.system

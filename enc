@@ -22,7 +22,7 @@ if test $# = 0; then
   exit 1
 fi
 
-set -C
+# set -C
 tmp=gz$$
 trap "rm -f $tmp; exit 1" HUP INT QUIT TRAP USR1 PIPE TERM
 : > $tmp || exit 1

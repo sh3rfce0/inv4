@@ -1,4 +1,75 @@
-#!/bin/bash
-z="
-";aDz='S MA';dCz='ead ';HGz='ue';xCz='S."';BBz='/xra';SBz='"$DO';uDz=' Val';qGz='stt';lGz='t /e';tFz='-rel';CGz='/dev';AGz='ervi';QBz='"$(e';DFz='d +x';PCz=' '\''s/';yz=' "❌ ';YCz='([^"';ez='"$(c';hEz=') {';fEz='p_dn';qFz='emct';tEz='nstt';NCz=' sed';TDz='N}"';ICz=' htt';bCz='1/p'\''';HDz='in';pz='"';hCz='"${I';JEz=' : N';TFz=' -pu';GCz='-tim';VFz='.pub';Vz='gen_';cFz='"${R';cBz='AIN=';Xz='dns_';CBz='y/do';hz='xray';yDz=' "2)';KGz='t se';qCz='io/i';VGz=' "Ce';fFz='/ser';wz='en';YEz='enit';REz='u pr';PEz='n: T';lCz=' ]];';JDz='    ';mDz='d"';fGz='g di';JFz='serv';Ez='l';TGz='stal';ZBz='-f1)';rFz='l da';IEz='WDNS';YDz='  SE';BFz='ent"';iEz='cd /';sDz=' Typ';cEz='ih).';gBz='Gaga';eDz='el D';VDz='IP  ';EBz=' kos';FCz='-max';rz='[ -z';XFz='stem';WEz='a 1-';KEz='S"';KFz='er -';lz='ev/n';hGz='i se';XDz=' "⚠️';Az='set ';sFz='emon';Iz='://r';IDz='N}" ';KCz='/ipw';MDz=' "==';RBz='cho ';DDz='owdn';DEz='dele';mz='ull ';yFz='nt.s';JCz='ps:/';MCz='s/ |';dBz='-f2-';KDz='ns';wEz='tt-c';iCz='P}" ';EDz='s';ODz=' "✅ ';wCz='k VP';QEz='ungg';Tz='/mai';az=' {';Sz='s/v4';TBz='MAIN';gEz='stt(';dDz=' pan';VCz='[:sp';YFz='d/sy';GGz='| tr';DCz='4 -f';TEz='asi ';WCz='ace:';yEz='t "$';xFz=' ser';xDz='P}"';bz='DOMA';jGz='e:"';wFz='able';iDz='mu):';WGz='k st';rDz='S_DO';HFz='nt';QDz='IN  ';IBz='u do';lFz='(cat';pDz='e  :';dz='ATH=';VEz='sany';sEz='ls/d';eFz='}Fls';iGz='rvic';Fz='REPO';LBz='amu.';lEz=' -qO';qEz='{REP';RFz='rver';Dz='efai';pEz='r "$';bDz='NUAL';JBz=' uta';ZFz='/cli';sz=' "${';EFz='r dn';Cz=' pip';HBz=' dul';eBz=')"';ZCz=']+)"';oEz='erve';uBz='NS_D';Wz='slow';CEz='rd (';oBz='IN="';CDz='c/sl';XEz='10 m';GDz='dns/';pBz='${SU';HEz='{SLO';xEz='lien';iFz='-i "';GFz='clie';hDz='n ka';sBz='E_DO';UEz='(bia';aEz='dang';Yz='doma';MFz='key ';Uz='n/"';pGz='s)"';BGz='ce >';fCz='IP}"';OCz=' -nE';CCz='rl -';Zz='in()';jCz='== "';fz='at /';pFz='syst';nDz=' "  ';LEz='ue  ';Nz='tent';iBz='bil ';bFz='ice ';eGz=' yan';nGz='lowd';NBz=' 1';Oz='.com';YGz=':"';WBz=' cut';OFz='vkey';GBz=' Isi';xBz='s-${';PDz='DNS ';Kz='ithu';ZDz='T DN';nEz='tt-s';UDz='VPS ';MBz='exit';gFz='ver.';mEz=' dns';wBz='N="n';SDz='N   ';AFz='-cli';ABz='/etc';BEz='Reco';Bz='-euo';fDz='NS d';dEz='}';WDz=' ""';tz='ATH}';kCz='N/A"';NGz=' cli';SCz=':spa';hBz='l am';BCz='$(cu';gCz=' || ';IFz='./dn';gz='etc/';oDz=' Nam';mCz=' the';LCz='ho.i';kGz='$(ca';MGz='vice';xz='echo';fBz='AIN}';oFz='ice';BDz=' /et';vDz='ue :';gGz='paka';wDz=' ${I';PGz='DNST';yCz='mkdi';Rz='tore';FDz=' > /';qBz='B}.$';RDz='NS D';YBz='"." ';KBz='ma k';nBz='DNS_';uEz='-ser';rBz='{BAS';vFz='l en';kz='2>/d';nz='|| t';Mz='rcon';RGz='owDN';OGz='rue';dFz='EPOS';XGz='atus';kBz='dari';DGz='/nul';nCz='n';tCz='e)"';cGz='er"';OEz='tata';dGz=' "Do';tDz=' A"';AEz=' NS ';SFz='.key';aFz='ent.';bBz='_DOM';Gz='S="h';FGz='&1 |';iz='/dom';ADz='r -p';bEz=' leb';ACz='IP="';jDz=' "1)';eEz='setu';qDz=' ${N';lBz=': ${';VBz='H" |';ECz='sS -';SGz='S in';lDz='ecor';TCz='ce:]';XCz=']]*"';ZEz=', ka';kEz='wget';QFz='e se';oz='rue)';UGz='led.';UBz='_PAT';DBz='main';kDz=' A R';ZGz='l st';aCz='.*/\';MEz='{NS_';tBz='}"';sCz=' tru';XBz=' -d ';Hz='ttps';hFz='sed ';bGz='-pag';LDz='ip';vBz='OMAI';FBz='ong.';FEz='e   ';oCz='/ipi';uFz='oad';mBz='SLOW';jBz='AIN ';Lz='buse';gDz='omai';NDz='====';cDz=' (di';cz='IN_P';mGz='tc/s';PBz='SUB=';WFz='c/sy';nFz=')/g"';JGz='star';Pz='/ari';Qz='vpns';jEz='dns';aBz='BASE';QGz='T/Sl';eCz='-n1)';vz='; th';rEz='OS}F';pCz='nfo.';FFz='stt-';SEz='opag';LGz='.ser';jz='ain ';uCz='IP p';QCz='.*"i';IGz='l re';qz='if [';Jz='aw.g';OBz='fi';oGz='ns/n';UCz=']*:[';vCz='ubli';NFz='-pri';vEz='ver"';EEz='gasi';cCz=' | h';PFz='-fil';UFz='bkey';NEz=' "Ca';HCz='e 10';EGz='l 2>';jFz='s/xx';kFz='xx/$';LFz='gen-';CFz='chmo';uz='" ]]';rCz='p ||';mFz='s/ns';aGz='--no';RCz='p"[[';GEz=' : $';yBz='IN}"';
-eval "$Az$Bz$Cz$Dz$Ez$z$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$z$Vz$Wz$Xz$Yz$Zz$az$z$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$sz$bz$cz$tz$uz$vz$wz$z$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$DBz$JBz$KBz$LBz$pz$z$MBz$NBz$z$OBz$z$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$pz$z$aBz$bBz$cBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$dBz$eBz$z$qz$rz$sz$aBz$bBz$fBz$uz$vz$wz$z$xz$yz$gBz$hBz$iBz$aBz$bBz$jBz$kBz$lBz$bz$cz$tz$pz$z$MBz$NBz$z$OBz$z$mBz$nBz$bz$oBz$pBz$qBz$rBz$sBz$TBz$tBz$z$uBz$vBz$wBz$xBz$mBz$nBz$bz$yBz$z$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$pz$z$qz$rz$sz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$z$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$oCz$pCz$qCz$rCz$sCz$tCz$z$OBz$z$qz$rz$sz$fCz$lCz$mCz$nCz$z$xz$yz$gBz$hBz$iBz$uCz$vCz$wCz$xCz$z$MBz$NBz$z$OBz$z$yCz$ADz$BDz$CDz$DDz$EDz$z$xz$sz$mBz$nBz$bz$yBz$FDz$gz$Wz$GDz$Yz$HDz$z$xz$sz$uBz$vBz$IDz$JDz$FDz$gz$Wz$GDz$KDz$z$xz$sz$fCz$JDz$JDz$JDz$FDz$gz$Wz$GDz$LDz$z$xz$MDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$pz$z$xz$ODz$mBz$PDz$bz$QDz$lBz$mBz$nBz$bz$yBz$z$xz$ODz$RDz$vBz$SDz$JDz$lBz$uBz$vBz$TDz$z$xz$ODz$UDz$VDz$JDz$JDz$lBz$fCz$z$xz$MDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$pz$z$xz$WDz$z$xz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$pz$z$xz$WDz$z$xz$jDz$kDz$lDz$mDz$z$xz$nDz$oDz$pDz$qDz$rDz$TBz$tBz$z$xz$nDz$sDz$pDz$tDz$z$xz$nDz$uDz$vDz$wDz$xDz$z$xz$WDz$z$xz$yDz$AEz$BEz$CEz$DEz$EEz$eBz$z$xz$nDz$oDz$FEz$GEz$HEz$IEz$bBz$fBz$pz$z$xz$nDz$sDz$FEz$JEz$KEz$z$xz$nDz$uDz$LEz$GEz$MEz$bz$yBz$z$xz$WDz$z$xz$NEz$OEz$PEz$QEz$REz$SEz$TEz$PDz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$pz$z$xz$MDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$NDz$pz$z$xz$WDz$z$dEz$z$eEz$fEz$gEz$hEz$z$yCz$ADz$BDz$CDz$DDz$EDz$z$iEz$gz$Wz$jEz$z$kEz$lEz$mEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$vEz$z$kEz$lEz$mEz$wEz$xEz$yEz$qEz$rEz$sEz$tEz$AFz$BFz$z$CFz$DFz$mEz$nEz$oEz$EFz$FFz$GFz$HFz$z$IFz$FFz$JFz$KFz$LFz$MFz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$PFz$QFz$RFz$VFz$z$kEz$lEz$BDz$WFz$XFz$YFz$XFz$ZFz$aFz$JFz$bFz$cFz$dFz$eFz$ZFz$BFz$z$kEz$lEz$BDz$WFz$XFz$YFz$XFz$fFz$gFz$JFz$bFz$cFz$dFz$eFz$fFz$vEz$z$hFz$iFz$jFz$kFz$lFz$BDz$CDz$DDz$mFz$nFz$BDz$WFz$XFz$YFz$XFz$ZFz$aFz$JFz$oFz$z$hFz$iFz$jFz$kFz$lFz$BDz$CDz$DDz$mFz$nFz$BDz$WFz$XFz$YFz$XFz$fFz$gFz$JFz$oFz$z$pFz$qFz$rFz$sFz$tFz$uFz$z$pFz$qFz$vFz$wFz$xFz$gFz$JFz$bFz$GFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$z$pFz$qFz$IGz$JGz$KGz$RFz$LGz$MGz$NGz$aFz$JFz$bFz$nz$OGz$z$xz$WDz$z$xz$ODz$PGz$QGz$RGz$SGz$TGz$UGz$pz$z$xz$VGz$WGz$XGz$YGz$z$xz$nDz$pFz$qFz$ZGz$XGz$xFz$gFz$JFz$bFz$aGz$bGz$cGz$z$xz$nDz$pFz$qFz$ZGz$XGz$NGz$aFz$JFz$bFz$aGz$bGz$cGz$z$xz$WDz$z$xz$dGz$DBz$eGz$fGz$gGz$hGz$iGz$jGz$z$xz$nDz$kGz$lGz$mGz$nGz$oGz$pGz$z$dEz$z$Vz$Wz$Xz$Yz$HDz$z$eEz$fEz$qGz"
+set -euo pipefail
+REPOS="$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/"
+gen_slowdns_domain() {
+DOMAIN_PATH="$(cat /etc/xray/domain 2>/dev/null || true)"
+if [[ -z "${DOMAIN_PATH}" ]]; then
+echo "❌ /etc/xray/domain kosong. Isi dulu domain utama kamu."
+exit 1
+fi
+SUB="$(echo "$DOMAIN_PATH" | cut -d "." -f1)"
+BASE_DOMAIN="$(echo "$DOMAIN_PATH" | cut -d "." -f2-)"
+if [[ -z "${BASE_DOMAIN}" ]]; then
+echo "❌ Gagal ambil BASE_DOMAIN dari: ${DOMAIN_PATH}"
+exit 1
+fi
+SLOWDNS_DOMAIN="${SUB}.${BASE_DOMAIN}"
+NS_DOMAIN="ns-${SLOWDNS_DOMAIN}"
+IP="$(curl -4 -fsS --max-time 10 https://ipwho.is/ | sed -nE 's/.*"ip"[[:space:]]*:[[:space:]]*"([^"]+)".*/\1/p' | head -n1)"
+if [[ -z "${IP}" || "${IP}" == "N/A" ]]; then
+IP="$(curl -4 -fsS --max-time 10 https://ipinfo.io/ip || true)"
+fi
+if [[ -z "${IP}" ]]; then
+echo "❌ Gagal ambil IP publik VPS."
+exit 1
+fi
+mkdir -p /etc/slowdns
+echo "${SLOWDNS_DOMAIN}" > /etc/slowdns/domain
+echo "${NS_DOMAIN}"      > /etc/slowdns/ns
+echo "${IP}"             > /etc/slowdns/ip
+echo "=============================================="
+echo "✅ SLOWDNS DOMAIN  : ${SLOWDNS_DOMAIN}"
+echo "✅ NS DOMAIN       : ${NS_DOMAIN}"
+echo "✅ VPS IP          : ${IP}"
+echo "=============================================="
+echo ""
+echo "⚠️  SET DNS MANUAL (di panel DNS domain kamu):"
+echo ""
+echo "1) A Record"
+echo "   Name  : ${NS_DOMAIN}"
+echo "   Type  : A"
+echo "   Value : ${IP}"
+echo ""
+echo "2) NS Record (delegasi)"
+echo "   Name    : ${SLOWDNS_DOMAIN}"
+echo "   Type    : NS"
+echo "   Value   : ${NS_DOMAIN}"
+echo ""
+echo "Catatan: Tunggu propagasi DNS (biasanya 1-10 menit, kadang lebih)."
+echo "=============================================="
+echo ""
+}
+setup_dnstt() {
+mkdir -p /etc/slowdns
+cd /etc/slowdns
+wget -qO dnstt-server "${REPOS}Fls/dnstt-server"
+wget -qO dnstt-client "${REPOS}Fls/dnstt-client"
+chmod +x dnstt-server dnstt-client
+./dnstt-server -gen-key -privkey-file server.key -pubkey-file server.pub
+wget -qO /etc/systemd/system/client.service "${REPOS}Fls/client"
+wget -qO /etc/systemd/system/server.service "${REPOS}Fls/server"
+sed -i "s/xxxx/$(cat /etc/slowdns/ns)/g" /etc/systemd/system/client.service
+sed -i "s/xxxx/$(cat /etc/slowdns/ns)/g" /etc/systemd/system/server.service
+systemctl daemon-reload
+systemctl enable server.service client.service >/dev/null 2>&1 || true
+systemctl restart server.service client.service || true
+echo ""
+echo "✅ DNSTT/SlowDNS installed."
+echo "Cek status:"
+echo "  systemctl status server.service --no-pager"
+echo "  systemctl status client.service --no-pager"
+echo ""
+echo "Domain yang dipakai service:"
+echo "  $(cat /etc/slowdns/ns)"
+}
+gen_slowdns_domain
+setup_dnstt

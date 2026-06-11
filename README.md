@@ -1,14 +1,10 @@
-# SherifSCTUNNEL V4
+# Sherif VPN SiCepat V4
 
-**Final Script Tunneling by Sherif VPN Premium**
-
-<p align="center">
-  <img src="ss.png" width="420">
-</p>
+**Final Script Tunneling by Sherif VPN SiCepat**
 
 ## Description
 
-SherifSCTUNNEL V4 is a comprehensive tunneling script designed for setting up and managing VPN services, SSL certificates, UDP configurations, and backups. This script provides tools for various tunneling protocols including OpenVPN, Xray, Shadowsocks, Trojan, VLESS, VMess, and more.
+Sherif VPN SiCepat V4 is a comprehensive tunneling script designed for setting up and managing VPN services, SSL certificates, UDP configurations, and backups. This script provides tools for various tunneling protocols including OpenVPN, Xray, Shadowsocks, Trojan, VLESS, VMess, and more.
 
 ## Features
 
@@ -17,9 +13,8 @@ SherifSCTUNNEL V4 is a comprehensive tunneling script designed for setting up an
 - **Backup and Restore**: Universal backup and restore functionality for configurations.
 - **VPN Services**: Support for multiple VPN protocols:
   - OpenVPN
-  - Xray (VLESS, VMess)
+  - Xray (VLESS, VMess, Trojan)
   - Shadowsocks
-  - Trojan
   - WebSocket (WS)
   - DNS over HTTPS (DoH)
   - SlowDNS
@@ -30,37 +25,40 @@ SherifSCTUNNEL V4 is a comprehensive tunneling script designed for setting up an
 
 ## Installation
 
-### Costum Os UBUNTU 20.04
+### Custom OS UBUNTU 20.04
 ```bash
 apt update -y && wget https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh -O reinstall && chmod +x reinstall && bash reinstall ubuntu 20.04 && reboot
 ```
 
-### Install Script
+### Install Script (Self-Hosted)
+Ganti `<IP-SERVER-LISENSI>` dengan IP Server Lisensi Anda (port `7888`):
 ```bash
-apt update -y && apt install screen curl wget python3-pip -y && wget -q https://raw.githubusercontent.com/sh3rfce0/inv4/main/Vpn/xray.zip -O /tmp/install && chmod +x /tmp/install && screen -S Sherif /tmp/install
+apt update -y && apt install screen curl wget -y && wget -q http://<IP-SERVER-LISENSI>:7888/install -O /tmp/install && chmod +x /tmp/install && bash /tmp/install
 ```
 
 ### Update Script
 ```bash
-rm -rf /usr/bin/menu_version && rm -rf update.sh && wget -O update.sh https://raw.githubusercontent.com/sh3rfce0/inv4/main/update.sh && chmod +x update.sh && ./update.sh
+wget -O update.sh http://<IP-SERVER-LISENSI>:7888/update && chmod +x update.sh && ./update.sh
 ```
+
 ### Fix Izin
 ```bash
-wget https://raw.githubusercontent.com/sh3rfce0/inv4/main/fix-izin.sh && chmod +x fix-izin.sh && ./fix-izin.sh        
+wget -O fix-izin.sh http://<IP-SERVER-LISENSI>:7888/fix-izin && chmod +x fix-izin.sh && ./fix-izin.sh        
 ```
+
 ### Fix SSL Certificate Universal
 ```bash
-wget -O fix-add-ssl.sh https://raw.githubusercontent.com/sh3rfce0/inv4/main/fix-add-ssl.sh && chmod +x fix-add-ssl.sh && ./fix-add-ssl.sh
+wget -O fix-add-ssl.sh http://<IP-SERVER-LISENSI>:7888/scripts/fix-add-ssl.sh && chmod +x fix-add-ssl.sh && ./fix-add-ssl.sh
 ```
 
 ### Fix UDP
 ```bash
-wget -O udp.sh https://raw.githubusercontent.com/sh3rfce0/inv4/main/udp.sh && chmod +x udp.sh && ./udp.sh
+wget -O udp.sh http://<IP-SERVER-LISENSI>:7888/scripts/udp.sh && chmod +x udp.sh && ./udp.sh
 ```
 
 ### Backup Universal
 ```bash
-wget -O restore-universal.sh https://raw.githubusercontent.com/sh3rfce0/inv4/main/Cdy/restore-universal.sh && chmod +x restore-universal.sh && ./restore-universal.sh
+wget -O restore-universal.sh http://<IP-SERVER-LISENSI>:7888/scripts/Cdy/restore-universal.sh && chmod +x restore-universal.sh && ./restore-universal.sh
 ```
 
 ## Supported Services
@@ -87,34 +85,6 @@ wget -O restore-universal.sh https://raw.githubusercontent.com/sh3rfce0/inv4/mai
 
 Violations may result in service termination.
 
-## Premium Order
-
-For premium features and support, contact:
-
-**TELE : t.me/sh3rfce0**
-
-## Directory Structure
-
-- `Bot/`: Bot scripts and automation tools
-- `Cdy/`: Backup and restore utilities
-- `Cfg/`: Configuration files for various services
-- `Fls/`: Executable files and services
-- `Vpn/`: VPN-related files and archives
-
-## Contributing
-
-Contributions are welcome. Please ensure compliance with the terms of service.
-
-## License
-
-This project is proprietary. Contact the author for licensing information.
-
 ---
 
-**Sherif VPN Premium - SherifSCTUNNEL V4**
-
-
-
-
-
-# inv4
+**Sherif VPN SiCepat V4**

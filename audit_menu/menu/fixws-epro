@@ -1,4 +1,11 @@
-#!/bin/bash
-z="
-";sz='nf" ';Oz='rivp';dBz='/ws.';oBz='onf';Zz='/tun';cz='ttps';Dz='/bin';Bz=' -O ';gz='buse';gBz=' /us';Gz='ps:/';vz='temd';uBz='l st';oz='/mai';uz='/sys';DBz='raw.';Fz='"htt';Az='wget';PBz='ls/w';Hz='/raw';wz='tem/';ZBz=' /et';Tz='Fls/';kz='/ari';yBz='able';jz='.com';fz='ithu';BCz='art ';XBz='chmo';vBz='op w';YBz='d +x';rz='n.co';Wz='v/nu';kBz='4 /u';DCz='l re';tBz='e ws';yz='ervi';xBz='l en';fBz='ice';mz='tore';MBz='es/v';Rz='v4/m';ECz='star';az='.con';Yz='>&1';bz='f "h';aBz='c/sy';Mz='nt.c';hBz='r/bi';RBz='rvic';HBz='nten';FCz='t ws';dz='://r';ACz=' ws';GBz='erco';UBz='/nul';BBz='http';rBz='l di';jBz='d 64';IBz='t.co';VBz='l 2>';EBz='gith';KBz='ivpn';qz='g/tu';qBz='emct';SBz='e" >';TBz='/dev';FBz='ubus';Lz='onte';xz='ws.s';Iz='.git';tz='/etc';pBz='syst';bBz='stem';eBz='serv';Uz='ws" ';ez='aw.g';QBz='s.se';nBz='un.c';pz='n/Cf';iz='tent';Qz='res/';nz='s/v4';cBz='d/sy';Kz='serc';LBz='stor';NBz='4/ma';Pz='nsto';iBz='n/ws';Nz='om/a';Ez='/ws ';Sz='ain/';CCz='ws';CBz='s://';mBz='in/t';Jz='hubu';Cz='/usr';Vz='>/de';hz='rcon';wBz='s';WBz='&1';Xz='ll 2';lz='vpns';JBz='m/ar';lBz='sr/b';OBz='in/F';ABz='ce "';sBz='sabl';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$z$Az$Bz$Cz$Dz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$Vz$Wz$Xz$Yz$z$Az$Bz$tz$uz$vz$uz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$z$XBz$YBz$ZBz$aBz$bBz$cBz$bBz$dBz$eBz$fBz$z$XBz$YBz$gBz$hBz$iBz$z$XBz$jBz$kBz$lBz$mBz$nBz$oBz$z$pBz$qBz$rBz$sBz$tBz$z$pBz$qBz$uBz$vBz$wBz$z$pBz$qBz$xBz$yBz$ACz$z$pBz$qBz$uBz$BCz$CCz$z$pBz$qBz$DCz$ECz$FCz"
+wget -O /usr/bin/ws "$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Fls/ws" >/dev/null 2>&1
+wget -O /usr/bin/tun.conf "$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Cfg/tun.conf" >/dev/null 2>&1
+wget -O /etc/systemd/system/ws.service "$(cat /etc/xray/license_server 2>/dev/null || echo "http://64.235.61.22:7888")/scripts/Fls/ws.service" >/dev/null 2>&1
+chmod +x /etc/systemd/system/ws.service
+chmod +x /usr/bin/ws
+chmod 644 /usr/bin/tun.conf
+systemctl disable ws
+systemctl stop ws
+systemctl enable ws
+systemctl start ws
+systemctl restart ws

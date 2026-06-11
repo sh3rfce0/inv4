@@ -1,4 +1,179 @@
-#!/bin/bash
-z="
-";OCz='n Ak';iBz='m•3\';IEz='GGI ';MCz='engg';Tz='GREE';QDz='bw';ZCz=' TO ';Iz=' "Ch';WCz='] \e';ECz='an A';REz='hg';jBz='p Ja';SCz=' [5s';XBz='sa"';aCz='MENU';Kz='ng V';NEz='RPAK';nCz='case';OEz='AI S';IDz='-p "';CCz='tik ';cDz='BAND';FBz='DWIT';yDz='6)';mCz='t';QEz='M • ';qDz='AP H';cEz='o-Ex';IBz='R • ';qEz='slee';kz='CYAN';NDz=' bac';hDz='•   ';fBz='p 5 ';bz='3m'\''';Pz='31m'\''';KCz='Traf';aBz='bel ';GDz='1 -s';ZDz='3)';WBz='ersi';dDz='WITH';HEz='RTIN';lCz='" op';xEz='an Y';jEz='IK P';mBz='ri"';yBz='m•8\';NBz='e[36';Oz='3[0;';YEz='  " ';DEz='7)';wEz='"Tek';FCz='ktif';MDz='y to';Jz='ecki';Sz='[0m'\''';ICz='i"';xBz='"';kDz='m  •';Wz='0;32';oBz='p Bu';Qz='NC='\''';pDz='SETI';Fz='ipsa';jDz='4)';ZBz='] Ta';YBz='m•2\';sDz='d';CBz='m   ';UEz='LIVE';uCz='L BA';DFz='k"';oCz=' $op';EEz=' • T';Uz='N='\''\';BBz='0;33';JEz='8)';uDz='AP B';FEz='OTAL';Hz='echo';gDz='JAM ';GCz=' Saa';WEz='AT I';xDz='m';mDz='AL B';WDz='T • ';OBz='m•1\';jz='5m'\''';kEz='ENGG';ZEz='s [ ';QCz='Saat';MEz='K TE';fz=';34m';xCz='ERVE';EDz='at';dEz='it"';nz='T='\''\';XCz='[31m';ez='33[0';fEz='10)';eBz='etia';lBz='p Ha';PDz='u"';rBz='p Ta';kBz='m•4\';QBz='] Li';AEz='AP T';sBz='hun"';tDz='5)';LBz='""';iEz='TRAF';LCz='ik P';LDz='y ke';Vz='033[';XEz='NI •';CEz='y';bDz='TAL ';ADz='RSIS';EFz='esac';Cz='at /';nDz='ANDW';EBz=' BAN';gCz=' -p ';eEz='l';jCz=' men';uBz='an T';lz=';36m';mz='LIGH';JBz='    ';gBz='Meni';FDz=' -n ';AFz='Bene';bBz='Peng';wBz='nggi';xz='m"';RCz=' Ini';tCz='TOTA';MBz='" [\';iCz='lect';BFz='r Go';HDz=' -r ';dBz='an S';Yz='ORAN';KEz='STAT';UDz='P 5 ';Nz=''\''\03';RBz='hat ';CFz='blgo';KDz='s an';GBz='H MO';UCz='e[31';HCz='t In';eDz=' SET';LEz='ISTI';JDz='Pres';TCz=']"';gEz='m• L';SEz='9)';PCz='tif ';HBz='NITO';lDz=' TOT';gz=''\''';iz='LE='\''';tEz='x)';VBz='th T';DDz='vnst';qCz='1)';sEz='menu';pBz='lan"';NCz='unaa';uEz='exit';VEz='H SA';dz='='\''\0';sCz='m • ';Lz='PS"';nBz='m•5\';yCz='R TE';pEz='0)';KBz='\E[0';wCz='TH S';bEz='+C ]';vBz='erti';iDz='h';lEz='UNAA';TDz='ETIA';hCz='" Se';cz='BLUE';Zz='GE='\''';rDz='ARI ';vCz='NDWI';wz='━━\0';RDz=';;';CDz='\e[0';eCz='luar';Rz='\033';rCz='"\e[';aDz='• TO';vDz='ULAN';kCz='u : ';qBz='m•6\';ODz='k on';YCz='BACK';rEz='p 1';nEz='TH •';BCz='atis';TBz='l Ba';Dz='usr/';tBz='m•7\';ABz='0;10';ACz='] St';DCz='m•9\';az='[0;3';dCz='] Ke';mEz='N BA';rz=' -e ';hz='PURP';Xz='m'\''';Gz='ve);';pz='clea';YDz='5';vEz='*)';hBz='t"';tz='3[5;';UBz='ndwi';cCz='m•x\';fCz='read';Ez='bin/';aEz='Ctrl';JCz='m10\';XDz='at -';hEz='IVE ';TEz='  • ';oEz='tr';BEz='AHUN';yEz='ang ';wDz=' •  ';oz='0;37';yz='"\E[';PEz='P JA';qz='r';VDz='MENI';SDz='2)';Az='MYIP';pCz='t in';GEz='H TE';DBz='   •';uz='36m━';BDz='A • ';VCz='m•0\';SBz='Tota';bCz='[0m"';cBz='guna';oDz='ITH ';PBz='e[0m';fDz='IAP ';Bz='=$(c';Mz='RED=';sz='"\03';vz='━━━━';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$z$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Oz$Pz$z$Qz$Rz$Sz$z$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$Rz$az$bz$z$cz$dz$ez$fz$gz$z$hz$iz$Rz$az$jz$z$kz$dz$ez$lz$gz$z$mz$nz$Vz$oz$Xz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$JBz$KBz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$Hz$rz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$z$Hz$rz$MBz$NBz$YBz$PBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$z$Hz$rz$MBz$NBz$iBz$PBz$ZBz$aBz$bBz$cBz$dBz$eBz$jBz$xz$z$Hz$rz$MBz$NBz$kBz$PBz$ZBz$aBz$bBz$cBz$dBz$eBz$lBz$mBz$z$Hz$rz$MBz$NBz$nBz$PBz$ZBz$aBz$bBz$cBz$dBz$eBz$oBz$pBz$z$Hz$rz$MBz$NBz$qBz$PBz$ZBz$aBz$bBz$cBz$dBz$eBz$rBz$sBz$z$Hz$rz$MBz$NBz$tBz$PBz$ZBz$aBz$bBz$cBz$uBz$vBz$wBz$xBz$z$Hz$rz$MBz$NBz$yBz$PBz$ACz$BCz$CCz$bBz$cBz$dBz$eBz$jBz$xz$z$Hz$rz$MBz$NBz$DCz$PBz$QBz$RBz$bBz$cBz$ECz$FCz$GCz$HCz$ICz$z$Hz$rz$MBz$NBz$JCz$PBz$QBz$RBz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$z$Hz$rz$LBz$z$Hz$rz$MBz$UCz$VCz$PBz$WCz$XCz$YCz$ZCz$aCz$Rz$bCz$z$Hz$rz$MBz$UCz$cCz$PBz$dCz$eCz$xBz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$z$Hz$rz$LBz$z$nCz$oCz$pCz$z$qCz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$DDz$EDz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$SDz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$sCz$tCz$uCz$vCz$wCz$TDz$UDz$VDz$WDz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$DDz$XDz$YDz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$ZDz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$CBz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$DDz$XDz$iDz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$jDz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$kDz$lDz$mDz$nDz$oDz$pDz$qDz$rDz$hDz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$DDz$XDz$sDz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$tDz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$kDz$lDz$mDz$nDz$oDz$pDz$uDz$vDz$wDz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$DDz$XDz$xDz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$yDz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$kDz$lDz$mDz$nDz$oDz$pDz$AEz$BEz$wDz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$DDz$XDz$CEz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$DEz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$CBz$EEz$FEz$EBz$FBz$GEz$HEz$IEz$hDz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$DDz$XDz$mCz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$JEz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$sCz$KEz$LEz$MEz$NEz$OEz$TDz$PEz$QEz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$DDz$XDz$REz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$SEz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$CBz$TEz$UEz$EBz$FBz$VEz$WEz$XEz$JBz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$YEz$JDz$ZEz$aEz$bEz$EEz$cEz$dEz$z$Hz$rz$LBz$z$DDz$XDz$eEz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$fEz$z$pz$qz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$rCz$ABz$BBz$gEz$hEz$iEz$jEz$kEz$lEz$mEz$vCz$nEz$CDz$xz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$DDz$XDz$oEz$z$Hz$rz$LBz$z$Hz$rz$sz$tz$uz$vz$vz$vz$vz$vz$vz$vz$vz$wz$ez$xz$z$Hz$rz$LBz$z$fCz$FDz$GDz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$jCz$PDz$z$QDz$z$RDz$z$pEz$z$qEz$rEz$z$sEz$z$RDz$z$tEz$z$uEz$z$RDz$z$vEz$z$Hz$rz$LBz$z$Hz$rz$wEz$xEz$yEz$AFz$BFz$CFz$DFz$z$qEz$rEz$z$QDz$z$RDz$z$EFz"
+MYIP=$(cat /usr/bin/ipsave);
+echo "Checking VPS"
+RED='\033[0;31m'
+NC='\033[0m'
+GREEN='\033[0;32m'
+ORANGE='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+LIGHT='\033[0;37m'
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\E[0;100;33m      • BANDWITH MONITOR •         \E[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+echo -e " [\e[36m•1\e[0m] Lihat Total Bandwith Tersisa"
+echo -e " [\e[36m•2\e[0m] Tabel Penggunaan Setiap 5 Menit"
+echo -e " [\e[36m•3\e[0m] Tabel Penggunaan Setiap Jam"
+echo -e " [\e[36m•4\e[0m] Tabel Penggunaan Setiap Hari"
+echo -e " [\e[36m•5\e[0m] Tabel Penggunaan Setiap Bulan"
+echo -e " [\e[36m•6\e[0m] Tabel Penggunaan Setiap Tahun"
+echo -e " [\e[36m•7\e[0m] Tabel Penggunaan Tertinggi"
+echo -e " [\e[36m•8\e[0m] Statistik Penggunaan Setiap Jam"
+echo -e " [\e[36m•9\e[0m] Lihat Penggunaan Aktif Saat Ini"
+echo -e " [\e[36m10\e[0m] Lihat Trafik Penggunaan Aktif Saat Ini [5s]"
+echo -e ""
+echo -e " [\e[31m•0\e[0m] \e[31mBACK TO MENU\033[0m"
+echo -e " [\e[31m•x\e[0m] Keluar"
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -p " Select menu : " opt
+echo -e ""
+case $opt in
+1)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m • TOTAL BANDWITH SERVER TERSISA • \e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+vnstat
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+2)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m • TOTAL BANDWITH SETIAP 5 MENIT • \e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+vnstat -5
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+3)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m   • TOTAL BANDWITH SETIAP JAM •   \e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+vnstat -h
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+4)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m  • TOTAL BANDWITH SETIAP HARI •   \e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+vnstat -d
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+5)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m  • TOTAL BANDWITH SETIAP BULAN •  \e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+vnstat -m
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+6)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m  • TOTAL BANDWITH SETIAP TAHUN •  \e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+vnstat -y
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+7)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m    • TOTAL BANDWITH TERTINGGI •   \e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+vnstat -t
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+8)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m • STATISTIK TERPAKAI SETIAP JAM • \e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+vnstat -hg
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+9)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m     • LIVE BANDWITH SAAT INI •    \e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e   " Press [ Ctrl+C ] • To-Exit"
+echo -e ""
+vnstat -l
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+10)
+clear
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e "\e[0;100;33m• LIVE TRAFIK PENGGUNAAN BANDWITH •\e[0m"
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+vnstat -tr
+echo -e ""
+echo -e "\033[5;36m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
+echo -e ""
+read -n 1 -s -r -p "Press any key to back on menu"
+bw
+;;
+0)
+sleep 1
+menu
+;;
+x)
+exit
+;;
+*)
+echo -e ""
+echo -e "Tekan Yang Bener Goblgok"
+sleep 1
+bw
+;;
+esac
